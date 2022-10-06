@@ -1984,6 +1984,74 @@ CTV Banten,http://103.23.201.170:1935/live/livestream/playlist.m3u8
 Radio 51 TV,http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 ADiTV,http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 RRI Net,http://36.89.47.217:11935/rrinet/live/index.m3u8
+印度,#genre#
+3 Tamil TV (720p) [Not 24/7],https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+9XM (480p),https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+Aaj Tak (360p) [Geo-blocked],https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+Aathavan TV (720p) [Not 24/7],http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+ABP News (720p),https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+Artist Aloud (1080p) [Not 24/7],https://live.hungama.com/linear/artist-aloud/playlist.m3u8
+Ashrafi Channel (484p) [Not 24/7],http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
+Asianet News (720p) [Not 24/7],https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+Ayush TV (360p) [Not 24/7],https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+B4U Kadak (480p),https://pull-3187.5centscdn.com/vizjsj1apjkea3/smil:B4U_Kadak.smil/playlist.m3u8
+Boogle Bollywood (1080p) [Not 24/7],http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+Channel Y (720p) [Not 24/7],http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+Dhamaal (1080p) [Not 24/7],https://live.hungama.com/linear/dhamaal/playlist.m3u8
+Dighvijay (240p) [Not 24/7],https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
+Dil Se (360p) [Not 24/7],https://live.hungama.com/linear/dil-se/playlist.m3u8
+DocuBay TV (1080p) [Not 24/7],https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8
+Dreamz TV (576p) [Not 24/7],http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR
+GDNS Ludhiana (1080p) [Not 24/7],http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
+Global Punjab (720p) [Not 24/7],https://media.streambrothers.com:1936/8522/8522/playlist.m3u8
+GSTV (720p) [Not 24/7],https://1-213-10546-44.b.cdn13.com/388656798579293628302251.m3u8
+Hulchul TV (720p) [Not 24/7],http://cdn12.henico.net:8080/live/jbani/index.m3u8
+India Today (720p) [Not 24/7],https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+Janam TV (720p),https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8
+Kadak Hits (1080p) [Not 24/7],https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+Kappa TV (360p),https://idvd.multitvsolution.com/idvo/kappatv.m3u8
+KCV (576p) [Not 24/7],http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR
+KCV Movies (576p) [Not 24/7],http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR
+Khabrain Abhi Tak (480p) [Not 24/7],https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8
+Malabar News (720p) [Not 24/7],http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
+Namdhari (404p) [Not 24/7],https://namdhari.tv/live/sbs1.m3u8
+Nazrana (720p) [Not 24/7],https://live.hungama.com/linear/nazrana/playlist.m3u8
+NCV (720p) [Not 24/7],http://131.153.22.8:1935/NCV/ncvstream/playlist.m3u8
+NDTV India (480p) [Not 24/7],https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+NDTV Profit (480p),https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8
+Next TV Malabar (720p) [Not 24/7],https://6zklxbgpdw9b-hls-live.5centscdn.com/next/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8
+One TV (720p),http://137.59.86.218:1935/live/onetv/playlist.m3u8
+Pop Pataka (480p) [Not 24/7],https://live.hungama.com/linear/pop-pataka/playlist.m3u8
+Pratidin Time (360p) [Not 24/7],https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
+Pulari TV (720p) [Not 24/7],https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
+Punjabi Zindabad (360p) [Not 24/7],http://stream.pztv.online/pztv/playlist.m3u8
+Real News Kerala (1080p) [Not 24/7],https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+Real TV (720p) [Not 24/7],http://cloud.logicwebs.in:1935/realtv/realtv1/playlist.m3u8
+Safari TV (480p) [Not 24/7],https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+Sana Plus (720p) [Not 24/7],http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
+Sana TV (576p) [Not 24/7],http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+Shubhsandesh (720p) [Not 24/7],https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+Sri Sankara (360p) [Not 24/7],https://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/playlist.m3u8
+#EXTVLCOPT:http-user-agent=stream,http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8
+Steelbird Music (720p) [Not 24/7],http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+SVBC Sri Venkateswara Bhakti Channel (1080p),https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
+Swantham (720p) [Not 24/7],http://131.153.22.8:1935/SWANTHAM/live/playlist.m3u8
+Time Vision News (720p) [Not 24/7],http://cloud.logicwebs.in:1935/timevision/timevision/playlist.m3u8
+TV9 Kannada (720p) [Not 24/7],https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
+Utsav Gold (720p) [Geo-blocked],http://208.115.215.42/Utsav_Gold_HD/index.m3u8
+Velicham (360p) [Not 24/7],https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+Wion (576p),http://210.210.155.37/uq2663/h/h91/index.m3u8
+Desi Plus (720p),http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+FASTWAY NEWS (720p) [Not 24/7],http://163.47.214.155:1935/fwnews/live/playlist.m3u8
+Indywood TV,https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
+Keralabhumi,http://103.153.92.157:11037/hls/kbh.m3u8
+KITE Victers (Kerala) (720p) [Not 24/7],https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
+Nav Media,https://gvjyg2n9doem-hls-live.5centscdn.com/navmediastream/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+NDTV 24X7 (480p) [Not 24/7],https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+Sada TV (1080p) [Not 24/7],http://cdn12.henico.net:8080/live/sadatv/index.m3u8
+Zainabia Channel,https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
+Zee News Malayalam,https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8
+
 
 德国,#genre#
 ARTI TV,https://5856e1a25f71a.streamlock.net/easycast7-live/mp4:livestreamhd20/playlist.m3u8
