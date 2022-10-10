@@ -1,7 +1,7 @@
 // 源地址 -->https://gitcode.net/gyfandzd/gyf/raw/-/raw/main/m.json
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://ghproxy.net/https://raw.githubusercontent.com/gyfandzd/gyf/main/sub/jar/0925.jar",
+"spider":"https://ghproxy.net/https://raw.githubusercontent.com/gyfandzd/gyf/main/sub/jar/1009.jar",
 "sites": [
 {"key":"csp_CZSPP","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -22,8 +22,6 @@
 {"key":"csp_Auete" ,"name":"🐼Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP293","name":"🌊293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Xxys","name":"🐨小熊TV","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_xml_搬运工","name":"🐝搬运工资源","type":1,"api":"https://cj.banyung.xyz/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","纪录","动作片","喜剧片","爱情片","科幻片","剧情片","悬疑片","惊悚片","恐怖片","犯罪片","冒险片","奇幻片","灾难片","战争片","动画片","歌舞片","历史片","传记片","其他片","国产剧","港台剧","日韩剧","欧美剧","海外剧","其他剧"]},
 {"key":"csp_Jianying","name":"🐾简影","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNDk5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0yOVQwODoyMzowNS43MSswODowMCIsIlVwZGF0ZWRBdCI6IjIwMjItMDktMjlUMDg6MjM6MDUuNzErMDg6MDAiLCJEZWxldGVkQXQiOm51bGwsInVzZXJfZW1haWwiOiI3NzA1NTg5OUBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiI1NTIyZWRkOS01NTdlLTQ2ZjItODk5ZS1hZjkzNDFhOTViOTciLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjpudWxsLCJyZWdfa2V5IjoiIiwidHZfdGltZSI6bnVsbCwidHZfa2V5IjoiIn0sImV4cCI6MTY2NTAxNTc4OCwiaXNzIjoiQWxmcmVkbyBNZW5kb3phIn0.72BLCg9phjA3Gec103zRN7-WCp2kXuWqluEeB6CNqq4"},
 {"key":"csp_xbb_影视工厂","name":"🍀影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/gyfandzd/gyf/main/sub/MeowXB/影视工厂.json"},
 {"key":"csp_xbb_555电影","name":"🍀555影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/gyfandzd/gyf/main/sub/MeowXB/555电影.json"},
