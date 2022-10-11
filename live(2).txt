@@ -2128,13 +2128,36 @@ Sóc Tr?ng 1,https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b250000
 trà vinh HD,https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
 ALTV (1080p),https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
 Channel 5 (1080p),http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/playlist.m3u8
+Channel 5 (1080p),https://livehd.us.malimarcdn.com/hdliveedge00/thai5hd.stream/playlist.m3u8?verify=1665474770_TQ4yKyS%2FhvJA7G%2F4%2Fn%2Bcwn5fSQIRKG0u7chezui8WIg%3D
 Channel 8 (1080p) [Not 24/7],http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+Channel 8 (1080p) [Not 24/7],https://livehd.us.malimarcdn.com/hdliveedge00/thai8hd.stream/playlist.m3u8?verify=1665474776_rIb9kuf%2BTQMUY%2FZWQTUZHMxRUU01zQkTMqrFHTJJGfo%3D
 NBT World,https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
 ASTV News 1 (720p) [Not 24/7],http://news1.live14.com/stream/news1.m3u8
 Thairath TV 32 (720p),https://live.thairath.co.th/trtv2/playlist.m3u8
 White Channel (1080p),http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 NBT Bangkok (1080p) [Not 24/7],http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 Thai PBS (Opt-4) (1080p) [Not 24/7],https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+mcot，https://livehd.us.malimarcdn.com/hdliveedge00/mcothd.stream/chunklist.m3u8?verify=1665474754_c9%2F2BMaHKOic3eTmad%2BxUysaxhMUIzsSzh%2BNlNjAycs%3D
+blue sky，https://livesd.us.malimarcdn.com/thliveedge00/bluesky.stream/chunklist.m3u8?verify=1665474730_VWryRDylk1RJFhfuidIZLITQQTF4ZulECu3DIW0WGEU%3D
+workphoint，https://livehd.us.malimarcdn.com/hdliveedge00/workpointhd.stream/playlist.m3u8?verify=1665474791_iG2NexI%2BQZJBYioK1I8T%2B4fB8PBc5VVMSCJPgcXiGBU%3D
+ture4u，https://livesd.us.malimarcdn.com/thliveedge00/true4u.stream/playlist.m3u8?verify=1665474785_Jz01bNbL4jJWzGfGIVhdhQQEifurFzS0g409T22gfNQ%3D
+topnews，https://livesd.us.malimarcdn.com/thliveedge00/topnews.stream/playlist.m3u8?verify=1665474787_kr4aiiLVDgfpA1kKz5%2B6QJ1UPSnngyccJBdSLSQXZR0%3D
+tnn24，https://livehd.us.malimarcdn.com/hdliveedge00/tnn24hd.stream/playlist.m3u8?verify=1665474772_OomkHY1YYD%2BSPI3ph7zglzWrQ%2FHcPt27NfuULu3rA7g%3D
+gbn，https://livesd.us.malimarcdn.com/thliveedge00/gbn.stream/playlist.m3u8?verify=1665474734_Zhza6EWTBrBQdJpTR8H6WSpvzf8Qnky0oIGghrXpv7I%3D
+news18，https://livesd.us.malimarcdn.com/thliveedge00/new18.stream/playlist.m3u8?verify=1665474765_h0k5lUIMT7hgqxRkUbvYB9AXrfcXEWY6TUERxny3VAM%3D
+chanel3，https://livehd.us.malimarcdn.com/hdliveedge00/thai3hd.stream/playlist.m3u8?verify=1665474776_NDUwJfzvUEKYTOPUy31hfotmFgKnX%2BdCiRjbkf4qVzc%3D
+tvmuslim，http://vip2.liveanywhere.asia:1935/tvmuslim/tvmuslim/playlist.m3u8
+tv2，https://live.thairath.co.th/trtv2/playlist_240p/index.m3u8
+mono29，https://livesd.us.malimarcdn.com/thliveedge00/mono29.stream/playlist.m3u8?verify=1665474762_DJNKEyMgeDk5eoB5Afo8CIZdEI%2FMvyIiRZ6b8yweuZs%3D
+ctb，http://vip.login.in.th:1935/CTB/CTB/chunklist_w1423354323.m3u8
+astvnew，http://news1.live14.com/stream/news1_hi.m3u8
+nat，https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
+nation，https://livesd.us.malimarcdn.com/thliveedge00/nation.stream/playlist.m3u8?verify=1665474764_v1u1KZITrO30SL3SaLSTidZZfSp9ijN8XnqkhSd0uFA%3D
+pbs3，https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+c7，https://livehd.us.malimarcdn.com/hdliveedge00/thai7hd.stream/playlist.m3u8?verify=1665474771_QxTGpFfINIWQ122IYfFy4GbFtEw%2F%2FoFT1KaEEEmAmQQ%3D
+one tv，https://livehd.us.malimarcdn.com/hdliveedge00/gmmonehd.stream/playlist.m3u8?verify=1665474736_rfSmvC%2FZfRSgcO5By%2FrRvWSW5FIa3jkmRh0pv0rFIfY%3D
+pptv，https://livehd.us.malimarcdn.com/hdliveedge00/pptvhd.stream/playlist.m3u8?verify=1665474779_MXeCJoXYrHqB9EtF3%2B4etmAHYorQLnWbmsLGUms%2Fizs%3D
+amarin，https://livehd.us.malimarcdn.com/hdliveedge00/amarinhd.stream/playlist.m3u8?verify=1665474712_6im%2FS5cuHxxprszIVnaD7rzhz%2Fb0uSXKThZqbaEp5TA%3D
 英国,#genre#
 Afrobeats247,https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 EdgeSport,https://edgesport-samsunguk.amagi.tv/playlist.m3u8
