@@ -2773,6 +2773,49 @@ TV Maná Brazil (1080p),https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.
 TV Maná English (1080p),https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
 TV Maná Mozambique (1080p),https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
 TV Maná Español (1080p),https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
+阿尔巴尼亚,#genre#
+AlbUK TV (1080p) [Not 24/7],http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+ALPO (720p) [Not 24/7],https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+News 24 (392p) [Not 24/7],http://tv.balkanweb.com/news24/livestream/playlist.m3u8
+Syri TV (720p) [Not 24/7],http://live.syri.tv:6969/live/syriblue/hd/23.ts
+TV 7 Albania (M),http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
+7 HD (M),https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+TV Apollon (720p),https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
+ALB Music (720p) [Not 24/7],http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+AlbDreams TV (720p),http://live.albavision.net:1123/live/albdreams.m3u8
+News 24 Albania,http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+RTV Arberia Musik,http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/playlist.m3u8
+奥地利,#genre#
+FS1 Salzburg (720p) [Not 24/7],http://stream.fs1.tv:8080/hls/webstream.m3u8
+FS1 Salzburg (720p) [Not 24/7],https://stream.fs1.tv/hls/webstream.m3u8
+Hitradio Ö3 (720p) [Not 24/7],https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
+Kronehit (1080p),https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+Krone.TV (360p),https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
+R9 (720p) [Not 24/7],https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
+Red Bull TV (1080p),https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+RTV (1080p),http://iptv.rtv-ooe.at/stream.m3u8
+Swamiji TV (720p) [Not 24/7],https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+Tirol TV (720p) [Not 24/7],https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
+Uppera Balkan (720p) [Geo-blocked],http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
+W24 (720p) [Not 24/7],https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+Antenne Vorarlberg (720p) [Not 24/7],https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8
+Ländle Tv (1080p),https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
+oe24 TV (1080p),https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
+Rakuten TV Action Movies Austria (720p),https://rakuten-actionmovies-5-at.samsung.wurl.tv/playlist.m3u8
+Rakuten TV Comedy Movies Austria (720p),https://rakuten-comedymovies-5-at.samsung.wurl.tv/playlist.m3u8
+Rakuten TV Drama Austria (720p),https://rakuten-tvshows-5-at.samsung.wurl.tv/playlist.m3u8
+Rakuten TV Family Austria (720p),https://rakuten-family-5-at.samsung.wurl.tv/playlist.m3u8
+Rakuten TV Spotlight Austria (720p),https://rakuten-spotlight-5-at.samsung.wurl.tv/playlist.m3u8
+Rakuten TV Documentaries Austria (720p),https://rakuten-documentaries-5-at.samsung.wurl.tv/playlist.m3u8
+
+波黑,#genre#
+B1 TV (1080p) [Not 24/7],http://proxy.bihnet.net:88/live/b1tv.m3u8
+BN TV (480p),https://dns2.rtvbn.com:8080/live/index.m3u8
+RTV Zenica,https://stream.rtvze.ba/live/123/123.m3u8
+Televizija 5 (576p),https://balkanmedia.dynu.net/hls/tv5web.m3u8
+TV Slon Extra (1080p) [Not 24/7],http://31.47.0.130:8082
+Malta (720p) [Not 24/7],http://webtvstream.bhtelecom.ba/malta.m3u8
+RTV Herceg-Bosne [Not 24/7],https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 土耳其,#genre#
 24 TV,http://stream.taksimbilisim.com:1935/iceltv/bant1/playlist.m3u8
 CAN TV,https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
