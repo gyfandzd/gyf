@@ -2757,6 +2757,22 @@ Vera TV Marche,http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
 Mastiii,http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 Sada TV,http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 Shemaroo Bollywood Premie,http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+葡萄牙,#genre#
+Canal 11 (720p),https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+Kuriakos Cine (1080p) [Not 24/7],https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+Kuriakos Kids (1080p),https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+Kuriakos Music (1080p),http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
+Kuriakos TV (1080p),https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
+RTP1 (480p),http://162.212.178.69:41042/bysid/608
+RTP Internacional Asia (480p),http://210.210.155.37/qwr9ew/s/s38/index.m3u8
+SIC (1080p),http://93.152.174.144:4000/play/sic/index.m3u8
+Sobrenatural TV (1080p),http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+TV Maná 1 (1080p),https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
+TV Maná 2 (1080p),https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
+TV Maná Brazil (1080p),https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+TV Maná English (1080p),https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
+TV Maná Mozambique (1080p),https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
+TV Maná Español (1080p),https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
 土耳其,#genre#
 24 TV,http://stream.taksimbilisim.com:1935/iceltv/bant1/playlist.m3u8
 CAN TV,https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
@@ -2772,78 +2788,7 @@ TGRT BELGESEL,http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.
 TGRT HABER,https://broadcasttr.com:446/tv52/bant1/playlist.m3u8
 TV4  Türkiye,https://broadcasttr.com:446/manisaetv/bant1/playlist.m3u8
 Vuslat TV,https://59cba4d34b678.streamlock.net/canlitv/topraktv/playlist.m3u8#http://yayin3.canlitv.com:1935/live/vuslattv/HasBahCa.m3u8
-亚洲fpt,#genre#
-Animal Planet,https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b2500000.m3u8#http://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8#https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
-Animax,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8#https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8#https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8#https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8?checkedby:iptvcat.com#https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8#https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b2500000.m3u8#https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8#https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
-Antv,https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
-Arirang,https://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
-Asian Food,https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
-Asian Food Network,https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
-Baby,http://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/playlist.m3u8#https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b2500000.m3u8#https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
-Baby First,https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8#http://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
-BBC Cbeebies,https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b2500000.m3u8#https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
-BBC earth,https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b2500000.m3u8#https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8#https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
-Blue Ant entertaiment,https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8#https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b2500000.m3u8
-Blue Ant Extreme,https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8#https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b2500000.m3u8
-blueantent,https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8?bycoca
-blueantext,https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8?bycoca
-Boomerang,https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8#https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b2500000.m3u8#https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
-BRT,https://livecdn.fptplay.net/sdc/bariavungtau_2000.stream/chunklist.m3u8
-BTV,https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8#https://livecdn.fptplay.net/sdc/bacninh_hls.smil/playlist.m3u8
-BTV9,https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8#https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
-CBeebies,https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8#https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
-Cinemax,http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8?bycoca#https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
-DAVINCI,https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
-Discovery,https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8#https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b2500000.m3u8#https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
-Discovery Asia,https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8#https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8#https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b2500000.m3u8
-DN1,https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
-DN2,https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
-DONGNAI1,https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8?
-DreamWorks,https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
-DTV,https://livecdn.fptplay.net/sdc/dienbien_2000.stream/chunklist.m3u8
-DW,https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
-DW News,https://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
-France 24,https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
-H2,https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
-HAIPHONG,https://livecdn.fptplay.net/sdc/haiphong_2000.stream/chunklist.m3u8?
-HANOI2,https://livecdn.fptplay.net/sdc/hanoitv2_2000.stream/chunklist.m3u8?
-HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8#https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8#https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8#http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
-HBO Asia,https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
-HTV,https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
-HTV1,http://livecdn.fptplay.net/sdb/htv1_hls.smil/playlist.m3u8
-HTV3,http://livecdn.fptplay.net/sdb/htv3_hls.smil/playlist.m3u8#https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
-KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8#https://livecdn.fptplay.net/sdb/kbs_2000.stream/chunklist_b2500000.m3u8#https://vips-livecdn.fptplay.net/hda3/kbs_vhls.smil/chunklist_b5000000.m3u8#https://vips-livecdn.fptplay.net/hda3/kbs_4000.stream/chunklist.m3u8
-KHANHHOA,https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8?
-KIX,https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b2500000.m3u8#https://livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2500000.m3u8#https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8#https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
-KTV,https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
-LTV,https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
-MTV Vietnam (576p),https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
-Music BOX,http://livecdn.fptplay.net/hda3/music_vhls.smil/playlist.m3u8
-NHK World Japan,https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8#https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
-PHUYEN,https://livecdn.fptplay.net/sda/phuyen_2000.stream/chunklist.m3u8?
-QUANGBINH,https://livecdn.fptplay.net/sda/quangbinh_2000.stream/chunklist.m3u8?
-TAYNINH11,https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/chunklist_b2500000.m3u8?
-TLC,https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
-VTC2,http://livecdn.fptplay.net/sdb/vtc2_hls.smil/playlist.m3u8#https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
-VTC4,https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8#https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
-VTC5,http://livecdn.fptplay.net/sdb/vtc5_hls.smil/playlist.m3u8
-VTC7,http://livecdn.fptplay.net/sdb/todaytv_hls.smil/playlist.m3u8
-VTC8,http://livecdn.fptplay.net/sdb/vtc8_hls.smil/playlist.m3u8
-VTV7,https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b2500000.m3u8#https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
-VTV8,https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b2500000.m3u8#https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-VTV9,https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
-动物星球,https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
-国家地理,https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
-探索,http://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
-探索亚洲,http://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-Cinemax Vit Nam,https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
-BTV4,https://livecdn.fptplay.net/hda2/btv4hd_hls.smil/chunklist_b2500000.m3u8
-Da Vinci Kids Learning,https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
-BTV1,https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
-BTV2,https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
-CNBC,https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
-CAMAU,https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8?
-DANANG1,https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8?
+
 国际新闻,#genre#
 BBS Buddhist,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 NBC News Now,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
