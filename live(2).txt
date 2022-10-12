@@ -2711,6 +2711,39 @@ UniverTV(720p),http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
 Хабар 24,https://sc.id-tv.kz/Khabar_24_34_35.m3u8
 Шансон ТВ,http://uiptv.do.am/1ufc/602079679/playlist.m3u8
 Шокирующее,http://spacetv.in/stream/DIPK8H19CP8/75.m3u8
+白俄罗斯,#genre#
+Беларусь 3 (1080p) [Not 24/7],https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+Belarus 24 (720p),http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+Беларусь 24 (1080p),https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+ОНТ (576p) [Not 24/7],https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
+СТВ (576p) [Not 24/7],http://212.98.171.116/HLS/ctvby/playlist.m3u8
+Витебск (720p) [Not 24/7],https://flu.vtv.by/tvt-non-by/playlist.m3u8
+Sluhay.by (720p) [Not 24/7],https://sluhay.by/live/Ch045pub/index.m3u8
+Sluhay.by Aillion (720p) [Not 24/7],https://sluhay.by/live/Ch149pub/index.m3u8
+Sluhay.by Among Your God (720p) [Not 24/7],https://sluhay.by/live/Ch086pub/index.m3u8
+Sluhay.by Christ (720p) [Not 24/7],https://sluhay.by/live/Ch064pub/index.m3u8
+Sluhay.by Lenadi (720p) [Not 24/7],https://sluhay.by/live/Ch052pub/index.m3u8
+Sluhay.by Live (720p) [Not 24/7],https://sluhay.by/live/Ch173pub/index.m3u8
+Sluhay.by Mova (720p) [Not 24/7],https://sluhay.by/live/Ch034pub/index.m3u8
+Sluhay.by Pop (720p) [Not 24/7],https://sluhay.by/live/Ch066pub/index.m3u8
+Sluhay.by Rap (720p) [Not 24/7],https://sluhay.by/live/Ch107pub/index.m3u8
+Sluhay.by Rock (720p) [Not 24/7],https://sluhay.by/live/Ch114pub/index.m3u8
+Sluhay.by Xtip (720p) [Not 24/7],https://sluhay.by/live/Ch056pub/index.m3u8
+比利时,#genre#
+BX1 (720p) [Not 24/7],https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+Notele (576p) [Not 24/7],https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
+Q-Music (1080p),https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls.m3u8
+Radio PROS (720p) [Not 24/7],http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
+Radio PROS (720p) [Not 24/7],https://558bd16067b67.streamlock.net/radiopros/livestream/playlist.m3u8
+MaTele (1080p) [Not 24/7],https://live.matele.be/hls/live.m3u8
+AfricaNews Français (720p),https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
+AVF Family,https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
+Bloomberg Quicktake,https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
+Bloomberg TV,https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
+Duck TV,https://mmm-ducktv-4-be.samsung.wurl.tv/playlist.m3u8
+Euronews,https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
+MavTV Global,https://mavtv-mavtvglobal-1-be.samsung.wurl.tv/playlist.m3u8
+Rakuten Family,https://rakuten-family-16-be.samsung.wurl.tv/playlist.m3u8
 乌克兰,#genre#
 Fashion &amp; Lifestyle,http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
 НФО,http://spacetv.in/stream/DIPK8H19CP8/173.m3u8
