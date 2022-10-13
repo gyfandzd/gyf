@@ -2225,13 +2225,9 @@ NDTV 24X7 (480p) [Not 24/7],https://ndtv24x7elemarchana.akamaized.net/hls/live/2
 Sada TV (1080p) [Not 24/7],http://cdn12.henico.net:8080/live/sadatv/index.m3u8
 Zainabia Channel,https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 Zee News Malayalam,https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8
-
-
 德国,#genre#
 ARTI TV,https://5856e1a25f71a.streamlock.net/easycast7-live/mp4:livestreamhd20/playlist.m3u8
-BadenTV,http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 BLK TV,https://5856e1a25f71a.streamlock.net/easycast8-live/mp4:livestreamhd8/playlist.m3u8
-BLK TV Hohenm?lsen,https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
 Campus TV Magdeburg,https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8?=&amp;ref=www.rheinmaintv.de&amp;seid=598541#https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8?=&ref=www.rheinmaintv.de&seid=598541
 Campus-TV-Magdeburg+,http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8
 CIRA TV,http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
@@ -2240,29 +2236,152 @@ Health TV,http://62.113.210.250/medienasa-live/BLKonline_high/playlist.m3u8
 KW TV Wildau,https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8
 Light Channel,http://62.113.210.250:1935/medienasa-live/mp4:ran1_high/playlist.m3u8
 MDF.1,http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
-Oberlausitz TV,http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
 oeins (Oldenburg),http://62.113.210.250/medienasa-live/punktum_high/master.m3u8
 OffenerKanalMagdeburg,http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
-OK Dessau,http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
-OK Magdeburg,http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
-OK Merseburg-Querfurt (10,http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
-OK Stendal,http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
-OK Wernigerode,http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
 pop10,http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
-PUNKTum,http://5856e1a25f71a.streamlock.net:1935/easycast8-live/mp4:livestreamhd4/playlist.m3u8
-PunktUM,https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:mdf1_high/playlist.m3u8
-PUNKTum Fernsehen,http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
-Punktum S?dharz,https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:punktum_high/playlist.m3u8
-Ran 1,http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
-RAN1,https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-dessau_high/playlist.m3u8
-RAN1 Regionalfernsehen (1,http://62.113.210.250/medienasa-live/mp4:ran1_high/master.m3u8
-RBW,http://62.113.210.250:1935/medienasa-live/ran1_high/playlist.m3u8
-RFH Harz,https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8
-RFH TV,https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8?&amp;ref=medienportal-sachsen-anhalt.de&amp;seid=528347#https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=528347
 rheinmaintv,https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/chunklist.m3u8
 Sonnenklar.TV,http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-wernigerode_high/playlist.m3u8
 TV38 Südost-Niedersachen,https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:punktum_high/playlist.m3u
 Спас,http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
+1-2-3 TV (270p),http://123tv-mx1.flex-cdn.net/index.m3u8
+Alex Berlin (1080p) [Not 24/7],https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
+Anixe HD Serie (360p),https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+Babestation24 (720p),http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
+Baden TV (1080p) [Not 24/7],http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+Baden TV (1080p) [Not 24/7],http://badentv-stream2.siebnich.info/rtplive/btv.stream/playlist.m3u8
+Baden TV (1080p) [Not 24/7],https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+Baden TV (1080p) [Not 24/7],http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+Bibel TV Musik (720p),http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+BLK TV Hohenmölsen (1080p),http://62.113.210.250/medienasa-live/BLKonline_high/playlist.m3u8
+BLK TV Hohenmölsen (1080p),https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?ref=medienportal-sachsen-
+BLK TV (1080p) [Not 24/7],https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
+BLK Regional TV (1080p),https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
+Das Erste (720p),https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+Deluxe Lounge HD,https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
+DW Arabic (1080p),https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+DW Deutsch (1080p) [Geo-blocked],https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+DW Deutsch+ (1080p) [Geo-blocked],https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
+DW Español (1080p),https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+ems TV Lingen (280p),https://5889e7d0d6e28.streamlock.net/ev1tv-live/_definst_/mp4:livestream/playlist.m3u8
+ems TV Lingen (280p),https://5889e7d0d6e28.streamlock.net/ev1tv-live/mp4:livestream/playlist.m3u8
+Erz-TV Stollberg (576p),https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
+Filstalwelle (576p),http://62.113.210.2/filstalwelle-live/mp4:livestream/playlist.m3u8
+Finest TV (288p) [Not 24/7],http://media.finest.tv/hls/live.m3u8
+Hauptstadt.TV (Potsdam) (720p) [Not 24/7],https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
+Health TV (720p),http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
+HSE24 Extra (1080p),https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+HSE24 Trend (576p),https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+HSE (1080p),https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+K-TV (Fernsehen) (720p),https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+KulturMD (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+KulturMD (1080p),http://62.113.210.250/medienasa-live/mp4:kulturmd_high/playlist.m3u8
+KulturMD (1080p),https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:kulturmd_high/playlist.m3u8
+KW TV Wildau (720p) [Not 24/7],https://58af0c57eaf3e.streamlock.net/easycast11-live/mp4:livestream/playlist.m3u8
+Lausitzwelle (Fernsehen) (1080p),https://5856e1a25f71a.streamlock.net/easycast9-live/mp4:livestreamhd10/playlist.m3u8
+Light Channel (576p) [Not 24/7],http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
+MDF.1 (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+MDF.1 (1080p),http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
+MDF.1 (1080p),https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:mdf1_high/playlist.m3u8
+Motorvision TV (720p),https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+NRWision (1080p),https://fms.nrwision.de/live/livestreamHD.stream/playlist.m3u8
+NRWision (720p),https://fms.nrwision.de/live/livestreamHD.stream_1080p/playlist.m3u8
+NRWision (360p),https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8
+Oberlausitz TV,http://5856e1a25f71a.streamlock.net:1935/easycast8-live/mp4:livestreamhd4/playlist.m3u8
+Oberlausitz TV,http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
+OF-TV Offenbach (720p),https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
+OF-TV Offenbach (720p),https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8
+OK Dessau,http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
+OK Dessau,https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8
+OK Dessau,https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-dessau_high/playlist.m3u8
+OK Dessau,http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
+OK Magdeburg (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
+OK Magdeburg (1080p),http://62.113.210.250/medienasa-live/ok-magdeburg_high/playlist.m3u8
+OK Magdeburg (1080p),http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ok-magdeburg_high/playlist.m3u8
+OK Magdeburg (1080p),https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-magdeburg_high/playlist.m3u8
+OK Magdeburg (1080p),http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
+OK Merseburg-Querfurt (1080p) [Not 24/7],http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
+OK Merseburg,http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ok-merseburg_high/playlist.m3u8
+OK Merseburg-Querfurt (1080p) [Not 24/7],https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-merseburg_high/playlist.m3u8
+OK Merseburg-Querfurt (1080p) [Not 24/7],http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+OK Salzwedel (1080p) [Not 24/7],http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
+OK Salzwedel (1080p) [Not 24/7],http://62.113.210.250/medienasa-live/ok-salzwedel_high/playlist.m3u8
+OK Salzwedel,https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8
+OK Salzwedel (1080p) [Not 24/7],https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-salzwedel_high/playlist.m3u8
+OK Stendal (1080p) [Not 24/7],http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
+OK Stendal (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8
+OK Stendal (1080p),http://62.113.210.250/medienasa-live/ok-stendal_high/playlist.m3u8
+OK Wernigerode (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
+OK Wernigerode (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-wernigerode_high/playlist.m3u8
+Campus-TV-Magdeburg+ (1080p),http://62.113.210.250/medienasa-live/ok-wernigerode_high/chunklist_w937425968.m3u8
+Campus TV Magdeburg (1080p),http://62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8
+Campus TV Magdeburg (1080p),http://62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
+OK Wernigerode,http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ok-wernigerode_high/playlist.m3u8
+Punktum S dharz (1080p),http://62.113.210.250/medienasa-live/punktum_high/master.m3u8
+PUNKTum Fernsehen (1080p),https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:punktum_high/playlist.m3u
+PUNKTum (1080p),https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:punktum_high/playlist.m3u8
+Radio 21 TV (720p) [Not 24/7] [Geo-blocked],https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
+Radio Weser TV Bremen,https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+Radio Weser TV Bremen (576p),https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8
+RAN1 (1080p),http://62.113.210.250/medienasa-live/mp4:ran1_high/master.m3u8
+RAN1 (1080p),https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ran1_high/playlist.m3u8
+RAN1 Regionalfernsehen (1080p),http://62.113.210.250:1935/medienasa-live/mp4:ran1_high/playlist.m3u8
+RAN1 Regionalfernsehen (1080p),http://62.113.210.250:1935/medienasa-live/ran1_high/playlist.m3u8
+RBW (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+RBW (1080p),http://62.113.210.250/medienasa-live/rbw_high/master.m3u8
+RBW (1080p),https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:rbw_high/playlist.m3u8
+RFH (1080p),https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8
+RFH Harz (1080p),http://62.113.210.250/medienasa-live/RFH_high/master.m3u8
+RFH Harz (1080p),https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:RFH_high/playlist.m3u8
+RFH Harz (1080p),https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8?ref=medienportal-sachsen-anhalt.de&seid=528347
+RheinMain TV (720p) [Not 24/7],https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
+Rockland TV (720p) [Not 24/7] [Geo-blocked],https://api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
+Seenluft24,https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8
+Seenluft24 (1080p),https://5856e1a25f71a.streamlock.net/easycast7-live/mp4:livestreamhd20/playlist.m3u8
+Sonus FM Alemania (1080p) [Not 24/7],http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
+Sophia TV (720p),https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8
+Sophia TV (720p),https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/playlist.m3u8
+SWR 3 Visual Radio (720p),https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+Tagesschau 24 (720p),https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+Teins TV (1080p) [Not 24/7],https://live1.markenfunk.com/t1/live/playlist.m3u8
+teltOwkanal,https://5856e1a25f71a.streamlock.net/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
+teltOwkanal (1080p),https://5856e1a25f71a.streamlock.net/easycast8-live/mp4:livestreamhd8/playlist.m3u8
+Tide TV (1080p),https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
+Tide TV (1080p) [Not 24/7],https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8
+TV38 Südost-Niedersachen (480p) [Not 24/7],http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8
+Antenne Vorarlberg (720p) [Not 24/7],http://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
+ARD-alpha (720p),http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
+ARD-alpha (720p) [Not 24/7],https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
+BR Fernsehen Nord (720p) [Geo-blocked],http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
+BR Fernsehen Nord (720p) [Geo-blocked],https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/master.m3u8
+Filstalwelle Göppingen (576p),http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/chunklist_w660034089.m3u8
+hr-fernsehen (1080p),https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+KulturMD Magdeburg,https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
+Lausitzwelle Fernsehen (1080p),https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd10/playlist.m3u8
+MDF.1 Magdeburg,https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:mdf1_high/playlist.m3u8
+NRWISION (1080p),https://fms.nrwision.de/live/livestreamHD.stream_source/playlist.m3u8
+PunktUM (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
+PunktUm Hettstedt (1080p),https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:punktum_high/playlist.m3u8
+Ran 1 (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
+Ran1 Dessau-Roßlau (1080p),http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ran1_high/playlist.m3u8
+RBW Bitterfeld-Wolfen (1080p),https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8
+RFH TV (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
+rheinmaintv (720p) [Not 24/7],https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/chunklist.m3u8
+rheinmaintv (720p) [Not 24/7],https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8
+rheinmaintv (720p) [Not 24/7],https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8?=&ref=www.rheinmaintv.de&seid=598541
+WDR Koeln (720p),https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
+WTV Wettin,http://62.113.210.250:1935/medienasa-live/ok-wettin_high/playlist.m3u8
+Adult Swim Black Jesus (1080p) [Geo-blocked],http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream_de.m3u8
+Adult Swim Dream Corp LLC (1080p) [Geo-blocked],http://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_de.m3u8
+Adult Swim Metalocalypse (1080p) [Geo-blocked],http://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream_de.m3u8
+Adult Swim The Eric Andre Show (1080p) [Geo-blocked],http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_de.m3u8
+Adult Swim Mr. Pickles (1080p) [Geo-blocked],http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream_de.m3u8
+Adult Swim Rick and Morty (1080p) [Geo-blocked],http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
+Adult Swim Tim and Eric (1080p) [Geo-blocked],http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream_de.m3u8
+InWonder (720p),https://inwonder-samsung-de.amagi.tv/playlist.m3u8
+Sofy TV (720p),https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+Xite (720p),https://xite-samsung-de.amagi.tv/playlist.m3u8
+Tastemade Deutschland (720p),https://tastemade-de-samsung.amagi.tv/playlist.m3u8
+
 法国,#genre#
 Alpe d’Huez TV,https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/playlist.m3u8
 FGenerations TV,https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
