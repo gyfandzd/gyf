@@ -1912,36 +1912,6 @@ Tastemade Travel (720p),https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 Comedy Channel (1080p),https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 30A Investment Pitch (720p),https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 Ameritrade (1080p) [Not 24/7],https://tdameritrade-vizio.amagi.tv/playlist.m3u8
-国家地理频道,P2p://ns1.hellotvvod.com:9906/aad791855a0d445189fbd7217ec393c7
-探索频道,P2p://ns1.hellotvvod.com:9906/f9fd765bdfc844d4af5209337209d5af
-TLC旅游生活,P2p://ns1.hellotvvod.com:9906/b5c8851faf2e4d6585ee89b3394b1b0f
-动物星球,P2p://ns1.hellotvvod.com:9906/e7baae3277ed42e48357a9266a37d4e8
-Nat Geo Wild,P2p://ns1.hellotvvod.com:9906/aebbba72dfd340cfa38ce9bb4b06f7ba
-ELTV生活英语台,P2p://ns1.hellotvvod.com:9906/1e9473e911dd46518e0706e88829866d
-达文西频道,P2p://ns1.hellotvvod.com:9906/8b4b1f2f0c60402e84191e684f6159e2
-国家地理高画质野生频道,P2p://ns1.hellotvvod.com:9906/6cfad1d37e59463394912c306bc33c59
-BBC Earth,P2p://ns1.hellotvvod.com:9906/00875996721040d8b01c420e60739815
-Discovery Asia,P2p://ns1.hellotvvod.com:9906/2eccc05be731437b8da4400a7d7e33a2
-Discovery科学频道,P2p://ns1.hellotvvod.com:9906/4ad9082ea1b7408b814fb13c3f8160fe
-DMAX,P2p://ns1.hellotvvod.com:9906/c3f46a7c62914b968a68001026c43026
-EVE,P2p://ns1.hellotvvod.com:9906/fbf53d4fc8ef4ae68e1cc96bf48f74af
-HISTORY 2,P2p://ns1.hellotvvod.com:9906/c9fe714f3f134061b53bd8d758af2cb4
-历史频道,P2p://ns1.hellotvvod.com:9906/60ea79434ef6420ca98411c1e56e7e08
-罪案侦缉频道,P2p://ns1.hellotvvod.com:9906/387700edef724a81b3e1cd4ab092a100
-BBC Lifestyle,P2p://ns1.hellotvvod.com:9906/91ed11bbe5d94d5d9ce3d7a31bdb2d53
-LUXE TV,P2p://ns1.hellotvvod.com:9906/b8bd81a82c68429fb21e4481283fd317
-Lifetime,P2p://ns1.hellotvvod.com:9906/0c8924b3317a44f3889cc24c88a85426
-KLT-靖天国际台,P2p://ns1.hellotvvod.com:9906/fdcc9f1da2684d7698473cd99bb3a6ab
-HGTV居家乐活频道,P2p://ns1.hellotvvod.com:9906/244bc15704d148d18cde2194861e298f
-Love Nature by 餃子,P2p://ns1.hellotvvod.com:9906/7fbcf4ad3fe14e6bb6c591e421989f9e
-美食星球,P2p://ns1.hellotvvod.com:9906/b5e9835f59984294a404bc65e55451d9
-亚洲美食频道,P2p://ns1.hellotvvod.com:9906/e48af09111b64aa5ada8705a941feea7
-Food Network,P2p://ns1.hellotvvod.com:9906/b2b2008df5fe4d0fa4d780ae1287d2cf
-亚洲旅游台,P2p://ns1.hellotvvod.com:9906/4cc8e0bfc66740c58f9114b622645f48
-EYE TV旅游台,P2p://ns1.hellotvvod.com:9906/eac16a1d68bd4c20b05b89c976755e22
-时尚频道,P2p://ns1.hellotvvod.com:9906/4b993fbf72a14a4b921bef2b52f0629d
-TV5MONDE Style 生活时尚,P2p://ns1.hellotvvod.com:9906/a442a0f9afad4dfaa2b95f845b89eadb
-Travel Channel,P2p://ns1.hellotvvod.com:9906/eadef7e96fbe4820a7dabdcd9c38d6c0
 
 韩国,#genre#
 TJBSBS综艺,http://1.245.74.5:1935/live/tv/.m3u8
