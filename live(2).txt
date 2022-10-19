@@ -3482,6 +3482,125 @@ Televizija 5 (576p),https://balkanmedia.dynu.net/hls/tv5web.m3u8
 TV Slon Extra (1080p) [Not 24/7],http://31.47.0.130:8082
 Malta (720p) [Not 24/7],http://webtvstream.bhtelecom.ba/malta.m3u8
 RTV Herceg-Bosne [Not 24/7],https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+罗马尼亚,#genre#
+A7TV (720p) [Not 24/7],https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
+AgroTV (404p) [Not 24/7],https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+Aleph News (720p),https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+Alfa Omega TV (540p) [Not 24/7],http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
+Alfa Omega TV (540p) [Not 24/7],http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
+Bucovina TV (480p),http://46.4.14.12:9999/btvsvlive/playlist.m3u8
+Credo TV (720p) [Not 24/7],http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
+Est TV (Neamt) (576p) [Not 24/7],http://89.38.8.130:39435
+Intermedia TV (576p),http://46.4.14.12:9999/intermedia1/playlist.m3u8
+Light Channel (480p) [Not 24/7],http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
+MoozHits (576p),https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
+MoozRo (576p),https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
+Naşul TV (720p) [Not 24/7],https://5ab29cc78f681.streamlock.net/NasulTV/livestream/playlist.m3u8
+Prima TV (404p) [Not 24/7],https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=
+Pro TV (1080p),https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+Realitatea Plus (720p),https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8
+Rock TV (480p),https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
+Speranta TV (720p) [Not 24/7],http://play.streamkit.tv/content/channel/sperantatv/live/sperantatv.player.m3u8
+TVPlus Suceava (576p),http://85.186.146.34:8080
+TV SE (576p) [Not 24/7],http://89.38.8.130:39419
+MEDIA REGIONAL (576p),http://83.103.150.198:8080
+Profit.ro (404p),https://stream1.1616.ro:1945/profit/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=
+Profit.ro (404p),https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
+哈萨克斯坦,#genre#
+Abai TV,https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+Atameken Business (1080p) [Not 24/7],http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
+Gakku (576p) [Not 24/7],https://sc.id-tv.kz/Gakku.m3u8
+Хабар 24 (720p) [Not 24/7],http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
+Хабар 24 (720p) [Not 24/7],https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
+КТК (576p) [Not 24/7],https://sc.id-tv.kz/KTK.m3u8
+КТК (576p) [Not 24/7],http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+МТРК (576p) [Not 24/7],https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
+Новое телевидение (576p) [Not 24/7],http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+7 канал (576p) [Not 24/7],https://sc.id-tv.kz/7_kanal.m3u8
+31 канал (576p) [Not 24/7],https://sc.id-tv.kz/31Kanal.m3u8
+Balapan TV,https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+Qazaqstan TV [Geo-blocked],https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
+Qazaqstan TV International,https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+Алматы (576p) [Not 24/7],https://sc.id-tv.kz/Almaty.m3u8
+Астана (576p) [Not 24/7],https://sc.id-tv.kz/Astana.m3u8
+卡塔尔,#genre#
+Al Jazeera Balkans (1080p),https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+Al Jazeera Arabic (1080p),https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+Al Jazeera Arabic (1080p),https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+Al Jazeera English (1080p),https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+Al Jazeera English (480p),http://ott-cdn.ucom.am/s23/index.m3u8
+Al Jazeera Mubasher (1080p),https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+Al Rayyan Al Qadeem (1080p),https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
+Al Rayyan (1080p),https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
+埃及,#genre#
+Aghapy TV (1080p) [Not 24/7],https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
+Al Hayat TV (720p),http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
+ATVSat (1080p) [Not 24/7],https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
+Coptic TV (720p),https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
+Coptic TV (720p),https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
+Elsharq TV (1080p) [Not 24/7],https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+eXtra News (720p) [Not 24/7],http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC65F33K2cXk9hGDbOQYhTOw/live
+Koogi TV (1080p),https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+Mekameleen TV (1080p),https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+MESat (480p) [Not 24/7],http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCg5uHOxrP5GkMWldOavPKGQ/live
+Sada Elbalad (720p) [Not 24/7],http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/elbaladtv
+Ten TV (720p) [Not 24/7],https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
+The Kingdom Sat (576p),https://svs.itworkscdn.net/kingdomsatlive/kingdomsat.smil/playlist_dvr.m3u8
+Watan TV (1080p),https://cdg8.edge.technocdn.com/watantv/live/playlist.m3u8
+摩洛哥,#genre#
+Al Aoula Laayoune (360p),https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune.m3u8
+Al Maghribia (360p),https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt.m3u8
+Arrabiaa (360p),https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa.m3u8
+Arriadia (360p),https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.m3u8
+Assadissa (360p),https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa.m3u8
+Chada TV (1080p),https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
+M24 TV (720p) [Not 24/7],http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
+M24 TV (720p) [Not 24/7],https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
+Medi 1 TV Afrique (1080p) [Not 24/7],http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+Medi 1 TV Arabic (1080p) [Not 24/7],http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
+Medi 1 TV Maghreb (1080p) [Not 24/7],http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
+Tamazight (360p),https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt.m3u8
+Télé Maroc (1080p),https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+2M Monde (360p),https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+Al Aoula International (360p),https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+Maghreb Arabe Press (720p) [Not 24/7],https://www.maptvnews.ma/live/smil:OutStream1.smil/playlist.m3u8
+以色列,#genre#
+Hala TV (576p) [Not 24/7],https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+Hala TV (1080p) [Not 24/7],https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
+Hala TV (1080p) [Not 24/7],https://live2.panet.co.il/edge_abr/halaTV/playlist.m3u8
+Hidabroot (576p),https://stream5.shidur.net/htvlive2/smil:live2.smil/playlist.m3u8
+Hidabroot (576p),https://stream72.shidur.net/htvlive2/smil:live2.smil/playlist.m3u8
+I24 News Arabic (720p),https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
+Israel Pars TV (540p),https://live.pars-israel.com/iptv/stream.m3u8
+Kabbalah for the People (Israel) (504p) [Not 24/7],https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
+KAN 11 Israel (360p) [Geo-blocked],https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+Kan Kids (720p),https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+Knesset Channel (480p) [Not 24/7],https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
+Now 14,https://dvr.ch20-cdnwiz.com/hls/live.m3u8
+Reshet 13 (720p),https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
+蒙古,#genre#
+TV9,https://cdn2.skygo.mn/live/disk1/TV9HD/HLS-FTA/TV9HD.m3u8
+Bloomberg TV Mongolia HD,https://cdn3.skygo.mn/live/disk1/BloombergMon/HLS-FTA/BloombergMon.m3u8
+Education,https://cdn3.skygo.mn/live/disk1/Education/HLS-FTA/Education.m3u8
+C1,https://cdn2.skygo.mn/live/disk1/C1/HLS-FTA/C1.m3u8
+Central,https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8
+ETV,https://cdn1.skygo.mn/live/disk1/ETV/HLS-FTA/ETV.m3u8
+MNB Sport,https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8
+MNB world,https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
+Монголын Мэдээ (576p),https://live.mnb.mn/live/mn2.stream/playlist.m3u8
+Movie box,https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
+МҮОНТ-1 HD,https://cdn3.skygo.mn/live/disk1/MNB/HLS-FTA/MNB.m3u8
+NTV,https://cdn2.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd
+NTV,https://cdn2.skygo.mn/live/disk1/NTVHD/HLS-FTA/NTVHD.m3u8
+ONTV,https://cdn1.skygo.mn/live/disk1/ONTV/HLS-FTA/ONTV.m3u8
+SBN,https://cdn2.skygo.mn/live/disk1/SBN/HLS-FTA/SBN.m3u8
+Star TV,https://cdn2.skygo.mn/live/disk1/Star/HLS-FTA/Star.m3u8
+TV5,https://cdn2.skygo.mn/live/disk1/TV5HD/HLS-FTA/TV5HD.m3u8
+TV8,https://cdn1.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8
+MN25,https://cdn2.skygo.mn/live/disk1/MN25/HLS-FTA/MN25.m3u8
+UBS,https://cdn1.skygo.mn/live/disk1/UBSHD/HLS-FTA/UBSHD.m3u8
+MNB Гэр бүл,https://live.mnb.mn/live/mnb_family.stream/playlist.m3u8
+
 土耳其,#genre#
 24 TV,http://stream.taksimbilisim.com:1935/iceltv/bant1/playlist.m3u8
 CAN TV,https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
