@@ -2171,11 +2171,13 @@ C7,https://livehd.us.malimarcdn.com/hdliveedge00/thai7hd.stream/playlist.m3u8?ve
 One tv,https://livehd.us.malimarcdn.com/hdliveedge00/gmmonehd.stream/playlist.m3u8?verify=1665474736_rfSmvC%2FZfRSgcO5By%2FrRvWSW5FIa3jkmRh0pv0rFIfY%3D
 Pptv,https://livehd.us.malimarcdn.com/hdliveedge00/pptvhd.stream/playlist.m3u8?verify=1665474779_MXeCJoXYrHqB9EtF3%2B4etmAHYorQLnWbmsLGUms%2Fizs%3D
 Amarin,https://livehd.us.malimarcdn.com/hdliveedge00/amarinhd.stream/playlist.m3u8?verify=1665474712_6im%2FS5cuHxxprszIVnaD7rzhz%2Fb0uSXKThZqbaEp5TA%3D
-英国,#genre#
-Afrobeats247,https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-EdgeSport,https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-Eleven Sports 1,http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
-TimeLine640*360640*360,https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+新加坡,#genre#
+Aniplus (Indonesian subtitle) (576p) [Geo-blocked],http://210.210.155.37/dr9445/h/h02/index.m3u8
+CNA International (1080p),https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+HITS (576p) [Geo-blocked],http://210.210.155.37/dr9445/h/h37/index.m3u8
+K+ (Indonesian subtitle) (576p),http://210.210.155.37/uq2663/h/h08/index.m3u8
+Rock Entertainment (576p) [Geo-blocked],http://210.210.155.37/dr9445/h/h16/index.m3u8
+Rock Extreme (576p) [Geo-blocked],http://210.210.155.37/dr9445/h/h15/index.m3u8
 越南,#genre#
 CTV,http://tv.ctvcamau.vn/live/tv/tv.m3u8
 Da Nang TV2,http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
