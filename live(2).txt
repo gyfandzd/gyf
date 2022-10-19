@@ -3714,8 +3714,6 @@ MNB Гэр бүл,https://live.mnb.mn/live/mnb_family.stream/playlist.m3u8
 
 土耳其,#genre#
 24 TV,http://stream.taksimbilisim.com:1935/iceltv/bant1/playlist.m3u8
-CAN TV,https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
-CayTV,http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
 ETV Manisa,https://broadcasttr.com:446/naturaltv/bant1/playlist.m3u8
 Güne? TV Kibris Not 24/7,http://stream.taksimbilisim.com:1935/kanal3/bant1/playlist.m3u8
 GüNEYDO?U TV Not 2,https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
@@ -3727,6 +3725,153 @@ TGRT BELGESEL,http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.
 TGRT HABER,https://broadcasttr.com:446/tv52/bant1/playlist.m3u8
 TV4  Türkiye,https://broadcasttr.com:446/manisaetv/bant1/playlist.m3u8
 Vuslat TV,https://59cba4d34b678.streamlock.net/canlitv/topraktv/playlist.m3u8#http://yayin3.canlitv.com:1935/live/vuslattv/HasBahCa.m3u8
+like Gecko Chrome/76.0.3809.25 Safari/537.36,https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
+Akit TV (720p),https://akittv-live.ercdn.net/akittv/akittv.m3u8
+AKSU TV (720p) [Geo-blocked],https://waw2.artiyerelmedya.net/aksutv/bant1/playlist.m3u8
+Alanya Posta TV (1080p),http://win4.yayin.com.tr/postatv/postatv/playlist.m3u8
+ALTAS TV (720p) [Not 24/7],http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
+ALTAŞ TV (720p) [Not 24/7],https://broadcasttr.com:446/altastv/bant1/index.m3u8
+Al-Zahra TV Turkic (720p) [Not 24/7],https://live.al-zahratv.com/live/playlist.m3u8
+AA Live (720p) [Not 24/7],http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
+ARAS TV (576p) [Not 24/7],http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
+Bursa AS TV (720p) [Geo-blocked],https://waw2.artiyerelmedya.net/astv/bant1/playlist.m3u8
+ATV Alanya (720p) [Not 24/7],http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8
+BENGÜTÜRK TV (720p) [Not 24/7],https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
+Berat TV (720p) [Not 24/7],http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
+Beşiktaş Web TV (360p),https://s01.vpis.io/besiktas/besiktas.m3u8
+Beyaz TV (720p) [Not 24/7],https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+Satranç TV (480p) [Not 24/7],http://139.162.182.79/live/test/index.m3u8
+BRTV (720p) [Geo-blocked],https://waw2.artiyerelmedya.net/brtv/bant1/playlist.m3u8
+Bursa TV (720p) [Not 24/7],https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8
+Bursa TV (720p) [Not 24/7],https://win1.yayin.com.tr/bursatv/bursatv/playlist.m3u8
+CAN TV,http://canbroadcast.com:7000/canlican/tv.m3u8
+CAN TV,https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+Cay TV (720p) [Not 24/7],http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+Cekmeköy TV (1080p),https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8
+Cekmeköy TV,https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8
+Çiftçi TV (1080p) [Not 24/7],http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
+Çiftçi TV (720p) [Not 24/7],https://waw1.artiyerelmedya.net/ciftcitv/bant1/chunks.m3u8
+Çiftçi TV (720p) [Geo-blocked],https://waw2.artiyerelmedya.net/ciftcitv/bant1/playlist.m3u8
+CNN Turk,https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+Deha TV (720p) [Geo-blocked],https://waw2.artiyerelmedya.net/dehatv/bant1/playlist.m3u8
+Deniz Postası TV (720p) [Not 24/7],http://waw1.artiyerelmedya.net:1935/denizpostasitv/bant1/playlist.m3u8
+Deni̇z Postasi TV (720p) [Geo-blocked],https://waw2.artiyerelmedya.net/denizpostasitv/bant1/playlist.m3u8
+DİM TV (720p) [Geo-blocked],https://waw2.artiyerelmedya.net/dimtv/bant1/playlist.m3u8
+Diyanet TV (720p),https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+DRT TV (720p) [Not 24/7],https://broadcasttr.com:446/drt/bant1/playlist.m3u8
+Em TV (486p),https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+Ert Sah TV (720p) [Not 24/7],http://win20.yayin.com.tr/ertsahtv/ertsahtv/playlist.m3u8
+Er TV (720p) [Geo-blocked],https://waw2.artiyerelmedya.net/ertv/bant1/playlist.m3u8
+Erzurum Web TV (720p),https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/playlist.m3u8
+ETV Manisa (1080p) [Not 24/7],https://broadcasttr.com:446/manisaetv/bant1/playlist.m3u8
+Fox Türkiye (720p),https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+GRT Gaziantep (720p) [Geo-blocked],http://yerelmedya.tv:1935/grt/_definst_/bant1/playlist.m3u8
+GRT (720p),https://waw2.artiyerelmedya.net/grt/bant1/chunks.m3u8
+Guney TV Tarsus (270p),http://stream2.taksimbilisim.com:1935/tarsusguneytv/bant1/playlist.m3u8
+Guney TV Tarsus (270p),http://stream.taksimbilisim.com:1935/tarsusguneytv/bant1/playlist.m3u8
+Guney TV Tarsus (270p),https://waw1.artiyerelmedya.net/guneytv/bant1/playlist.m3u8
+Haber61 TV (720p) [Not 24/7],https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
+Haber61 TV (720p) [Not 24/7],https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
+like Gecko Chrome/76.0.3809.25 Safari/537.36,https://halktv-live.ercdn.net/halktv/halktv.m3u8
+Hunat TV (480p) [Geo-blocked],https://waw2.artiyerelmedya.net/hunattv/bant1/playlist.m3u8
+Hunat TV (480p) [Not 24/7],https://59cba4d34b678.streamlock.net/canlitv/hunattv/playlist.m3u8
+IBB TV (1080p),http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
+IBB TV (1080p) [Not 24/7],https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/playlist.m3u8
+Icel TV (720p) [Not 24/7],http://stream.taksimbilisim.com:1935/iceltv/bant1/playlist.m3u8
+Icel TV (720p) [Not 24/7],https://broadcasttr.com:446/iceltv/bant1/playlist.m3u8
+Kanal 3 (720p) [Not 24/7],http://stream.taksimbilisim.com:1935/kanal3/bant1/playlist.m3u8
+Kanal 3 (720p) [Not 24/7],https://waw2.artiyerelmedya.net/kanal3/bant1/playlist.m3u8
+Kanal 7 (1080p),https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+Kanal 7 (576p) [Not 24/7],https://live.kanal7.com/live/kanal7LiveMobile/index.m3u8
+Kanal 7 Avrupa (1080p) [Not 24/7],https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+Kanal 12 (720p) [Not 24/7],https://waw1.artiyerelmedya.net/kanal12/bant1/playlist.m3u8
+Kanal 15 (720p) [Not 24/7],https://waw2.artiyerelmedya.net/kanal15/bant1/playlist.m3u8
+Kanal 23 (720p) [Not 24/7],https://waw2.artiyerelmedya.net/kanal23/bant1/playlist.m3u8
+Kanal 26 (720p) [Not 24/7],https://waw2.artiyerelmedya.net/kanal26/bant1/playlist.m3u8
+Kanal 32 (480p) [Not 24/7],https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
+Kanal 38 (540p) [Not 24/7],http://yayin3.canlitv.com:1935/live/kanal38/playlist.m3u8
+Kanal 68 (720p) [Not 24/7],https://waw2.artiyerelmedya.net/kanal68/bant1/playlist.m3u8
+Kanal Avrupa (1080p) [Not 24/7],http://51.15.2.151/hls/kanalavrupa.m3u8
+Kanal B (480p) [Not 24/7],http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
+Kanal Firat (720p) [Not 24/7],https://waw2.artiyerelmedya.net/kanalfirat/bant1/playlist.m3u8
+Kanal Urfa (576p) [Not 24/7],https://broadcasttr.com:446/kanalurfa/bant1/playlist.m3u8
+Kanal V (720p) [Not 24/7],http://yerelmedya.tv:1935/kanalv/bant1/playlist.m3u8
+Kanal Z (720p) [Geo-blocked],https://waw2.artiyerelmedya.net/kanalz/bant1/playlist.m3u8
+Kay TV (720p) [Geo-blocked],https://waw2.artiyerelmedya.net/kaytv/bant1/playlist.m3u8
+Kent Türk (720p) [Not 24/7],https://waw2.artiyerelmedya.net/38kenttv/bant1/playlist.m3u8
+Lalegül TV (720p) [Not 24/7],http://lalegultv.netmedya.net/hls/lalegultv.m3u8
+Lalegül TV (720p) [Not 24/7],http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8
+Life TV (720p) [Not 24/7],https://waw2.artiyerelmedya.net/lifetv/bant1/playlist.m3u8
+Line TV (404p) [Not 24/7],https://broadcasttr.com:446/linetv/bant1/playlist.m3u8
+MaviKaradeniz (720p) [Geo-blocked],http://yerelmedya.tv:1935/mavikaradeniz/bant1/playlist.m3u8
+MaviKaradeniz (720p) [Not 24/7],https://waw2.artiyerelmedya.net/mavikaradeniz/bant1/playlist.m3u8
+Mercan TV (720p) [Not 24/7],http://yerelmedya.tv:1935/mercantv/bant1/playlist.m3u8
+Mercan TV (720p) [Not 24/7],https://waw2.artiyerelmedya.net/mercantv/bant1/playlist.m3u8
+Natural TV (720p) [Not 24/7],http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
+Natural TV (720p) [Not 24/7],https://broadcasttr.com:446/naturaltv/bant1/playlist.m3u8
+OlayTürk Kayseri (720p) [Geo-blocked],http://waw1.artiyerelmedya.net:1935/olayturk/bant1/playlist.m3u8
+Olay Türk TV (720p) [Geo-blocked],https://waw2.artiyerelmedya.net/olayturk/bant1/playlist.m3u8
+Power Turk (1080p) [Not 24/7],https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+like Gecko Chrome/76.0.3809.25 Safari/537.36,https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/playlist.m3u8
+PowerTürk TV (720p) [Geo-blocked],https://waw2.artiyerelmedya.net/powerturktv/bant1/playlist.m3u8
+Power TV (1080p),https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+Sarıyer TV (360p),http://s01.vpis.io/sariyer/sariyer.m3u8
+Sat7 Pars (720p),https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist.m3u8
+Sat7 Türk (720p),https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
+Semerkand TV (720p) [Not 24/7],https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+Show TV (720p) [Not 24/7],https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+Sinop Yildiz TV (360p),https://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
+Sports TV (720p) [Geo-blocked],https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+Sun RTV (720p) [Not 24/7],https://tr.socialsmart.tv/suntv/bant1/chunks.m3u8
+Tempo TV,https://waw2.artiyerelmedya.net/tempotv/bant1/playlist.m3u8
+TGRT Belgesel TV (576p) [Not 24/7],https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+TGRT Belgesel TV (576p),https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
+TGRT EU (576p),https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
+TGRT Haber (360p) [Not 24/7],https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+Ton TV (720p) [Not 24/7],https://waw2.artiyerelmedya.net/tontv/bant1/chunks.m3u8
+Toprak TV (720p) [Not 24/7],https://59cba4d34b678.streamlock.net/canlitv/topraktv/playlist.m3u8
+TRT 1 (720p) [Geo-blocked],https://tv-trt1.medya.trt.com.tr/master.m3u8
+TRT Arabi (720p) [Not 24/7],https://tv-trtarabi.live.trt.com.tr/master.m3u8
+TRT Avaz (720p),https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+TRT Belgesel (720p),https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+TRT Çocuk (720p),https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+TRT EBA Ilkokul (720p),https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+TRT EBA Lise (720p),https://tv-e-okul02.medya.trt.com.tr/master.m3u8
+TRT EBA Ortaokul (720p),https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+TRT Haber (720p),https://tv-trthaber.medya.trt.com.tr/master.m3u8
+TRT Kurdî (720p),https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+TRT Müzik (720p),https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+TRT Türk (720p),https://tv-trtturk.medya.trt.com.tr/master.m3u8
+TRT World (720p) [Not 24/7],https://tv-trtworld.live.trt.com.tr/master.m3u8
+TV4 (720p),https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+TV 8 (1080p) [Not 24/7],https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+TV 38 (360p) [Not 24/7],https://59cba4d34b678.streamlock.net/live/tv38/playlist.m3u8
+TV 41 (720p) [Not 24/7],http://stream.taksimbilisim.com:1935/tv41/bant1/playlist.m3u8
+TV 41 (720p) [Not 24/7],http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8
+TV 41 (720p) [Not 24/7],http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/playlist.m3u8
+TV 41 (720p) [Geo-blocked],https://waw1.artiyerelmedya.net/tv41/bant1/playlist.m3u8
+TV41 (720p) [Not 24/7],https://waw2.artiyerelmedya.net/tv41/bant1/chunks.m3u8
+TV 52 (720p) [Not 24/7],http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8
+TV 52 (720p) [Not 24/7],https://broadcasttr.com:446/tv52/bant1/playlist.m3u8
+TV Den (576p) [Not 24/7],http://canli.tvden.com.tr/hls/live.m3u8
+TV Em (486p),http://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+TV Em (486p),https://cdn.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
+TVnet,https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
+UçanKuş TV (720p),https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+ÜÜ TV Üsküdar Üniversitesi TV (1080p) [Not 24/7],http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
+Vizyon 58 TV (720p) [Geo-blocked],https://waw2.artiyerelmedya.net/vizyon58/bant1/playlist.m3u8
+VTV (720p) [Not 24/7],https://waw2.artiyerelmedya.net/kanalv/bant1/chunks.m3u8
+Vuslat TV (720p) [Not 24/7],http://yayin3.canlitv.com:1935/live/vuslattv/HasBahCa.m3u8
+Vuslat TV (720p) [Not 24/7],http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
+Vuslat TV (720p) [Not 24/7],https://59cba4d34b678.streamlock.net/live/vuslattv/playlist.m3u8
+Vuslat TV (720p) [Not 24/7],https://waw2.artiyerelmedya.net/vuslattv/bant1/playlist.m3u8
+360 TV (720p) [Not 24/7],https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+Ahi TV Kirsehir (576p),http://yayin3.canlitv.com:1935/canlitv/ahitv/playlist.m3u8
+Daawah TV,http://51.15.246.58:8081/daawahtv/daawahtv2/playlist.m3u8
+KANAL 58 (720p) [Not 24/7],https://broadcasttr.com:446/kanal58/bant1/playlist.m3u8
+Milyon TV (720p),https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+Ogün TV (360p),https://s01.vpis.io/ogun/ogun.m3u8
+Torba TV (720p) [Not 24/7],https://59cba4d34b678.streamlock.net/canlitv/torbatv/playlist.m3u8
 阿联酋,#genre#
 Abu Dhabi Aloula (1080p),https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
 Abu Dhabi Emirates (1080p),https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
