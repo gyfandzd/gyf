@@ -3187,6 +3187,15 @@ Start TV,https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 Βουλή Τηλεόραση 2 (540p) [Not 24/7],https://streamer-cache.grnet.gr/parliament/hls/webtv2.m3u8
 
 西班牙,#genre#
+Antena 3,http://red.ipfox.org:8080/osama2022/osama2023/47461?checkedby:iptvcat.com
+Antena 3,http://red.ipfox.org:8080/osama2022/osama2023/47460?checkedby:iptvcat.com
+La Sexta,http://red.ipfox.org:8080/osama2022/osama2023/47455?checkedby:iptvcat.com
+La Sexta,http://red.ipfox.org:8080/osama2022/osama2023/47454?checkedby:iptvcat.com
+LA 1,http://red.ipfox.org:8080/osama2022/osama2023/47463?checkedby:iptvcat.com
+Cuatro,http://red.ipfox.org:8080/osama2022/osama2023/47459?checkedby:iptvcat.com
+Cuatro,http://red.ipfox.org:8080/osama2022/osama2023/47458?checkedby:iptvcat.com
+Telecinco,http://red.ipfox.org:8080/osama2022/osama2023/47457?checkedby:iptvcat.com
+Telecinco,http://red.ipfox.org:8080/osama2022/osama2023/47456?checkedby:iptvcat.com
 7 Noticias (1080p),https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 25 TV (480p) [Not 24/7],https://cdnlive.shooowit.net/25televisiolive/smil:channel1.smil/master.m3u8
 101TV Malaga (1080p) [Not 24/7],https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
