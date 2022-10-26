@@ -3776,6 +3776,10 @@ True Crime Now,https://alliantcontent-truecrimenow-3-nz.samsung.wurl.tv/playlist
 Wonder,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
 
 巴西,#genre#
+SBT,https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8?checkedby:iptvcat.com
+SBT,https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8?checkedby:iptvcat.com
+SBT ALTEROSA,http://168.205.87.198:8555/live/1221/123456/104.ts?checkedby:iptvcat.com
+SBT ALTEROSA,http://168.205.87.198:8555/live/michele/123456/104.ts?checkedby:iptvcat.com
 Rede Minas,https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8
 Futura (540p) [Not 24/7],https://tv.unisc.br/hls/test.m3u8
 Tastemade Brasil (1080p),https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
