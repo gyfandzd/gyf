@@ -2390,6 +2390,7 @@ Sada TV (1080p) [Not 24/7],http://cdn12.henico.net:8080/live/sadatv/index.m3u8
 Zainabia Channel,https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 Zee News Malayalam,https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8
 德国,#genre#
+ARD,https://mcdn.daserste.de/daserste/int/master.m3u8
 ARTI TV,https://5856e1a25f71a.streamlock.net/easycast7-live/mp4:livestreamhd20/playlist.m3u8
 BLK TV,https://5856e1a25f71a.streamlock.net/easycast8-live/mp4:livestreamhd8/playlist.m3u8
 Campus TV Magdeburg,https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8?=&amp;ref=www.rheinmaintv.de&amp;seid=598541#https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8?=&ref=www.rheinmaintv.de&seid=598541
