@@ -2548,22 +2548,6 @@ Xite (720p),https://xite-samsung-de.amagi.tv/playlist.m3u8
 Tastemade Deutschland (720p),https://tastemade-de-samsung.amagi.tv/playlist.m3u8
 
 法国,#genre#
-TF1,https://s13.tntendirect.com/tf1/live/chunks.m3u8?nimblesessionid=743463&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMiA4OjMyOjU4IEFNJmhhc2hfdmFsdWU9Ykl1SEgrMUt6WUduSVlkaUxMVWt1dz09JnZhbGlkbWludXRlcz0zMA==
-France 2,https://s12.tntendirect.com/france2/live/chunks.m3u8?nimblesessionid=431240&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMiA4OjM3OjM3IEFNJmhhc2hfdmFsdWU9bVZyL1JNNXlOeTE2ajhvY1lsb2VTUT09JnZhbGlkbWludXRlcz0zMA==
-France 3,https://s12.tntendirect.com/france3/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMiA4OjM5OjU0IEFNJmhhc2hfdmFsdWU9SFdTYXdDMU1abnZ5dytOZ0tyL2hXdz09JnZhbGlkbWludXRlcz0zMA==
-M6,https://s14.tntendirect.com/m6/live/chunks.m3u8?nimblesessionid=316248&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMiA4OjQ0OjE5IEFNJmhhc2hfdmFsdWU9blZnd2F4Q0pwQkU5RFd6QjdKcUtsZz09JnZhbGlkbWludXRlcz0zMA==
-Arte,https://s12.tntendirect.com/arte/live/chunks.m3u8?nimblesessionid=431307&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMiA4OjQ1OjI0IEFNJmhhc2hfdmFsdWU9Y0xDcjRxVWw2eWJhazlRemZuNitWQT09JnZhbGlkbWludXRlcz0zMA==
-C8,https://s14.tntendirect.com/d8/live/chunks.m3u8?nimblesessionid=316262&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMiA4OjQ2OjIyIEFNJmhhc2hfdmFsdWU9MHZFRklVRGpQMXBzRXJGbHhFL1FqQT09JnZhbGlkbWludXRlcz0zMA==
-W9,https://s13.tntendirect.com/w9/live/chunks.m3u8?nimblesessionid=743535&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMiA4OjQ4OjE1IEFNJmhhc2hfdmFsdWU9UHNoM3BLNi9nM0lGMU1QOXZzdHVRUT09JnZhbGlkbWludXRlcz0zMA==
-TMC,https://s13.tntendirect.com/tmc/live/chunks.m3u8?nimblesessionid=743538&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMiA4OjQ4OjU3IEFNJmhhc2hfdmFsdWU9YXdGNjJ4MGxRYzlkNlFXek9TaU55QT09JnZhbGlkbWludXRlcz0zMA==
-TFX,https://s13.tntendirect.com/nt1/live/chunks.m3u8?nimblesessionid=743540&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMiA4OjUwOjExIEFNJmhhc2hfdmFsdWU9cmVBbm1pR0JLL3B3NFJYdnF0NXBhZz09JnZhbGlkbWludXRlcz0zMA==
-NRJ12,https://s13.tntendirect.com/nrj12/live/chunks.m3u8?nimblesessionid=743543&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMiA4OjUxOjEzIEFNJmhhc2hfdmFsdWU9N2ZmakwxRFQ3VFUrT2lidDloZktSdz09JnZhbGlkbWludXRlcz0zMA==
-BFM,https://s12.tntendirect.com/bmftv/live/chunks.m3u8?nimblesessionid=431326&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMiA4OjUyOjIzIEFNJmhhc2hfdmFsdWU9Q1ZyN3NiVEZrN2xSUzdxVitLbVB0Zz09JnZhbGlkbWludXRlcz0zMA==
-CSTAR,https://s15.tntendirect.com/d17/live/chunks.m3u8?nimblesessionid=315577&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMiA4OjUzOjM0IEFNJmhhc2hfdmFsdWU9ZFFqclJIcjc1QjMvSFFMRGhLSEIydz09JnZhbGlkbWludXRlcz0zMA==
-TF1 Séries Films,https://s13.tntendirect.com/hd1/live/chunks.m3u8?nimblesessionid=743557&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMiA4OjU0OjIxIEFNJmhhc2hfdmFsdWU9TGx5QzR5aXN2VWhqakdwVEZueHhydz09JnZhbGlkbWludXRlcz0zMA==
-L'Équipe 21,https://s15.tntendirect.com/lequipe21/live/chunks.m3u8?nimblesessionid=315587&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMiA4OjU1OjM2IEFNJmhhc2hfdmFsdWU9cE9xSGxtdVNPQkpGam0zMFIzbVNrQT09JnZhbGlkbWludXRlcz0zMA==
-6TER,https://s13.tntendirect.com/6ter/live/chunks.m3u8?nimblesessionid=743563&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMiA4OjU2OjQ3IEFNJmhhc2hfdmFsdWU9NitqZytXVElqMGFQQnRVV2RzWk11QT09JnZhbGlkbWludXRlcz0zMA==
-Chérie 25,https://s13.tntendirect.com/cherie25/live/chunks.m3u8?nimblesessionid=743565&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMiA4OjU3OjI5IEFNJmhhc2hfdmFsdWU9dnBCNHpVTlFxeUFXMGp4L0ZaRGFwZz09JnZhbGlkbWludXRlcz0zMA==
 Alpe d’Huez TV,https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/playlist.m3u8
 FGenerations TV,https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
 PERSIANA +,http://biptv.tv:80/live/biptvstream_orig/index.m3u8
