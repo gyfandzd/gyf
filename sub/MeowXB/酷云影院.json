@@ -42,8 +42,8 @@
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
-  "bfjiequshuzuqian": "class=\"content_playlist", 
-  "bfjiequshuzuhou": "</ul>", 
+  "bfjiequshuzuqian": "class=\"list-box", 
+  "bfjiequshuzuhou": "</div>", 
 
   "zhuangtaiqian": "状态：</span>",
   "zhuangtaihou": "</span>",
