@@ -2,24 +2,24 @@
   "name": "91日剧",   //填网站名称
   "tihuan": "cnzz.com", 
 //------填网站链接
-  "url": "https://rijuvip.com/",  
+  "url": "https://www.dn51.net/",  
   "shouye": "1",
 //------网站列表的分类
-  "fenlei": "伦理$/dy/lunlipian--------#电影$/dy/dianying--------#连续剧$/dy/lianxuju--------#综艺$/dy/zongyi--------#动漫$/dy/dongman--------",
+  "fenlei": "日剧$/riju--------#韩剧$/hanju--------#泰剧$/taiju--------#电影$/dianying--------",
 //------网站翻页链接的后缀
   "houzhui": "---.html",   
-  "shifouercijiequ": "1",
-  "jiequqian": "bd clearfix",
-  "jiequhou": "</div>",
+  "shifouercijiequ": "0",
+  "jiequqian": "",
+  "jiequhou": "",
 //------截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
-  "jiequshuzuqian": "class=\"myui-vodlist__box",  
+  "jiequshuzuqian": "<a",  
 //------ //截取的列表数组的后关键词
-  "jiequshuzuhou": "</span>",
+  "jiequshuzuhou": "</a>",
 //------列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
-  "tupianqian": "data-original=\"",
+  "tupianqian": "img src=\"",
 //------//列表中资源的图片后关键词,截取的关键词有 " 的用 \ 进行转义
   "tupianhou": "\"",
-  "biaotiqian": "title=\"",
+  "biaotiqian": "target=\"",
   "biaotihou": "\"",
   "lianjieqian": "href=\"",
   "lianjiehou": "</div>",
