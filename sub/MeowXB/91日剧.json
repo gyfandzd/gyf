@@ -18,11 +18,11 @@
 //------列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
   "tupianqian": "data-original=\"",
 //------//列表中资源的图片后关键词,截取的关键词有 " 的用 \ 进行转义
-  "tupianhou": "\",
+  "tupianhou": "\"",
   "biaotiqian": "title=\"",
-  "biaotihou": "\",
+  "biaotihou": "\"",
   "lianjieqian": "href=\"",
-  "lianjiehou": "</div>",
+  "lianjiehou": "</div>"",
 //------搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=500",
