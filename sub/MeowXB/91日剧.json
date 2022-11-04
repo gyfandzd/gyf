@@ -7,7 +7,7 @@
 //------网站列表的分类
   "fenlei": "日剧$/riju--------#韩剧$/hanju--------#泰剧$/taiju--------#电影$/dianying--------",
 //------网站翻页链接的后缀
-  "houzhui": "---.html",   
+  "houzhui": "/",   
   "shifouercijiequ": "1",
   "jiequqian": "class=\"wrap",
   "jiequhou": "</div>",
