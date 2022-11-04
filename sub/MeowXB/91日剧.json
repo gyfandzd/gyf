@@ -5,7 +5,7 @@
   "url": "http://www.wwmulu.com/",  
   "shouye": "1",
 //------网站列表的分类
-  //"fenlei": "日剧$/rj/rj#日本电影$/rj/dy#日漫$/rj/dm#国产剧$/rj/gcj",
+  "fenlei": "日剧$/rj/rj#日本电影$/rj/dy#日漫$/rj/dm#国产剧$/rj/gcj",
 //------网站翻页链接的后缀
   "houzhui": ".html",   
   "shifouercijiequ": "0",
