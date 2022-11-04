@@ -3927,34 +3927,160 @@ Fashion &amp; Lifestyle,http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
 ПравдаТУТ,http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
 Радио Люкс,http://95.67.21.100/hls/prm_ua_hi/index.m3u8
 意大利,#genre#
+12 TV Parma (540p) [Not 24/7],https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8?checkedby:iptvcat.com
+51 Radio TV,http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8?checkedby:iptvcat.com
+51 Radio TV,http://philgrim.online:2082/P22011727/XKZauGURdW3r/235894?checkedby:iptvcat.com
 51 Radio TV,https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 Aurora Arte,https://media.streambrothers.com:1936/8038/8038/playlist.m3u8
-Canale 2 Altamura,https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist.m3u8#http://canale10.cloud:1935/ch10live/high.stream/master.m3u8
+Canale 2 Altamura,https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8?checkedby:iptvcat.com
+Canale 2 Altamura,https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist.m3u8?checkedby:iptvcat.com
+Canale 2 Altamura,https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8?checkedby:iptvcat.com
+Canale 2 Altamura,https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist.m3u8
+Canale 2 Altamura,http://canale10.cloud:1935/ch10live/high.stream/master.m3u8
+canale 5,http://ziyadiptv.net:80/05519648407TT/05519648407/44616?checkedby:iptvcat.com
+Canale 7,http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8?checkedby:iptvcat.com
+Canale 7,http://philgrim.online:2082/P22011727/XKZauGURdW3r/235925?checkedby:iptvcat.com
+Canale 7,http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8?checkedby:iptvcat.com
 Canale 7,https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8
-CANALE 7,https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
+Canale 7,https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
+Canale 8,http://philgrim.online:2082/P22011727/XKZauGURdW3r/235926?checkedby:iptvcat.com
+Canale 8,http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8?checkedby:iptvcat.com
+CG TV HD,http://ziyadiptv.net:80/05519648407TT/05519648407/44220?checkedby:iptvcat.com
+Cielo HD,http://obsfullhd.tv:25461/live:duygulu__68/TrUZNznbVCzA/53209?checkedby:iptvcat.com
+Cinema Segreto HD,http://ziyadiptv.net:80/05519648407TT/05519648407/44218?checkedby:iptvcat.com
+DAZN 1,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159557?checkedby:iptvcat.com
+Discovery Channel HD,http://ziyadiptv.net:80/05519648407TT/05519648407/44258?checkedby:iptvcat.com
+DISCOVERY FOCUS,http://cineapp.org:8000/Fernando/Fernando/15042?checkedby:iptvcat.com
+DISCOVERY NOVE,http://philgrim.online:2082/P22011727/XKZauGURdW3r/235889?checkedby:iptvcat.com
+DISCOVERY SCIENCE IT,http://philgrim.online:2082/P22011727/XKZauGURdW3r/235879?checkedby:iptvcat.com
+DISCOVERY SCIENCE IT,http://philgrim.online:2082/P22011727/XKZauGURdW3r/235880?checkedby:iptvcat.com
+DMAX,http://philgrim.online:2082/P22011727/XKZauGURdW3r/235876?checkedby:iptvcat.com
 Elive TV Brescia,https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
+Euro Indie Music Chart TV,http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?checkedby:iptvcat.com
+Eurosport 1,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159559?checkedby:iptvcat.com
+Eurosport 1,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/53330?checkedby:iptvcat.com
+Eurosport 2,http://philgrim.online:2082/P22011727/XKZauGURdW3r/235907?checkedby:iptvcat.com
+Eurosport 2,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159560?checkedby:iptvcat.com
+FailArmy TV,http://ziyadiptv.net:80/05519648407TT/05519648407/44239?checkedby:iptvcat.com
+FOX HD,http://obsfullhd.tv:25461/live:duygulu__68/TrUZNznbVCzA/53262?checkedby:iptvcat.com
+GAMBERO ROSSO HD,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/53212?checkedby:iptvcat.com
+Italia 2 TV,http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8?checkedby:iptvcat.com
+LA7D,http://cineapp.org:8000/Fernando/Fernando/4275?checkedby:iptvcat.com
+Mastiii,http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+MEDIASET CANALE 5 HD,http://philgrim.online:2082/P22011727/XKZauGURdW3r/235922?checkedby:iptvcat.com
+MEDIASET CANALE 5 HD,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/52912?checkedby:iptvcat.com
+MEDIASET CANALE 5 HD,http://obsfullhd.tv:25461/live:duygulu__68/TrUZNznbVCzA/52912?checkedby:iptvcat.com
+MEDIASET IRIS,http://obsfullhd.tv:25461/live:duygulu__68/TrUZNznbVCzA/53073?checkedby:iptvcat.com
 Motor TV,https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
+NATGEO,http://philgrim.online:2082/P22011727/XKZauGURdW3r/235883?checkedby:iptvcat.com
+Orler TV,https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8?checkedby:iptvcat.com
 Parole di Vita,https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
-Radio Iglesias,http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8#https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
+Radio Birikina TV,https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8?checkedby:iptvcat.com
+Radio Iglesias,http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+Radio Iglesias,https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
 Radio Iglesias Sardegna,http://wms.shared.streamshow.it:1935/veratv/veratv/playlist.m3u8
 Radio Kiss Kiss Italia TV,https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8
+Radio Number One,https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8?checkedby:iptvcat.com
+RAI 1 HD,http://philgrim.online:2082/P22011727/XKZauGURdW3r/235826?checkedby:iptvcat.com
+RAI 1 HD,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/53053?checkedby:iptvcat.com
+RAI 1 HD,http://obsfullhd.tv:25461/live:duygulu__68/TrUZNznbVCzA/53053?checkedby:iptvcat.com
+RAI 1 HD,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/53054?checkedby:iptvcat.com
+RAI 1 HD,http://obsfullhd.tv:25461/live:duygulu__68/TrUZNznbVCzA/53054?checkedby:iptvcat.com
+RAI 2 HD,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/53056?checkedby:iptvcat.com
+RAI 2 HD,http://obsfullhd.tv:25461/live:duygulu__68/TrUZNznbVCzA/53056?checkedby:iptvcat.com
+RAI 2 HD,http://philgrim.online:2082/P22011727/XKZauGURdW3r/235827?checkedby:iptvcat.com
+RAI 2 HD,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/53055?checkedby:iptvcat.com
+RAI 2 HD,http://obsfullhd.tv:25461/live:duygulu__68/TrUZNznbVCzA/53055?checkedby:iptvcat.com
+Rai 3,http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8?checkedby:iptvcat.com
+Rai 3,http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8?checkedby:iptvcat.com
+RAI 4 FHD,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/53058?checkedby:iptvcat.com
+RAI 4 FHD,http://obsfullhd.tv:25461/live:duygulu__68/TrUZNznbVCzA/53058?checkedby:iptvcat.com
+RAI 4 FHD,http://obsfullhd.tv:25461/live:duygulu__68/TrUZNznbVCzA/52883?checkedby:iptvcat.com
+RAI 5 FHD,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/53059?checkedby:iptvcat.com
+RAI 5 FHD,http://obsfullhd.tv:25461/live:duygulu__68/TrUZNznbVCzA/53059?checkedby:iptvcat.com
+RAI MOVIE,http://cineapp.org:8000/Fernando/Fernando/2674?checkedby:iptvcat.com
+RAI NEWS 24 HD,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/53067?checkedby:iptvcat.com
+Rai Premium,http://ziyadiptv.net:80/05519648407TT/05519648407/44180?checkedby:iptvcat.com
+RAI SCUOLA HD,http://obsfullhd.tv:25461/live:duygulu__68/TrUZNznbVCzA/53219?checkedby:iptvcat.com
+RAI SPORT 2 HD,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/54228?checkedby:iptvcat.com
+RAI SPORT 2 HD,http://obsfullhd.tv:25461/live:duygulu__68/TrUZNznbVCzA/54228?checkedby:iptvcat.com
+RAI SPORT HD,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/54230?checkedby:iptvcat.com
+RAI SPORT HD,http://obsfullhd.tv:25461/live:duygulu__68/TrUZNznbVCzA/54230?checkedby:iptvcat.com
+RAI SPORT HD,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159562?checkedby:iptvcat.com
+RAI SPORT+,http://cineapp.org:8000/Fernando/Fernando/1276?checkedby:iptvcat.com
+RAI STORIA FHD,http://cineapp.org:8000/Fernando/Fernando/5564?checkedby:iptvcat.com
+RAI STORIA FHD,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/53218?checkedby:iptvcat.com
+RAI STORIA FHD,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/52892?checkedby:iptvcat.com
+RAI STORIA FHD,http://obsfullhd.tv:25461/live:duygulu__68/TrUZNznbVCzA/52892?checkedby:iptvcat.com
+RAI YOYO HD,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/53066?checkedby:iptvcat.com
+RAI YOYO HD,http://obsfullhd.tv:25461/live:duygulu__68/TrUZNznbVCzA/53066?checkedby:iptvcat.com
+RDS Social TV,https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8?checkedby:iptvcat.com
+RDS Social TV,https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8?checkedby:iptvcat.com
+REAL TIME HD,http://obsfullhd.tv:25461/live:duygulu__68/TrUZNznbVCzA/53223?checkedby:iptvcat.com
+REAL TIME HD,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/53223?checkedby:iptvcat.com
+REAL TIME HD,http://philgrim.online:2082/P22011727/XKZauGURdW3r/235843?checkedby:iptvcat.com
+RETE 4 FHD,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/53060?checkedby:iptvcat.com
+RETE 4 FHD,http://obsfullhd.tv:25461/live:duygulu__68/TrUZNznbVCzA/53060?checkedby:iptvcat.com
 RMK TV Sciacca,http://59d7d6f47d7fc.streamlock.net:1935/elivebresciatv/elivebresciatv/playlist.m3u8
+RSI LA 2 FHD,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/53079?checkedby:iptvcat.com
+RSI LA 2 FHD,http://obsfullhd.tv:25461/live:duygulu__68/TrUZNznbVCzA/53079?checkedby:iptvcat.com
+RTP,https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8?checkedby:iptvcat.com
+RTTR Trento (720p),http://philgrim.online:2082/P22011727/XKZauGURdW3r/235917?checkedby:iptvcat.com
+Sada TV,http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+Shemaroo Bollywood Premie,http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+SKY CINEMA DRAMA FHD,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/52898?checkedby:iptvcat.com
+SKY CINEMA DRAMA FHD,http://obsfullhd.tv:25461/live:duygulu__68/TrUZNznbVCzA/52898?checkedby:iptvcat.com
+SKY CINEMA DRAMA FHD,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/53277?checkedby:iptvcat.com
+SKY CINEMA DUE FHD*,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/52899?checkedby:iptvcat.com
+SKY CINEMA DUE FHD*,http://obsfullhd.tv:25461/live:duygulu__68/TrUZNznbVCzA/52899?checkedby:iptvcat.com
+SKY CINEMA UNO HD,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/53275?checkedby:iptvcat.com
+SKY CINEMA UNO HD,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/52902?checkedby:iptvcat.com
+SKY CINEMA UNO HD,http://obsfullhd.tv:25461/live:duygulu__68/TrUZNznbVCzA/52902?checkedby:iptvcat.com
+SKY FOOD NETWORK,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/52908?checkedby:iptvcat.com
+SKY FOOD NETWORK,http://obsfullhd.tv:25461/live:duygulu__68/TrUZNznbVCzA/52908?checkedby:iptvcat.com
+SKY PRIMAFILA 6HD,http://philgrim.online:2082/P22011727/XKZauGURdW3r/235913?checkedby:iptvcat.com
+Sky Sport Collection FHD,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/53338?checkedby:iptvcat.com
+Sky Sport Collection FHD,http://obsfullhd.tv:25461/live:duygulu__68/TrUZNznbVCzA/53338?checkedby:iptvcat.com
+Sky Sport F1,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159567?checkedby:iptvcat.com
+SKY SPORT FOTBALL,http://philgrim.online:2082/P22011727/XKZauGURdW3r/235901?checkedby:iptvcat.com
+Sky Sport Uno,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159572?checkedby:iptvcat.com
+SKY SPORTS 24,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159565?checkedby:iptvcat.com
+SKY SPORTS 24,http://philgrim.online:2082/P22011727/XKZauGURdW3r/235902?checkedby:iptvcat.com
+SKY SPORTS 24,http://obsfullhd.tv:25461/live:duygulu__68/TrUZNznbVCzA/53320?checkedby:iptvcat.com
+sky supercalcio hd,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/52917?checkedby:iptvcat.com
+sky supercalcio hd,http://obsfullhd.tv:25461/live:duygulu__68/TrUZNznbVCzA/52917?checkedby:iptvcat.com
+Sophia TV,https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8?checkedby:iptvcat.com
+Sophia TV,https://www.onairport.live/sophiatv-it-live/livestream_low/chunklist_w217998957.m3u8?checkedby:iptvcat.com
+Super Tennis,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159574?checkedby:iptvcat.com
 Super TV,http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8
+Super TV Brescia,http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8?checkedby:iptvcat.com
 Super TV Brescia,https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
 SuperTV,http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
 Tele Pavia,https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
+Telefoggia (480p) [Not 24/7],http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8?checkedby:iptvcat.com
+Telefriuli (Veneto),http://ziyadiptv.net:80/05519648407TT/05519648407/44397?checkedby:iptvcat.com
 Telemolise,https://5db313b643fd8.streamlock.net:443/Paroledivita/Paroledivita/playlist.m3u8
 teleMonteneve,https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
 TeleNordest,https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
+telePAVIA,http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8?checkedby:iptvcat.com
+TeleQuattro,http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8?checkedby:iptvcat.com
+TeleQuattro,http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w352656972.m3u8?checkedby:iptvcat.com
 TeleRent 7Gold,http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+Telesud Trapani,https://5cbd3bc28341f.streamlock.net:444/telesud/_definst_/live/playlist.m3u8?checkedby:iptvcat.com
+Telesud Trapani,https://5cbd3bc28341f.streamlock.net:444/telesud/live/playlist.m3u8?checkedby:iptvcat.com
 Teletricolore,https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
+Tennis Channel,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159575?checkedby:iptvcat.com
+TOP CRIME,http://philgrim.online:2082/P22011727/XKZauGURdW3r/235873?checkedby:iptvcat.com
 TV Qui (Modena),http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8
 TV Sei,https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
+TV8,http://philgrim.online:2082/P22011727/XKZauGURdW3r/235844?checkedby:iptvcat.com
 Vera TV,https://5929b138b139d.streamlock.net/CompanyTV/livestream_720p/playlist.m3u8
+Vera TV Marche,http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8?checkedby:iptvcat.com
+Vera TV Marche,http://wms.shared.streamshow.it:1935/veratv/veratv/playlist.m3u8?checkedby:iptvcat.com
 Vera TV Marche,http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
-Mastiii,http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
-Sada TV,http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
-Shemaroo Bollywood Premie,http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+Videolina (Sardegna),http://livestreaming.videolina.it/live/Videolina/playlist.m3u8?checkedby:iptvcat.com
+Videolina (Sardegna),http://livestreaming.videolina.it/live/Videolina/chunklist_w523418370.m3u8?checkedby:iptvcat.com
+
 葡萄牙,#genre#
 Canal 11 (720p),https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 Kuriakos Cine (1080p) [Not 24/7],https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
