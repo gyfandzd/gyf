@@ -22,7 +22,7 @@
   "biaotiqian": "title=\"",
   "biaotihou": "\"",
   "lianjieqian": "href=\"",
-  "lianjiehou": "</div>"",
+  "lianjiehou": "</div>",
 //------搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=500",
