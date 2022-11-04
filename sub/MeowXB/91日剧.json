@@ -2,17 +2,17 @@
   "name": "91日剧",   //填网站名称
   "tihuan": "cnzz.com", 
 //------填网站链接
-  "url": "http://www.wwmulu.com/",  
+  "url": "https://rijuvip.com/",  
   "shouye": "1",
 //------网站列表的分类
-  "fenlei": "日剧$/rj/rj#日本电影$/rj/dy#日漫$/rj/dm#国产剧$/rj/gcj",
+  "fenlei": "伦理$/dy/lunlipian#电影$/dy/dianying#连续剧$/dy/lianxuju#综艺$/dy/zongyi#动漫$/dy/dongman",
 //------网站翻页链接的后缀
-  "houzhui": ".html",   
+  "houzhui": "/",   
   "shifouercijiequ": "0",
   "jiequqian": "空",
   "jiequhou": "空",
 //------截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
-  "jiequshuzuqian": "<a",   
+  "jiequshuzuqian": "class=\"myui-vodlist__box"",   
 //------ //截取的列表数组的后关键词
   "jiequshuzuhou": "</div>",
 //------列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
