@@ -8,9 +8,9 @@
   "fenlei": "伦理$/dy/lunlipian--------#电影$/dy/dianying--------#连续剧$/dy/lianxuju--------#综艺$/dy/zongyi--------#动漫$/dy/dongman--------",
 //------网站翻页链接的后缀
   "houzhui": "---.html",   
-  "shifouercijiequ": "0",
-  "jiequqian": "空",
-  "jiequhou": "空",
+  "shifouercijiequ": "1",
+  "jiequqian": "myui-panel_bd",
+  "jiequhou": "</div>",
 //------截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
   "jiequshuzuqian": "class=\"myui-vodlist__box",  
 //------ //截取的列表数组的后关键词
