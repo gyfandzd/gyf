@@ -8,9 +8,9 @@
   "fenlei": "日剧$/riju--------#韩剧$/hanju--------#泰剧$/taiju--------#电影$/dianying--------",
 //------网站翻页链接的后缀
   "houzhui": "---.html",   
-  "shifouercijiequ": "0",
-  "jiequqian": "",
-  "jiequhou": "",
+  "shifouercijiequ": "1",
+  "jiequqian": "class=\"wrap"",
+  "jiequhou": "</div>",
 //------截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
   "jiequshuzuqian": "<a",  
 //------ //截取的列表数组的后关键词
