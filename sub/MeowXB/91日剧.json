@@ -7,7 +7,7 @@
 //------网站列表的分类
   "fenlei": "伦理$/dy/lunlipian--------#电影$/dy/dianying--------#连续剧$/dy/lianxuju--------#综艺$/dy/zongyi--------#动漫$/dy/dongman--------",
 //------网站翻页链接的后缀
-  "houzhui": "/",   
+  "houzhui": "---.html",   
   "shifouercijiequ": "0",
   "jiequqian": "空",
   "jiequhou": "空",
