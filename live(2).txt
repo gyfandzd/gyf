@@ -472,2211 +472,395 @@ VIUTV6,http://198.16.64.10:8278/viusix_twn/playlist.m3u8?tid=MC6C141237661412376
 老年剧场,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_179_600_t10/c56_lb_179_600_t10.m3u8
 谍战剧场,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_216_600_t10/c57_lb_216_600_t10.m3u8
 
-哔哩-轮播,#genre#
-【蜡笔小新】国语高清，24小时直播哦！,http://youguan.gq/bili.php/?id=10375360
-童年阴影系列之大杂烩电影,http://youguan.gq/bili.php/?id=21680912
-【电影】 经典 高能 动作 悬疑  喜剧,http://youguan.gq/bili.php/?id=22293663
-《经典老电影》总有你没看过的,http://youguan.gq/bili.php/?id=7377008
-【蜡笔小新】绝版画质,http://youguan.gq/bili.php/?id=21570935
-铁齿铜牙纪晓岚o(*////▽////*,http://youguan.gq/bili.php/?id=6694373
-国语经典！高画质,http://youguan.gq/bili.php/?id=3880983
-不该去的地方不去！,http://youguan.gq/bili.php/?id=3963033
-【蜡笔小新】你回来啦～,http://youguan.gq/bili.php/?id=22804740
-别提片名,http://youguan.gq/bili.php/?id=24570043
-开端版【龙门镖局】 武林后下饭剧背景音,http://youguan.gq/bili.php/?id=81789
-郭德纲单口相声24小时直播,http://youguan.gq/bili.php/?id=22375571
-【海绵宝宝】文明观看 素质弹幕,http://youguan.gq/bili.php/?id=61834
-ㅤ,http://youguan.gq/bili.php/?id=21377115
-【DYS】郭德纲于谦 传统相声影音馆,http://youguan.gq/bili.php/?id=308438
-【林正英】僵尸 经典 女鬼 24H,http://youguan.gq/bili.php/?id=70155
-蜡笔小新,http://youguan.gq/bili.php/?id=1895574
-挨吓减肥！进来挨吓！,http://youguan.gq/bili.php/?id=2108833
-狄仁杰  轮播,http://youguan.gq/bili.php/?id=493067
-高画质/恶作剧之吻1、2部 24h无限播,http://youguan.gq/bili.php/?id=21298611
-【神断狄仁杰】火热轮播中,http://youguan.gq/bili.php/?id=22621344
-樱桃小丸子 蜡笔小新 蓝光特别版,http://youguan.gq/bili.php/?id=21614203
-【周星驰】喜剧 动作 僵尸 24H,http://youguan.gq/bili.php/?id=47917
-炊事班的故事第1、2部,http://youguan.gq/bili.php/?id=14457148
-放碟时间中,http://youguan.gq/bili.php/?id=23729165
-经典老电影之鬼怪篇,http://youguan.gq/bili.php/?id=23782983
-纯音馆,http://youguan.gq/bili.php/?id=157901
-康熙微服私访记1-3,http://youguan.gq/bili.php/?id=13374466
-樱桃小丸子国语台配,http://youguan.gq/bili.php/?id=11765640
-林正英 僵尸 女鬼 经典 高能 电影,http://youguan.gq/bili.php/?id=5226265
-热死啦热死啦热死啦,http://youguan.gq/bili.php/?id=27844
-无鬼畜版 【高清】【怀旧经典】,http://youguan.gq/bili.php/?id=22145508
-蜡笔小新24h睡觉背景音,http://youguan.gq/bili.php/?id=11579951
-【蜡笔小新】 24小时无限大放送,http://youguan.gq/bili.php/?id=22241668
-【东北一家人】当年的下饭神剧24h轮播,http://youguan.gq/bili.php/?id=22786199
-啥也别说进来一起看,http://youguan.gq/bili.php/?id=24512012
-【哆啦A梦】旧版全集,http://youguan.gq/bili.php/?id=1717236
-中华小当家/中华一番 FHD-233,http://youguan.gq/bili.php/?id=655291
-【粤语】经典电视剧,http://youguan.gq/bili.php/?id=3790580
-一起看终极三国 | 无人值守自动播放,http://youguan.gq/bili.php/?id=301629
-【重制版】国配经典,http://youguan.gq/bili.php/?id=21564656
-回归好剧 -【①号超清烧脑刑侦悬疑系列】,http://youguan.gq/bili.php/?id=23776217
-原声中文字幕：猫和老鼠,http://youguan.gq/bili.php/?id=1024814
-雍正王朝九子夺嫡,http://youguan.gq/bili.php/?id=21205932
-迷茫看★士兵突击|蓝光原版轮播|放映厅,http://youguan.gq/bili.php/?id=11344693
-飞哥与小佛,http://youguan.gq/bili.php/?id=5759023
-炊事班的故事,http://youguan.gq/bili.php/?id=21974731
-林正英电影,http://youguan.gq/bili.php/?id=23553458
-下饭神漫，童年回忆,http://youguan.gq/bili.php/?id=11889224
-【案发现场】【现场铁证】【高清字幕版】,http://youguan.gq/bili.php/?id=21733247
-铁骨铮铮东森森【Dread Hunge】,http://youguan.gq/bili.php/?id=21594046
-大宋提刑官直播有礼物的送点谢谢,http://youguan.gq/bili.php/?id=21546991
-【童年阴影】87版聊斋,http://youguan.gq/bili.php/?id=14055482
-【久违】蜡笔小新剧场版哦~,http://youguan.gq/bili.php/?id=22693306
-动画狂欢曲-芭比,http://youguan.gq/bili.php/?id=662181
-飞出个未来Futurama蓝光画质轮播,http://youguan.gq/bili.php/?id=1954990
-大宋提刑官 神断狄仁杰 铁齿铜牙纪晓岚,http://youguan.gq/bili.php/?id=23499588
-野原新之助 蜡笔小新新番24小时随机播放,http://youguan.gq/bili.php/?id=21507503
-【蓝光】 看看猴哥打妖怪！齐天大圣悟空,http://youguan.gq/bili.php/?id=2803563
-请关灯后食用！,http://youguan.gq/bili.php/?id=20768
-4K 孙悟空 游记 全网最清晰版本！,http://youguan.gq/bili.php/?id=23150921
-红楼梦不同步模糊的清晰度切换原画,http://youguan.gq/bili.php/?id=5568482
-高画质/命中注定我爱你+恶作剧之吻,http://youguan.gq/bili.php/?id=15083950
-童年回忆丨守护甜心丨全三季轮播,http://youguan.gq/bili.php/?id=14434
-【林正英】 经典 24H,http://youguan.gq/bili.php/?id=82997
-七十二家房客,http://youguan.gq/bili.php/?id=23674204
-蜡笔小新全集高清在线24h播放,http://youguan.gq/bili.php/?id=23190944
-粤语残片,http://youguan.gq/bili.php/?id=3568283
-马大帅范德彪的日常生活,http://youguan.gq/bili.php/?id=23726955
-bgm,http://youguan.gq/bili.php/?id=10112
-龙门镖局1.5弹幕版,http://youguan.gq/bili.php/?id=3039437
-吓出好身材,http://youguan.gq/bili.php/?id=21657651
-经典电影，文明观影！每晚6点开播！,http://youguan.gq/bili.php/?id=24551837
-【经典电影】武侠 动作 喜剧 警匪,http://youguan.gq/bili.php/?id=21008253
-【大秦帝国】超清 24小时轮播 大秦万年,http://youguan.gq/bili.php/?id=11259274
-《铁齿铜牙纪晓岚》24小时不间断轮播,http://youguan.gq/bili.php/?id=23989703
-嘘！别闹！地球人就要来了……,http://youguan.gq/bili.php/?id=8176121
-哆啦A梦新番 24小时连播 蓝胖子,http://youguan.gq/bili.php/?id=482946
-海绵宝宝 央配,http://youguan.gq/bili.php/?id=4355330
-欢乐一笑轮播~小品相声,http://youguan.gq/bili.php/?id=50937
-戴上耳机，进来你就出不去了,http://youguan.gq/bili.php/?id=397138
-24h铁齿铜牙纪晓岚1-4部,http://youguan.gq/bili.php/?id=23900931
-bilibili主播的直播间,http://youguan.gq/bili.php/?id=22239221
-【国语周】周星驰 林正英 喜剧 童年电影,http://youguan.gq/bili.php/?id=2982619
-新白娘子传奇。24小时经典轮播,http://youguan.gq/bili.php/?id=5960549
-名侦探柯南（主要剧情随缘播）,http://youguan.gq/bili.php/?id=181453
-禁止讨论人名和剧名,http://youguan.gq/bili.php/?id=969244
-【陆小鸡】系列轮播17:30-1:30,http://youguan.gq/bili.php/?id=23108922
-终极一家循环播放.,http://youguan.gq/bili.php/?id=23017862
-永葆童真！国语DVD原版正在直播！,http://youguan.gq/bili.php/?id=23656786
-24小时动漫番剧直播间,http://youguan.gq/bili.php/?id=279430
-养老的时间到了,http://youguan.gq/bili.php/?id=54572
-周星驰成龙林正英王晶刘德华洪金宝电影,http://youguan.gq/bili.php/?id=21448296
-央配版海绵宝宝（通宵档）,http://youguan.gq/bili.php/?id=441577
-灵异事件簿-小北&浅浅,http://youguan.gq/bili.php/?id=21586546
-林正英 僵尸 经典 轮播,http://youguan.gq/bili.php/?id=2624614
-铁齿铜牙纪晓岚 有片头片尾勿喷,http://youguan.gq/bili.php/?id=22665698
-【周杰伦】24h无损音乐Jay电台,http://youguan.gq/bili.php/?id=2128527
-樱桃小丸子,http://youguan.gq/bili.php/?id=11392177
-【少帅】东北王张作霖,http://youguan.gq/bili.php/?id=21687882
-【医馆笑传.全集】经典搞笑全天24小时播,http://youguan.gq/bili.php/?id=21070400
-【經典劇集】【高畫質】【东游西游全都有】,http://youguan.gq/bili.php/?id=21791019
-【炊事班的故事】1-3全集-24小时轮播,http://youguan.gq/bili.php/?id=24165886
-搞笑温馨励志爱情故事喜欢的进,http://youguan.gq/bili.php/?id=24659017
-经典电视剧轮播-大染坊,http://youguan.gq/bili.php/?id=11503015
-士兵突击,http://youguan.gq/bili.php/?id=8504386
-【国语】新版旧版我们这一家365高清陪伴,http://youguan.gq/bili.php/?id=14901318
-中午好,http://youguan.gq/bili.php/?id=5328564
-请接受我诚挚的祝福，麻辣鱼鳞,http://youguan.gq/bili.php/?id=884373
-【海绵宝宝】1-13季24H循环,http://youguan.gq/bili.php/?id=14495324
-经典怀旧电视剧欣赏,http://youguan.gq/bili.php/?id=3294844
-汉、明,http://youguan.gq/bili.php/?id=23979200
-林正英  僵尸  经典  24H,http://youguan.gq/bili.php/?id=21360358
-黄余奇趣电影赏,http://youguan.gq/bili.php/?id=10513567
-炊事班的故事12,http://youguan.gq/bili.php/?id=7969075
-樱桃小丸子,http://youguan.gq/bili.php/?id=6554860
-【阿梅】大片经典  24小时 每天更新,http://youguan.gq/bili.php/?id=127343
-郭德纲单口相声评书大连播郭德纲于谦相声,http://youguan.gq/bili.php/?id=6617518
-贾队长 ：这我哪知道啊,http://youguan.gq/bili.php/?id=24657585
-童年经典视频轮播,http://youguan.gq/bili.php/?id=24127490
-龙门快递,http://youguan.gq/bili.php/?id=5111549
-僵尸 灵幻 喜剧 积分点播 新星,http://youguan.gq/bili.php/?id=22070492
-周星驰专场,http://youguan.gq/bili.php/?id=22390220
-下一站幸福命中注定我爱你恶作剧之吻,http://youguan.gq/bili.php/?id=3042179
-各剧试播,http://youguan.gq/bili.php/?id=8566972
-经典老电影之鬼怪篇,http://youguan.gq/bili.php/?id=24647102
-涂糊涂的蜡笔小新,http://youguan.gq/bili.php/?id=49132
-樱桃小丸子台配国语24小时轮播,http://youguan.gq/bili.php/?id=23242774
-王子变青蛙/忘记你记得爱情,http://youguan.gq/bili.php/?id=3712061
-【24h轮播】金粉世家,http://youguan.gq/bili.php/?id=5749539
-蜡笔小新国语轮播,http://youguan.gq/bili.php/?id=22765729
-咱们裸熊！24小时循环直播！,http://youguan.gq/bili.php/?id=11168667
-【电视剧】狄仁杰1、2、3（高清）,http://youguan.gq/bili.php/?id=3969440
-随缘开播 风雨可阻,http://youguan.gq/bili.php/?id=21666108
-七十二家房客,http://youguan.gq/bili.php/?id=23436741
-一边画画，一边看番,http://youguan.gq/bili.php/?id=2599728
-【蓉城影音】经典动作喜剧,http://youguan.gq/bili.php/?id=2456525
-七十二家房客,http://youguan.gq/bili.php/?id=22013050
-恶作剧之吻12部、24h放羊的星*,http://youguan.gq/bili.php/?id=23975071
-僵尸鼻祖【林正英】经典鬼片电影,http://youguan.gq/bili.php/?id=3091485
-智慧人生,http://youguan.gq/bili.php/?id=21676478
-清明自然白噪音听雨下雨声解压7×24直播,http://youguan.gq/bili.php/?id=22549164
-自看老剧（不看勿扰）,http://youguan.gq/bili.php/?id=3639200
-一个有温度的直播间~经典回顾小鱼儿花无缺,http://youguan.gq/bili.php/?id=23170738
-三国演义,http://youguan.gq/bili.php/?id=13948338
-[老电影]邵氏 武侠 动作 喜剧片,http://youguan.gq/bili.php/?id=21759196
-回归好剧-【②号超清宫斗武侠爱情无厘头】,http://youguan.gq/bili.php/?id=24622261
-宝莲灯前传-微笑pasta-宝莲灯电视剧,http://youguan.gq/bili.php/?id=22524461
-【小米好剧之林正英】24h不打烊,http://youguan.gq/bili.php/?id=1987366
-【超清经典老片】轮播林正英僵尸~òωó,http://youguan.gq/bili.php/?id=22777909
-[青青剧场]24H小时轮播,http://youguan.gq/bili.php/?id=2306321
-87版红楼梦+完整版剧情,http://youguan.gq/bili.php/?id=8412120
-乘龙怪婿,http://youguan.gq/bili.php/?id=23380244
-【周杰伦】24h无损音乐Jay电台,http://youguan.gq/bili.php/?id=23975991
-海绵宝宝又开播啦,http://youguan.gq/bili.php/?id=7861440
-新水浒传,http://youguan.gq/bili.php/?id=21747822
-你的专属粤语房间！！,http://youguan.gq/bili.php/?id=2504003
-灵魂摆渡1-4WWW,http://youguan.gq/bili.php/?id=22410042
-【电影】 经典 高能 动作 悬疑  喜剧,http://youguan.gq/bili.php/?id=22293663
-4K 最佳画质！好剧欣赏！,http://youguan.gq/bili.php/?id=23398113
-ANIRADI_LIVE_MAIN,http://youguan.gq/bili.php/?id=31613
-橙子2台,http://youguan.gq/bili.php/?id=21571201
-电视剧24H轮播/放羊的星星等,http://youguan.gq/bili.php/?id=9742831
-「4K 24H」放羊的星星,http://youguan.gq/bili.php/?id=22992262
-听歌~点歌/作业向 音乐厅（用爱发电）,http://youguan.gq/bili.php/?id=1360383
-24H 神话 胡歌 成龙 无-聊斋,http://youguan.gq/bili.php/?id=7251976
-咱们结婚吧,http://youguan.gq/bili.php/?id=22863439
-我们爱超管~祖国昌盛-民族万岁!,http://youguan.gq/bili.php/?id=15053669
-蜡笔小新高清24小时轮播,http://youguan.gq/bili.php/?id=21500772
-神医喜来乐VS京城王太医,http://youguan.gq/bili.php/?id=23841942
-24H锻炼听力,http://youguan.gq/bili.php/?id=275129
-老表/道长/卫斯理/巴不得/美味电影粤语,http://youguan.gq/bili.php/?id=428247
-Z          T,http://youguan.gq/bili.php/?id=765452
-经典动漫（推理、童年、灵异）,http://youguan.gq/bili.php/?id=4089143
-【蜡笔小新】高清国语 24h直播,http://youguan.gq/bili.php/?id=22356720
-迪士尼动画大合集,http://youguan.gq/bili.php/?id=22026471
-蜡笔小新剧场版,http://youguan.gq/bili.php/?id=8817148
-那些年追过的粤语版动画、电影、电视剧,http://youguan.gq/bili.php/?id=1528670
-贾队长：今天不能播了，听听别的吧,http://youguan.gq/bili.php/?id=24585444
-洛克王国劳模，帮过任务，开心,http://youguan.gq/bili.php/?id=24652387
-致敬香港粤语电影！！！,http://youguan.gq/bili.php/?id=24590020
-挑一个座位开场了,http://youguan.gq/bili.php/?id=22274045
-感谢相遇，感恩陪伴,http://youguan.gq/bili.php/?id=22987763
-V,http://youguan.gq/bili.php/?id=11598
-【成龙历险记】乌鸦坐飞机,http://youguan.gq/bili.php/?id=22584009
-武侠剧,http://youguan.gq/bili.php/?id=23564649
-A.Family.in.the.NE,http://youguan.gq/bili.php/?id=75688
-海绵宝宝 24h无间断放映(*^▽^*),http://youguan.gq/bili.php/?id=1665315
-外来媳妇本地郎（很懒，所以找个最长的）,http://youguan.gq/bili.php/?id=12365202
-神奇宝贝：皮卡丘,http://youguan.gq/bili.php/?id=22849643
-全集哆啦A梦大山版 24小时轮播,http://youguan.gq/bili.php/?id=346400
-铁齿铜牙纪晓岚,http://youguan.gq/bili.php/?id=24029592
-古早影视剧联播：海豚湾恋人,http://youguan.gq/bili.php/?id=22312152
-童年动画 夺宝幸运星 7x24,http://youguan.gq/bili.php/?id=9480208
-【松鼠精选】动作片专场丨全明星阵容,http://youguan.gq/bili.php/?id=6827037
-守护甜心 三季127集全 24小时,http://youguan.gq/bili.php/?id=23041483
-有声小说,http://youguan.gq/bili.php/?id=10119169
-蜡笔小新 2021剧场版,http://youguan.gq/bili.php/?id=11001827
-蜡笔小新放送台！最新哟～,http://youguan.gq/bili.php/?id=8898006
-【重温经典】终极一班,http://youguan.gq/bili.php/?id=1181568
-原来爱上Z国语,http://youguan.gq/bili.php/?id=24544327
-【日常】转发3号直播间,http://youguan.gq/bili.php/?id=164725
-【晚间电影-龙叔 星爷】上线,http://youguan.gq/bili.php/?id=24596454
-僵尸道长第一部僵尸道长第二部林正英电视剧,http://youguan.gq/bili.php/?id=23825469
-【下饭时间】国语法z1 法z2,http://youguan.gq/bili.php/?id=5860561
-【随机】经典香港电影喜剧武侠许冠文,http://youguan.gq/bili.php/?id=23825720
-猫猫直播间⇎电影⇎番剧⇎旧番剧⇎剧场版,http://youguan.gq/bili.php/?id=2575775
-【星游记】就算这样，也要笑着去努力啊,http://youguan.gq/bili.php/?id=23172056
-24h 哆啦A梦·新番轮播（部分）,http://youguan.gq/bili.php/?id=14745943
-樱桃小丸子台配,http://youguan.gq/bili.php/?id=23907135
-樱桃小丸子  国语配音旁白,http://youguan.gq/bili.php/?id=22034682
-【爷青回】中华小子25x8不间断直播,http://youguan.gq/bili.php/?id=22194340
-开心汉堡店 怪诞小镇24h轮播,http://youguan.gq/bili.php/?id=2308015
-【松鼠】科幻 动作 悬疑 高能,http://youguan.gq/bili.php/?id=6837959
-童年回忆X百变小樱7X24最全资源轮播,http://youguan.gq/bili.php/?id=34340
-经典番剧/动漫/剧场版24时轮播,http://youguan.gq/bili.php/?id=21751462
-电梓播放器,http://youguan.gq/bili.php/?id=6239128
-爱情魔发师,http://youguan.gq/bili.php/?id=22664291
-粤语怀旧影视剧集,http://youguan.gq/bili.php/?id=8613737
-猫和老鼠大电影（24循环播放）,http://youguan.gq/bili.php/?id=22905626
-哆啦A梦经典国配版 大山、水田版24小时,http://youguan.gq/bili.php/?id=1199131
-奈何庶女多多指教！,http://youguan.gq/bili.php/?id=24757432
-粤语经典 电视剧,http://youguan.gq/bili.php/?id=24652769
-纪晓岚1-4季连播,http://youguan.gq/bili.php/?id=22059286
-《少年包青天》,http://youguan.gq/bili.php/?id=24434817
-粤语经典,http://youguan.gq/bili.php/?id=23205943
-经典红楼梦、西游-记、三国演义、水浒传,http://youguan.gq/bili.php/?id=1402698
-叛逆的鲁鲁修/复活的鲁路修,http://youguan.gq/bili.php/?id=24386147
-爱若有缘终会再见~~,http://youguan.gq/bili.php/?id=24364870
-随便听点歌,http://youguan.gq/bili.php/?id=1469907
-霸道总裁鼻祖《王子变青蛙》,http://youguan.gq/bili.php/?id=5438349
-快乐童年系列-随缘播放,http://youguan.gq/bili.php/?id=23382212
-春雨夜安眠==,http://youguan.gq/bili.php/?id=7391556
-豪杰春香→神话→春香→美妙人生-非境外,http://youguan.gq/bili.php/?id=23791553
-东北一家人 情景喜剧 全天直播,http://youguan.gq/bili.php/?id=24617242
-公主小妹+命中注定我爱你+下一站，幸福,http://youguan.gq/bili.php/?id=7062612
-【无广告】蜡笔小新24小时播放,http://youguan.gq/bili.php/?id=2417208
-四驱兄弟/爆走兄弟 WGP MAX,http://youguan.gq/bili.php/?id=10544270
-毛骗_一二季及终结篇,http://youguan.gq/bili.php/?id=21688687
-粤语经典电影电视剧,http://youguan.gq/bili.php/?id=24598637
-加菲猫,http://youguan.gq/bili.php/?id=906034
-随缘动画,http://youguan.gq/bili.php/?id=6304822
-【怀旧影视】国语专场,http://youguan.gq/bili.php/?id=8199817
-开饭,http://youguan.gq/bili.php/?id=12032230
-红绳墨斗今犹在 不见当年林正英,http://youguan.gq/bili.php/?id=23912526
-历史正剧（从秦至清）,http://youguan.gq/bili.php/?id=10774067
-7点播黑炭,http://youguan.gq/bili.php/?id=24706560
-士兵突击王团长,http://youguan.gq/bili.php/?id=24458911
-成龙大哥电影，经典还是经典,http://youguan.gq/bili.php/?id=24722820
-高清动画,http://youguan.gq/bili.php/?id=4361390
-派对浪客诸葛孔明 1-2集 循环播放,http://youguan.gq/bili.php/?id=15013550
-正在播小新，高清国语柯南和蜡笔小新轮播,http://youguan.gq/bili.php/?id=23000636
-【一起看】童年喜剧僵尸老电影,http://youguan.gq/bili.php/?id=4704851
-金婚,http://youguan.gq/bili.php/?id=22877510
-终极三国,http://youguan.gq/bili.php/?id=22941527
-【海绵宝宝】真4K高清中文,http://youguan.gq/bili.php/?id=23159466
-脑子被蒸发了,http://youguan.gq/bili.php/?id=5165041
-下饭神剧炊事班的60帧,http://youguan.gq/bili.php/?id=22833926
-【全网独家】弹幕版铁齿铜牙纪晓岚1-3,http://youguan.gq/bili.php/?id=24774709
-今日份追剧Get√Full huose,http://youguan.gq/bili.php/?id=24187080
-硅脂没了，用的牙膏,http://youguan.gq/bili.php/?id=22327033
-80后动画回忆-宫崎骏合集,http://youguan.gq/bili.php/?id=24489519
-做人呢，最重要是开心,http://youguan.gq/bili.php/?id=142721
-狄仁杰包青天宋提刑纪晓岚仙剑周星驰经典剧,http://youguan.gq/bili.php/?id=22747945
-白天是毛骗,http://youguan.gq/bili.php/?id=1127314
-大话西游丶电视剧电影,http://youguan.gq/bili.php/?id=24537454
-喵喵点播台（24小时点歌）,http://youguan.gq/bili.php/?id=324298
-咸鱼养成,http://youguan.gq/bili.php/?id=21438956
-我在B站看广告,http://youguan.gq/bili.php/?id=1353112
-【轮播】EVA新剧场版,http://youguan.gq/bili.php/?id=22139174
-德云男团-相声 24H直播间,http://youguan.gq/bili.php/?id=24464694
-我可能，不会爱你,http://youguan.gq/bili.php/?id=7182262
-1080p DC 漫威 5.1 杜比声,http://youguan.gq/bili.php/?id=871583
-开闭家的后花园,http://youguan.gq/bili.php/?id=2151084
-犬夜叉,http://youguan.gq/bili.php/?id=4519788
-1992新白娘子传奇,http://youguan.gq/bili.php/?id=22336128
-正义联盟,http://youguan.gq/bili.php/?id=906369
-萌新驾到！多多指教！,http://youguan.gq/bili.php/?id=10812574
-纯音乐,http://youguan.gq/bili.php/?id=397064
-童年古早剧,http://youguan.gq/bili.php/?id=23690457
-哆啦A梦小剧场,http://youguan.gq/bili.php/?id=21310390
-美漫 动画 电影,http://youguan.gq/bili.php/?id=798650
-樱桃小丸子第二季日配,http://youguan.gq/bili.php/?id=24045679
-猫和老鼠24小时轮播 童年经典回忆,http://youguan.gq/bili.php/?id=24190981
-经典动漫（童年、搞笑、怀旧）,http://youguan.gq/bili.php/?id=23202475
-今天换个牒,http://youguan.gq/bili.php/?id=21046732
-柯 南,http://youguan.gq/bili.php/?id=23471273
-家有仙妻24H,http://youguan.gq/bili.php/?id=15131066
-星光视界《新白娘子传奇》24H轮播,http://youguan.gq/bili.php/?id=23152385
-安静纯音乐,http://youguan.gq/bili.php/?id=4854434
-微笑pasta,http://youguan.gq/bili.php/?id=24691399
-经典古装剧《天仙配》七仙女,http://youguan.gq/bili.php/?id=23964058
-橙子1台,http://youguan.gq/bili.php/?id=23318788
-蜡笔小新放映厅,http://youguan.gq/bili.php/?id=10411169
-猫和老鼠 兔八哥 达菲鸭,http://youguan.gq/bili.php/?id=5977175
-宝莲灯、新白娘子传奇、聊斋,http://youguan.gq/bili.php/?id=24551797
-^_^2022新电影轮播,http://youguan.gq/bili.php/?id=23819448
-回顾经典，中国影视剧！,http://youguan.gq/bili.php/?id=23490613
-钟朗探案~~~求关注求礼物,http://youguan.gq/bili.php/?id=904938
-重温香港经典大电影,http://youguan.gq/bili.php/?id=24483496
-经典国产动画 木偶 剪纸 水墨 定格动画,http://youguan.gq/bili.php/?id=23970009
-动漫电影 一起看,http://youguan.gq/bili.php/?id=22546450
-正在播放约会大作战！动漫随心播放！,http://youguan.gq/bili.php/?id=160028
-【官方直播】《乌龙院之活宝传奇》正在热映,http://youguan.gq/bili.php/?id=5408509
-推理,http://youguan.gq/bili.php/?id=23020802
-1~7季蜡笔小新全天直播,http://youguan.gq/bili.php/?id=23237287
-〖哆啦A梦〗粤语版24h,http://youguan.gq/bili.php/?id=1629664
-哆啦A梦,http://youguan.gq/bili.php/?id=1198011
-恶作剧之吻2,http://youguan.gq/bili.php/?id=6839146
-是温油拽妹鸭！,http://youguan.gq/bili.php/?id=5470629
-经典动画，放松影厅,http://youguan.gq/bili.php/?id=23117567
-☞高画质放羊的星星命中注定我爱你☜,http://youguan.gq/bili.php/?id=14262592
-蜡笔小新 2021剧场版,http://youguan.gq/bili.php/?id=14244083
-233,http://youguan.gq/bili.php/?id=23179425
-刮开有奖:███████,http://youguan.gq/bili.php/?id=6151328
-24小时直播蜡笔小新,http://youguan.gq/bili.php/?id=5207187
-动漫房,http://youguan.gq/bili.php/?id=24116013
-大杂烩【经典 喜剧 僵尸 林正英  】,http://youguan.gq/bili.php/?id=22903808
-蜡笔小新国语高清全集都有,http://youguan.gq/bili.php/?id=24681808
-画江湖之不良人,http://youguan.gq/bili.php/?id=24110193
-马大帅3 彪哥大战四马路刚子,http://youguan.gq/bili.php/?id=24042619
-林正英【经典电影】,http://youguan.gq/bili.php/?id=24699857
-哆啦A梦新番548-584,http://youguan.gq/bili.php/?id=7204293
-【怀旧】成龙电影专场,http://youguan.gq/bili.php/?id=24080855
-鞋儿破帽儿破身上的袈裟破,http://youguan.gq/bili.php/?id=24033247
-自助点歌,http://youguan.gq/bili.php/?id=67149
-无损歌曲，听潮观浪，听歌点歌，放松心情！,http://youguan.gq/bili.php/?id=21751885
-郭德纲 于谦,http://youguan.gq/bili.php/?id=24590398
-散播欢乐散播爱,http://youguan.gq/bili.php/?id=3386291
-沉迷芳文社不能自拔(测试中？),http://youguan.gq/bili.php/?id=317534
-上海情景喜剧-老娘舅,http://youguan.gq/bili.php/?id=6827148
-86版西游记续集-24H循环播放,http://youguan.gq/bili.php/?id=1744208
-【日语配音】陪你看蜡笔小新啦~,http://youguan.gq/bili.php/?id=24609114
-bilibili主播的直播间,http://youguan.gq/bili.php/?id=4764066
-粤语Movie想看留言片名！看到后我就播,http://youguan.gq/bili.php/?id=24134164
-灯塔暗夜猎手专业团队,http://youguan.gq/bili.php/?id=1813640
-经典回放，24h,http://youguan.gq/bili.php/?id=8724967
-乔杉大鹏做足疗,http://youguan.gq/bili.php/?id=23413953
-豆瓣高分经典电视剧,http://youguan.gq/bili.php/?id=6817353
-粤语电影剧今宵大厦轮播,http://youguan.gq/bili.php/?id=24738825
-喝点糙米薏仁汤治治梦魇,http://youguan.gq/bili.php/?id=7572246
-Z华Y雄 郑Y健 谢T锋 Y彪,http://youguan.gq/bili.php/?id=24198666
-开心超人联盟（开心宝贝）,http://youguan.gq/bili.php/?id=11606075
-【全网最清晰】谦儿大爷单口相声轮播,http://youguan.gq/bili.php/?id=10535581
-一起雀魂来掉分呗,http://youguan.gq/bili.php/?id=2119149
-小魔女童年回忆,http://youguan.gq/bili.php/?id=24755574
-【试播 】军旅剧 《战雷》,http://youguan.gq/bili.php/?id=24781033
-傻妞   陆小千    游所为,http://youguan.gq/bili.php/?id=14034918
-童年回忆——艺术创想,http://youguan.gq/bili.php/?id=1965038
-信誉分保卫战,http://youguan.gq/bili.php/?id=24467143
-我问你 你这瓜保熟吗？,http://youguan.gq/bili.php/?id=24597528
-一个可能持续数年的直播,http://youguan.gq/bili.php/?id=22782888
-点歌拖拉机,http://youguan.gq/bili.php/?id=5311498
-看生化电影,http://youguan.gq/bili.php/?id=23381844
-天际,http://youguan.gq/bili.php/?id=4138082
-百变小樱！,http://youguan.gq/bili.php/?id=58833
-百变小樱国语版,http://youguan.gq/bili.php/?id=268681
-经典随机播放,http://youguan.gq/bili.php/?id=21332086
-光能使者/魔动王 调试中,http://youguan.gq/bili.php/?id=8947467
-梦游,http://youguan.gq/bili.php/?id=7398010
-【海绵宝宝】就饭观影区-24H轮播,http://youguan.gq/bili.php/?id=24636143
-用户32385730的直播间,http://youguan.gq/bili.php/?id=7169112
-就你劈我瓜是吧,http://youguan.gq/bili.php/?id=23223669
-海派喜剧——老娘舅,http://youguan.gq/bili.php/?id=21306205
-93包青天,http://youguan.gq/bili.php/?id=10764528
-「好出奇啊」直播间,http://youguan.gq/bili.php/?id=24072978
-3年E班,http://youguan.gq/bili.php/?id=24780350
-【4时光】4K蓝光60帧画质影片顶级享受,http://youguan.gq/bili.php/?id=22449693
-老D录像厅-80后回忆光能使者辽艺,http://youguan.gq/bili.php/?id=22987700
-【蜡笔小新#全集#剧场版】高清轮播,http://youguan.gq/bili.php/?id=24764419
-守在电视机前的美好时光！,http://youguan.gq/bili.php/?id=24615406
-粤语动画随时断网,http://youguan.gq/bili.php/?id=22710422
-喜欢侠岚的，都来看看。多多发言,http://youguan.gq/bili.php/?id=24017442
-谈谈心连恋爱,http://youguan.gq/bili.php/?id=3155329
-地堡电波，只讲别人讲不出来的干货,http://youguan.gq/bili.php/?id=24077528
-电影天天看！部部都下饭！,http://youguan.gq/bili.php/?id=24778136
-四驱兄弟第二部国语,http://youguan.gq/bili.php/?id=8481545
-胆子大的进来 灵异探险探案,http://youguan.gq/bili.php/?id=1487413
-9000码率24小时点歌房,http://youguan.gq/bili.php/?id=161585
-饕餮盛宴,http://youguan.gq/bili.php/?id=11709851
-【经典老电影】 僵尸 喜剧 灵幻 恐怖,http://youguan.gq/bili.php/?id=24772190
-MXMS LIVE CHANNEL试播,http://youguan.gq/bili.php/?id=24553973
-四月了~终于有勇气二刷了,http://youguan.gq/bili.php/?id=2692211
-【自助点歌】网抑云 VIP高音质,http://youguan.gq/bili.php/?id=1026846
-24x7 Lofi HipHop放松电台,http://youguan.gq/bili.php/?id=4480901
-突如其来的爱情,http://youguan.gq/bili.php/?id=24673034
-bilibili主播的直播间,http://youguan.gq/bili.php/?id=10757747
-宫崎骏、宇宙骑士、乱马等经典动漫动画,http://youguan.gq/bili.php/?id=23694453
-经典怀旧美术片，唤起70‘80的童年！！,http://youguan.gq/bili.php/?id=24702722
-经典放映厅-动漫-小品-电影,http://youguan.gq/bili.php/?id=9520627
-星游记，给我高高的飞起来啊！,http://youguan.gq/bili.php/?id=12502366
-复仇者集结,http://youguan.gq/bili.php/?id=24357003
-【秋思剧场】4月【聊戏赏戏】,http://youguan.gq/bili.php/?id=22281868
-医馆笑传,http://youguan.gq/bili.php/?id=10479372
-愿你出走半生，归来仍是少年,http://youguan.gq/bili.php/?id=2570641
-萌新驾到！多多指教！,http://youguan.gq/bili.php/?id=2982911
-胆子大的，进来吧！！！！,http://youguan.gq/bili.php/?id=23951998
-4月快乐,http://youguan.gq/bili.php/?id=2010774
-ゆるゆり-24小时试播,http://youguan.gq/bili.php/?id=24401903
-四大名著之没有《红楼梦》,http://youguan.gq/bili.php/?id=23218021
-四月是你的谎言,http://youguan.gq/bili.php/?id=5853237
-【24/7】哆啦A梦 大山版 全集,http://youguan.gq/bili.php/?id=22724987
-来看周杰伦演唱会,http://youguan.gq/bili.php/?id=12164280
-王朝 第二季第一集 猎豹,http://youguan.gq/bili.php/?id=5634649
-泷泽秀明《魔女的条件》6~11集,http://youguan.gq/bili.php/?id=22022177
-希望有一日能重头再来,http://youguan.gq/bili.php/?id=5607484
-推荐,http://youguan.gq/bili.php/?id=1578846
-一起看：儿女传奇,http://youguan.gq/bili.php/?id=927029
-让学,http://youguan.gq/bili.php/?id=22702933
-DJKingdom Radio,http://youguan.gq/bili.php/?id=3981922
-เล่นไทยไม่มีภาพเสียง,http://youguan.gq/bili.php/?id=900165
-— ](　 — 　)[ —,http://youguan.gq/bili.php/?id=22604603
-单口评书,http://youguan.gq/bili.php/?id=23141940
-古装 穿越剧,http://youguan.gq/bili.php/?id=23255605
-4k 猫和老鼠,http://youguan.gq/bili.php/?id=23229924
-谦之道伴您入眠,http://youguan.gq/bili.php/?id=24685986
-Armin van Buuren往期现场,http://youguan.gq/bili.php/?id=5960177
-被封 42天 随便看看= =真的要疯了,http://youguan.gq/bili.php/?id=3991345
-来听歌吗？,http://youguan.gq/bili.php/?id=456769
-猫和老鼠157集原声中文字幕24小时轮播,http://youguan.gq/bili.php/?id=24649685
-少女革命连播中~,http://youguan.gq/bili.php/?id=10641126
-熊熊三贱客原声放送~（24小时轮播）,http://youguan.gq/bili.php/?id=22195143
-【音悦台】东方Project作业音/点歌,http://youguan.gq/bili.php/?id=6472211
-【高清版】87 版红楼梦,http://youguan.gq/bili.php/?id=22865793
-屯歌 随机,http://youguan.gq/bili.php/?id=893909
-一直循环一个,http://youguan.gq/bili.php/?id=11804262
-挂着办公,http://youguan.gq/bili.php/?id=23278741
-接托管包月,http://youguan.gq/bili.php/?id=24000316
-aaaaaaaaaa测试,http://youguan.gq/bili.php/?id=6423323
-用户2103411148的直播间,http://youguan.gq/bili.php/?id=24583081
-【童年回忆】《鬼神童子》全集（日语中字）,http://youguan.gq/bili.php/?id=24119175
-动漫《妖怪旅馆正在营业中》,http://youguan.gq/bili.php/?id=23253474
-极·电音 电台 - 纯音频测试,http://youguan.gq/bili.php/?id=14615
-24小时Vintage音乐电台,http://youguan.gq/bili.php/?id=4927687
-【快乐星球第1.2部】24小时轮播,http://youguan.gq/bili.php/?id=24378925
-mikufans (゜-゜)つロ 干杯~,http://youguan.gq/bili.php/?id=11804727
-那些喜爱的歌,http://youguan.gq/bili.php/?id=23564961
-动漫轮播,http://youguan.gq/bili.php/?id=1896946
-欢迎观看,http://youguan.gq/bili.php/?id=24660013
-平平无奇音乐台,http://youguan.gq/bili.php/?id=436469
-bilibili主播的直播间,http://youguan.gq/bili.php/?id=24737442
-在舒缓的钢琴曲和水流声中放松、工作、学习,http://youguan.gq/bili.php/?id=24770667
-鲨鲨与菜鸟的直播间,http://youguan.gq/bili.php/?id=5491975
-犬夜叉完结篇粤语版,http://youguan.gq/bili.php/?id=23856245
-OAO,http://youguan.gq/bili.php/?id=2465444
-bilibili主播的直播间,http://youguan.gq/bili.php/?id=22087600
-猫和老鼠轮播厅,http://youguan.gq/bili.php/?id=23448684
-经典功夫台,http://youguan.gq/bili.php/?id=21715386
-爱播啥播啥,http://youguan.gq/bili.php/?id=1861656
-影视剧轮播,http://youguan.gq/bili.php/?id=24763658
-少年杨家将,http://youguan.gq/bili.php/?id=1951253
-动漫番剧蜡笔小新哆啦A梦！每天轮播番剧,http://youguan.gq/bili.php/?id=24428271
-疫情在家看老番,http://youguan.gq/bili.php/?id=385249
-小九九,http://youguan.gq/bili.php/?id=22915899
-解锁成就：破旧的音悦台（点歌姬已开放）,http://youguan.gq/bili.php/?id=215057
-蔷薇之恋,http://youguan.gq/bili.php/?id=24726623
-光速21,http://youguan.gq/bili.php/?id=21332986
-平流缓进的直播间,http://youguan.gq/bili.php/?id=23023489
-黑胶唱片试听间,http://youguan.gq/bili.php/?id=5559044
-虫师+其他,http://youguan.gq/bili.php/?id=12130513
-樱桃小丸子,http://youguan.gq/bili.php/?id=22205575
-Clannad,http://youguan.gq/bili.php/?id=4865145
-三国演义（试放）,http://youguan.gq/bili.php/?id=21865046
-背景音乐,http://youguan.gq/bili.php/?id=10500264
-猫和老鼠-经典影视动画作品直播,http://youguan.gq/bili.php/?id=24357080
-恰饭看片打电动做。。。算了(滑稽),http://youguan.gq/bili.php/?id=2246295
-365天  相声轮播,http://youguan.gq/bili.php/?id=23950940
-听胡夏唱歌,http://youguan.gq/bili.php/?id=3538612
-【猫和老鼠-中英字幕】每天一遍，智商再见,http://youguan.gq/bili.php/?id=23146213
-虚空下饭王,http://youguan.gq/bili.php/?id=23984624
-一起来摸鱼吧！,http://youguan.gq/bili.php/?id=13396064
-呱嗒呱单口,http://youguan.gq/bili.php/?id=551762
-吴彦祖经典喜剧 - 电影,http://youguan.gq/bili.php/?id=24736298
-娱乐时间(〜￣▽￣)〜（绝对权力),http://youguan.gq/bili.php/?id=22763603
-看动画摆烂,http://youguan.gq/bili.php/?id=21246094
-80后怀旧经典动画片轮播,http://youguan.gq/bili.php/?id=24495550
-每日轮播经典动漫,http://youguan.gq/bili.php/?id=3294820
-不要和陌生人说话,http://youguan.gq/bili.php/?id=24248534
-经典典中典之三国演义,http://youguan.gq/bili.php/?id=14040758
-新人直播重温,http://youguan.gq/bili.php/?id=24739448
-专业声卡效果调试主播麦克风搭配,http://youguan.gq/bili.php/?id=22722193
-喜欢武侠，快意恩仇！,http://youguan.gq/bili.php/?id=24090425
-星光视界4,http://youguan.gq/bili.php/?id=23132792
-经典影视24小时联播,http://youguan.gq/bili.php/?id=21236987
-每日电影推荐！,http://youguan.gq/bili.php/?id=23514213
-萌新驾到！多多指教！,http://youguan.gq/bili.php/?id=23869919
-qing,http://youguan.gq/bili.php/?id=1522783
-上班真爽啊,http://youguan.gq/bili.php/?id=2587710
-划水看...鲁路修 永远的王,http://youguan.gq/bili.php/?id=4104826
-☆★雪公馆★☆,http://youguan.gq/bili.php/?id=815941
-码字国风科幻小说，音乐电台MV点歌,http://youguan.gq/bili.php/?id=24658151
-蜡笔小新特别篇24小时轮播,http://youguan.gq/bili.php/?id=1368677
-学习 面具,http://youguan.gq/bili.php/?id=22920873
-来,http://youguan.gq/bili.php/?id=11627107
-猫和老鼠,http://youguan.gq/bili.php/?id=1533056
-聆听评书醒世金铎,http://youguan.gq/bili.php/?id=10898489
-全职猎人,http://youguan.gq/bili.php/?id=23568020
-画质全站第一,http://youguan.gq/bili.php/?id=21950604
-蓝桉已遇释槐鸟。,http://youguan.gq/bili.php/?id=23632035
-微笑的提莫的直播间,http://youguan.gq/bili.php/?id=4309961
-～听听音乐  ~,http://youguan.gq/bili.php/?id=46748
-黑金 P1-P30,http://youguan.gq/bili.php/?id=24763390
-经典红楼梦一起看,http://youguan.gq/bili.php/?id=256043
-RGB测试,http://youguan.gq/bili.php/?id=22918192
-小新日常,http://youguan.gq/bili.php/?id=6323602
-深圳搬砖,http://youguan.gq/bili.php/?id=1623955
-破天一剑和童年动画片,http://youguan.gq/bili.php/?id=22719270
-娱乐全节目台(动漫剧集电影综艺音乐),http://youguan.gq/bili.php/?id=1215668
-经典FC，三国一起看,http://youguan.gq/bili.php/?id=24781818
-3D环绕音 睡不着还是没吃饱 ？,http://youguan.gq/bili.php/?id=23964673
-只想听歌，弹幕发送（点歌+歌名）,http://youguan.gq/bili.php/?id=23824364
-我们都爱贾萌萌,http://youguan.gq/bili.php/?id=21521148
-童年回忆——动画片,http://youguan.gq/bili.php/?id=2263839
-bilibili主播的直播间,http://youguan.gq/bili.php/?id=24366187
-陈旧的点歌姬,http://youguan.gq/bili.php/?id=3843410
-萌新驾到！多多指教！,http://youguan.gq/bili.php/?id=23285297
-经典回顾苍蝇哥名场面首次开播，请多关照！,http://youguan.gq/bili.php/?id=24765108
-正能量题材电视剧直播,http://youguan.gq/bili.php/?id=23651499
-[24h]MLP_FM_小马宝莉收音机,http://youguan.gq/bili.php/?id=23389495
-极致音质3d自然睡眠音频轮播,http://youguan.gq/bili.php/?id=24494734
-【杀戮尖塔】小播一会,http://youguan.gq/bili.php/?id=1400676
-【无人值守】播放厅,http://youguan.gq/bili.php/?id=24124419
-【弹幕点歌】树莓派点歌台,http://youguan.gq/bili.php/?id=981892
-张卫健孙悟空,http://youguan.gq/bili.php/?id=8452828
-很幸运遇见你，幸会幸会！,http://youguan.gq/bili.php/?id=24764414
-不写作业直播王者,http://youguan.gq/bili.php/?id=1716280
-♫自习室 | 听歌 | 学习 | 助♫眠,http://youguan.gq/bili.php/?id=10234516
-挑战！肝就完事了！,http://youguan.gq/bili.php/?id=24723333
-蝙蝠侠大战罗宾,http://youguan.gq/bili.php/?id=21441945
-怀旧影像馆-经典动画,http://youguan.gq/bili.php/?id=23207563
-放动漫了..     蜡笔小新,http://youguan.gq/bili.php/?id=24429271
-3D 安安静静 无人声！,http://youguan.gq/bili.php/?id=24006747
-不大舒服，看番修养,http://youguan.gq/bili.php/?id=3360446
-猫！咪！！啊！！！-0w0-,http://youguan.gq/bili.php/?id=55970
-初来报道，关注一下吧~,http://youguan.gq/bili.php/?id=24592724
-白老师影音工厂,http://youguan.gq/bili.php/?id=6745038
-声之形电影循环直播,http://youguan.gq/bili.php/?id=21875003
-动物与自然的美好时光,http://youguan.gq/bili.php/?id=24630899
-It rains today.,http://youguan.gq/bili.php/?id=24503543
-喵喵,http://youguan.gq/bili.php/?id=5088318
-Relaxing Fish,http://youguan.gq/bili.php/?id=37702
-忍者神龟,http://youguan.gq/bili.php/?id=3773196
-lofi hip hop 循环 电台,http://youguan.gq/bili.php/?id=23818826
-青春 经典电视剧,http://youguan.gq/bili.php/?id=23559918
-封面剧,http://youguan.gq/bili.php/?id=24609902
-[林正英]电影,http://youguan.gq/bili.php/?id=7731560
-小摆一会儿~,http://youguan.gq/bili.php/?id=24687121
-宣传片,http://youguan.gq/bili.php/?id=24225686
-天堂に駆ける,http://youguan.gq/bili.php/?id=21964735
-Coach Jack的LiveVideo,http://youguan.gq/bili.php/?id=1224784
-生活不易，柱子卖艺,http://youguan.gq/bili.php/?id=24241428
-马男波杰克第一季，快来看丧马男哪！！！,http://youguan.gq/bili.php/?id=24776835
-【看小说】看一天少一天,http://youguan.gq/bili.php/?id=1585281
-四月是你的谎言,http://youguan.gq/bili.php/?id=1148954
-MusicRadio .room,http://youguan.gq/bili.php/?id=24508799
-游戏、做功课，随便听听,http://youguan.gq/bili.php/?id=1067489
-7x24h Lofi Chill????????,http://youguan.gq/bili.php/?id=8734270
-BIBI游戏影音,http://youguan.gq/bili.php/?id=22715662
-小哥哥的吃吃喝喝~,http://youguan.gq/bili.php/?id=9021521
-若心的避难所,http://youguan.gq/bili.php/?id=22877732
-单纯听歌，欢迎来挂小心心,http://youguan.gq/bili.php/?id=1142098
-又菜又爱玩老头环,http://youguan.gq/bili.php/?id=24049601
-试着播,http://youguan.gq/bili.php/?id=7819524
-1,http://youguan.gq/bili.php/?id=8173629
-24小时电视播放,http://youguan.gq/bili.php/?id=24268194
-喇叭小新,http://youguan.gq/bili.php/?id=6250753
-主页截图扫描投稿点播,http://youguan.gq/bili.php/?id=14700762
-初来报道，关注一下吧~,http://youguan.gq/bili.php/?id=24099601
-新人上路求舰长守护！世界实况摄像头直播,http://youguan.gq/bili.php/?id=24782277
-embergen,http://youguan.gq/bili.php/?id=749988
-心情邮箱,http://youguan.gq/bili.php/?id=22920173
-和协世界 有温度 魔方影音 有高度,http://youguan.gq/bili.php/?id=24238214
-童年小游戏，开摆,http://youguan.gq/bili.php/?id=6800208
-老友记,http://youguan.gq/bili.php/?id=23881493
-zj视频云测试,http://youguan.gq/bili.php/?id=11954893
-歌剧魅影,http://youguan.gq/bili.php/?id=5608315
-随缘视频,http://youguan.gq/bili.php/?id=7659523
-无尽（乐至大同）,http://youguan.gq/bili.php/?id=23249642
-11平台dota对战,http://youguan.gq/bili.php/?id=8319680
-今天也要开心的哟~,http://youguan.gq/bili.php/?id=10877717
-随便播点,http://youguan.gq/bili.php/?id=5275768
-婚礼视频教学 5月6月7线下线上报名,http://youguan.gq/bili.php/?id=4486782
-桃花岛乱斗小王子,http://youguan.gq/bili.php/?id=12669840
-乡镇道路直播,http://youguan.gq/bili.php/?id=24770825
-送小礼物卡房管，不定时帮打云顶。,http://youguan.gq/bili.php/?id=7442319
-放松一下吧~,http://youguan.gq/bili.php/?id=24740328
-初来报道，关注一下吧~,http://youguan.gq/bili.php/?id=24575706
-“疫”起努力叭~一起补番吧~鸡汤来咯！！,http://youguan.gq/bili.php/?id=24716334
-老剧老电影播放-九五至尊,http://youguan.gq/bili.php/?id=7901490
-相声经典,http://youguan.gq/bili.php/?id=22422385
-浅过剧情,http://youguan.gq/bili.php/?id=9178845
-速通大三下学期,http://youguan.gq/bili.php/?id=21444847
-随便玩玩,http://youguan.gq/bili.php/?id=5152942
-童年经典电影~欢迎关注,http://youguan.gq/bili.php/?id=24762185
-新人任务测试,http://youguan.gq/bili.php/?id=7637762
-温故哈利波特全季,http://youguan.gq/bili.php/?id=24657578
-游戏更新  先看看视频新人主播,http://youguan.gq/bili.php/?id=24597259
-原神萌新在线下饭,http://youguan.gq/bili.php/?id=22694690
-学累了，就听会儿歌吧—陈奕迅,http://youguan.gq/bili.php/?id=24597100
-直播测试,http://youguan.gq/bili.php/?id=21577989
-成成：游戏放映室,http://youguan.gq/bili.php/?id=24480690
-居家办公背景音-海绵宝宝,http://youguan.gq/bili.php/?id=22513904
-新人上路求舰长守护！,http://youguan.gq/bili.php/?id=24782227
-裁决,http://youguan.gq/bili.php/?id=21041891
-Test·Test······,http://youguan.gq/bili.php/?id=11579181
-嘟嘟噜~,http://youguan.gq/bili.php/?id=4229668
-看电影了小朋友,http://youguan.gq/bili.php/?id=2347454
-来听相声,http://youguan.gq/bili.php/?id=23389055
-童年回忆放映厅（魔动王/光能使者）,http://youguan.gq/bili.php/?id=24736202
-赌狗海克斯,http://youguan.gq/bili.php/?id=4901797
-想去上班 - 上海 - 杨浦虹口,http://youguan.gq/bili.php/?id=23336808
-高清 情景经典,http://youguan.gq/bili.php/?id=1127105
-大开眼界,http://youguan.gq/bili.php/?id=4849277
-test test,http://youguan.gq/bili.php/?id=9044677
-钻石王牌  成孔之战,http://youguan.gq/bili.php/?id=24555336
-摸鱼,http://youguan.gq/bili.php/?id=12202287
-animax台配：国语,http://youguan.gq/bili.php/?id=793123
-
 虎牙影视,#genre#
-周星驰,http://youguan.gq/huya.php?id=11342412
-成龙,http://youguan.gq/huya.php?id=11342386
-吴京,http://youguan.gq/huya.php?id=11602045
-徐峥,http://youguan.gq/huya.php?id=11602043
-古天乐,http://youguan.gq/huya.php?id=10871113
-林正英,http://youguan.gq/huya.php?id=11342421
-刘德华,http://youguan.gq/huya.php?id=11342424
-周润发,http://youguan.gq/huya.php?id=11342387
-梁朝伟,http://youguan.gq/huya.php?id=11602046
-洪金宝,http://youguan.gq/huya.php?id=11342427
-孙红雷,http://youguan.gq/huya.php?id=11352973
-李连杰,http://youguan.gq/huya.php?id=11342390
-张国荣,http://youguan.gq/huya.php?id=11602034
-释小龙,http://youguan.gq/huya.php?id=11342402
-香港恐怖,http://youguan.gq/huya.php?id=11601960
-女神系列,http://youguan.gq/huya.php?id=11336571
-周星驰放映厅,http://youguan.gq/huya.php?id=19105261
-五福星系列,http://youguan.gq/huya.php?id=11282233
-快乐同居生活,http://youguan.gq/huya.php?id=11336726
-武林外传,http://youguan.gq/huya.php?id=11352915
-贺岁片,http://youguan.gq/huya.php?id=11601986
-蜡笔小新,http://youguan.gq/huya.php?id=11352970
-新三国,http://youguan.gq/huya.php?id=11352944
-铁齿铜牙纪晓岚,http://youguan.gq/huya.php?id=11342396
-奔跑吧兄弟,http://youguan.gq/huya.php?id=11601972
-极限挑战,http://youguan.gq/huya.php?id=11352914
-虎牙八点档,http://youguan.gq/huya.php?id=880261
-我是特种兵,http://youguan.gq/huya.php?id=11342385
-黑帮大片,http://youguan.gq/huya.php?id=11336719
-人民的名义,http://youguan.gq/huya.php?id=11342425
-亮剑,http://youguan.gq/huya.php?id=11342434
-少年包青天,http://youguan.gq/huya.php?id=11342393
-神探狄仁杰,http://youguan.gq/huya.php?id=11352958
-各国赌片,http://youguan.gq/huya.php?id=11342399
-高智商犯罪片,http://youguan.gq/huya.php?id=11352962
-新水浒传,http://youguan.gq/huya.php?id=11342383
-奥特曼,http://youguan.gq/huya.php?id=11601977
-鹿鼎记,http://youguan.gq/huya.php?id=11352910
-龙门镖局,http://youguan.gq/huya.php?id=11352874
-网球王子,http://youguan.gq/huya.php?id=11352822
-三国演义,http://youguan.gq/huya.php?id=11602081
-沈腾贾玲黄渤,http://youguan.gq/huya.php?id=11601961
-父母爱情,http://youguan.gq/huya.php?id=11342439
-家有儿女,http://youguan.gq/huya.php?id=11352872
-美剧越狱,http://youguan.gq/huya.php?id=20488841
-康熙微服私访记,http://youguan.gq/huya.php?id=11342418
-猫和老鼠,http://youguan.gq/huya.php?id=11352879
-神医喜来乐,http://youguan.gq/huya.php?id=11601978
-热血女子摔跤,http://youguan.gq/huya.php?id=20072872
-雍正王朝,http://youguan.gq/huya.php?id=11352936
-张卫健班西游记,http://youguan.gq/huya.php?id=11342395
-相声小品,http://youguan.gq/huya.php?id=11336593
-金庸系列,http://youguan.gq/huya.php?id=11352878
-倚天屠龙记,http://youguan.gq/huya.php?id=11342403
-新还珠格格,http://youguan.gq/huya.php?id=11342415
-回家的诱惑,http://youguan.gq/huya.php?id=11352920
-隋唐英雄传,http://youguan.gq/huya.php?id=11352890
-动作悬疑片,http://youguan.gq/huya.php?id=11602077
-西游记,http://youguan.gq/huya.php?id=11602031
-任达华,http://youguan.gq/huya.php?id=11352883
-剃刀边缘,http://youguan.gq/huya.php?id=11602036
-咱们结婚吧,http://youguan.gq/huya.php?id=11342394
-世纪贼王张子强,http://youguan.gq/huya.php?id=11352940
-国产喜剧电影,http://youguan.gq/huya.php?id=11602044
-水浒传,http://youguan.gq/huya.php?id=11352892
-大秦帝国裂变,http://youguan.gq/huya.php?id=11352918
-美食纪录片,http://youguan.gq/huya.php?id=11352955
-中华小当家,http://youguan.gq/huya.php?id=11342413
-医馆笑传,http://youguan.gq/huya.php?id=11352891
-勇敢的心,http://youguan.gq/huya.php?id=11602037
-甄子丹电影,http://youguan.gq/huya.php?id=11352935
-楚汉传奇,http://youguan.gq/huya.php?id=11342392
-僵尸电影,http://youguan.gq/huya.php?id=19285234
-情深深雨蒙蒙,http://youguan.gq/huya.php?id=11352885
-花千骨,http://youguan.gq/huya.php?id=11342433
-魔幻神剧,http://youguan.gq/huya.php?id=11602065
-粤语经典喜剧,http://youguan.gq/huya.php?id=11352894
-屌丝男士,http://youguan.gq/huya.php?id=11342420
-法医秦明,http://youguan.gq/huya.php?id=11352950
-怀念金庸,http://youguan.gq/huya.php?id=11352897
-寻秦记,http://youguan.gq/huya.php?id=11342417
-血色浪漫,http://youguan.gq/huya.php?id=11602055
-国产动作大片,http://youguan.gq/huya.php?id=11352896
-陆小凤系列,http://youguan.gq/huya.php?id=11336725
-步步惊心,http://youguan.gq/huya.php?id=11601965
-奋斗,http://youguan.gq/huya.php?id=11352959
-仙剑奇侠传,http://youguan.gq/huya.php?id=11336579
-封神榜,http://youguan.gq/huya.php?id=11342404
-杨门女将,http://youguan.gq/huya.php?id=11336590
-火线追凶系列,http://youguan.gq/huya.php?id=11602069
-国产青春爱情,http://youguan.gq/huya.php?id=11602075
-张家辉梁家辉,http://youguan.gq/huya.php?id=11352916
-2134港片女神,http://youguan.gq/huya.php?id=11342429
-黑猫警长,http://youguan.gq/huya.php?id=11352974
-灾难片,http://youguan.gq/huya.php?id=11352871
-郭富城合集,http://youguan.gq/huya.php?id=11352876
-张学友合集,http://youguan.gq/huya.php?id=11352906
-乾隆王朝,http://youguan.gq/huya.php?id=11352954
-笑傲江湖,http://youguan.gq/huya.php?id=11352837
-僵尸道长,http://youguan.gq/huya.php?id=11352963
-今晚80后,http://youguan.gq/huya.php?id=11352961
-武媚娘传奇,http://youguan.gq/huya.php?id=11601964
-中国刑侦一号案,http://youguan.gq/huya.php?id=11352967
-樱桃小丸子,http://youguan.gq/huya.php?id=11602067
-侠侣探案系列,http://youguan.gq/huya.php?id=11352893
-古装探案系列,http://youguan.gq/huya.php?id=11352917
-感人高分电影,http://youguan.gq/huya.php?id=15452736
-光头神探,http://youguan.gq/huya.php?id=11342397
-射雕英雄传,http://youguan.gq/huya.php?id=21674665
-飞车电影,http://youguan.gq/huya.php?id=11279247
-中国达人秀,http://youguan.gq/huya.php?id=11602047
-卧底警匪片,http://youguan.gq/huya.php?id=11352886
-郭德纲脱口秀,http://youguan.gq/huya.php?id=11352945
-国内动画,http://youguan.gq/huya.php?id=11342428
-镖行天下,http://youguan.gq/huya.php?id=11352969
-小公举,http://youguan.gq/huya.php?id=11601968
-陈翔六点半,http://youguan.gq/huya.php?id=11274154
-阿斗归来了,http://youguan.gq/huya.php?id=13303478
-小蘑菇,http://youguan.gq/huya.php?id=11601981
-初心,http://youguan.gq/huya.php?id=11352941
-小丑讲电影,http://youguan.gq/huya.php?id=16857432
-扁豆看电影,http://youguan.gq/huya.php?id=16028551
-美少女咸儿,http://youguan.gq/huya.php?id=11336572
-鱼塘塘主张年年,http://youguan.gq/huya.php?id=11342384
-Dae陪你看-动作系列,http://youguan.gq/huya.php?id=22897556
-领带哥,http://youguan.gq/huya.php?id=11342430
-老王夸我帅,http://youguan.gq/huya.php?id=11352964
-军武直播,http://youguan.gq/huya.php?id=20230374
-北岛南城,http://youguan.gq/huya.php?id=11601962
-狗哥吃火锅,http://youguan.gq/huya.php?id=17269326
-面对疾风-,http://youguan.gq/huya.php?id=11352904
-我要在你头上暴扣,http://youguan.gq/huya.php?id=19524135
-荒野达人,http://youguan.gq/huya.php?id=11352975
-4号流水线的李小花,http://youguan.gq/huya.php?id=11601957
-Yummy,http://youguan.gq/huya.php?id=11336587
-亮哥讲电影,http://youguan.gq/huya.php?id=16144175
-Sir说电影,http://youguan.gq/huya.php?id=16626185
-科幻梦工场,http://youguan.gq/huya.php?id=15152155
-可爱的小强,http://youguan.gq/huya.php?id=11342435
-斌哥漫说,http://youguan.gq/huya.php?id=18632116
-茱麗葉,http://youguan.gq/huya.php?id=11602072
-西红柿,http://youguan.gq/huya.php?id=11601979
-音乐小石榴,http://youguan.gq/huya.php?id=17091681
-持枪者-土豆哥,http://youguan.gq/huya.php?id=11336578
-傻妞,http://youguan.gq/huya.php?id=11342426
-葱花,http://youguan.gq/huya.php?id=11352938
-瞬间爆炸,http://youguan.gq/huya.php?id=11352960
-张冰心,http://youguan.gq/huya.php?id=2688
-小猪猪,http://youguan.gq/huya.php?id=11342416
-来听歌呀,http://youguan.gq/huya.php?id=11352913
-斯国一,http://youguan.gq/huya.php?id=11352905
-yao不能停,http://youguan.gq/huya.php?id=11601980
-南西视频,http://youguan.gq/huya.php?id=16913382
-一只大懒虫,http://youguan.gq/huya.php?id=11279251
-电影最TOP,http://youguan.gq/huya.php?id=11774959
-萌新司机,http://youguan.gq/huya.php?id=11352881
-凌莲,http://youguan.gq/huya.php?id=11602086
-阿森木木木,http://youguan.gq/huya.php?id=11601971
-晴天-小曦,http://youguan.gq/huya.php?id=11352937
-元芳看不到,http://youguan.gq/huya.php?id=11342414
-我爱黑科技,http://youguan.gq/huya.php?id=11602068
-我的宝贝baby,http://youguan.gq/huya.php?id=11352880
-包蛋超人,http://youguan.gq/huya.php?id=11342400
-loVe、飘零,http://youguan.gq/huya.php?id=11602074
-假装,http://youguan.gq/huya.php?id=11352948
-小轩,http://youguan.gq/huya.php?id=11352899
-呆萌君,http://youguan.gq/huya.php?id=13138378
-雅痞不是帅,http://youguan.gq/huya.php?id=11352953
-Dae陪你看-喜剧系列,http://youguan.gq/huya.php?id=22897634
-吞针主播,http://youguan.gq/huya.php?id=11352887
-好尸,http://youguan.gq/huya.php?id=15981239
-胖次过肩摔,http://youguan.gq/huya.php?id=11352903
-二次元控,http://youguan.gq/huya.php?id=11352912
-长岛冰茶-,http://youguan.gq/huya.php?id=11352884
-哀是麦子的球迷,http://youguan.gq/huya.php?id=16162176
-飞天女警,http://youguan.gq/huya.php?id=11601958
-呆萌小岳岳,http://youguan.gq/huya.php?id=11342398
-四大裁子之首,http://youguan.gq/huya.php?id=11602058
- 舞王驾到,http://youguan.gq/huya.php?id=11342438
-Big笑工坊,http://youguan.gq/huya.php?id=14776702
-野食小哥,http://youguan.gq/huya.php?id=14363949
-越哥说电影,http://youguan.gq/huya.php?id=15894162
-玩味陪你看-心随影动,http://youguan.gq/huya.php?id=22295876
-DK陪你看-观影团,http://youguan.gq/huya.php?id=22895177
-小百合,http://youguan.gq/huya.php?id=11601956
-四次元先生,http://youguan.gq/huya.php?id=11602071
-母胎solo二百年,http://youguan.gq/huya.php?id=11601982
-小妖孽,http://youguan.gq/huya.php?id=11602088
-李小哇絮叨叨,http://youguan.gq/huya.php?id=18441722
-大侠,http://youguan.gq/huya.php?id=11602085
-小川侃电影,http://youguan.gq/huya.php?id=15870999
-乔我说动漫频道,http://youguan.gq/huya.php?id=17941367
-乔我说游戏频道,http://youguan.gq/huya.php?id=17943364
-来呀官人,http://youguan.gq/huya.php?id=15763558
-大型忙内的宅姐姐,http://youguan.gq/huya.php?id=11602084
-止戈电影,http://youguan.gq/huya.php?id=19863777
-地狱ヽ妖妖,http://youguan.gq/huya.php?id=11352869
-Adam短发,http://youguan.gq/huya.php?id=21339980
-Fighter,http://youguan.gq/huya.php?id=11352949
-周星驰吧,http://youguan.gq/huya.php?id=21136378
-漓江塔景区售票阿姨,http://youguan.gq/huya.php?id=11602082
-第一放映室,http://youguan.gq/huya.php?id=11352979
-逆火行,http://youguan.gq/huya.php?id=15824466
-大象放映室,http://youguan.gq/huya.php?id=21277391
-牙缝多了根青菜,http://youguan.gq/huya.php?id=11352877
-鱼丸说电影,http://youguan.gq/huya.php?id=16615910
-笙歌,http://youguan.gq/huya.php?id=11352965
-鲁班爱看剧,http://youguan.gq/huya.php?id=17139168
-小亮亮,http://youguan.gq/huya.php?id=11342432
-脑壳不太好,http://youguan.gq/huya.php?id=11602042
-幻海航行,http://youguan.gq/huya.php?id=17105786
-青年电影馆,http://youguan.gq/huya.php?id=21388479
-猫眼下的鱼,http://youguan.gq/huya.php?id=20236200
-刘老师说电影,http://youguan.gq/huya.php?id=20289754
-熊妹撩电影,http://youguan.gq/huya.php?id=15966357
-北岛的诗,http://youguan.gq/huya.php?id=11336591
-电影狂人A,http://youguan.gq/huya.php?id=18715610
-老电影故事,http://youguan.gq/huya.php?id=15267139
-王知无,http://youguan.gq/huya.php?id=16010446
-噔噔悬疑社,http://youguan.gq/huya.php?id=17445539
-如意菜头,http://youguan.gq/huya.php?id=11352966
-老皮讲电影,http://youguan.gq/huya.php?id=16968572
-了不起的乌贼君,http://youguan.gq/huya.php?id=16604522
-低调新说,http://youguan.gq/huya.php?id=20578977
-杀马特死神,http://youguan.gq/huya.php?id=11352875
-微微爱宝宝,http://youguan.gq/huya.php?id=11342422
-一口毒奶,http://youguan.gq/huya.php?id=16144261
-秋叶海棠君,http://youguan.gq/huya.php?id=21254214
-老吴说电影,http://youguan.gq/huya.php?id=16740471
-星君说电影,http://youguan.gq/huya.php?id=13622409
-桃白柏,http://youguan.gq/huya.php?id=15958655
-空空说电影,http://youguan.gq/huya.php?id=15923500
-西瓜刘海,http://youguan.gq/huya.php?id=11352908
-吐槽运动,http://youguan.gq/huya.php?id=11342436
-九叔说电影,http://youguan.gq/huya.php?id=21339153
-可乐撩电影,http://youguan.gq/huya.php?id=20045465
-小冉看电影,http://youguan.gq/huya.php?id=17341907
-圣逗事,http://youguan.gq/huya.php?id=18390254
-Fight、Girl,http://youguan.gq/huya.php?id=11352895
-撩电影8,http://youguan.gq/huya.php?id=16920698
-虫哥说电影,http://youguan.gq/huya.php?id=20173443
-谷阿莫,http://youguan.gq/huya.php?id=593573
-电影笔记,http://youguan.gq/huya.php?id=16920222
-一朵老香菇,http://youguan.gq/huya.php?id=15967689
-马桶吐槽,http://youguan.gq/huya.php?id=17089779
-中二的骚年,http://youguan.gq/huya.php?id=11602054
-雷舌电影,http://youguan.gq/huya.php?id=18368038
-西小笙,http://youguan.gq/huya.php?id=11352947
-老炮说电影,http://youguan.gq/huya.php?id=15454716
-西施撩电影,http://youguan.gq/huya.php?id=15253966
-你的小美吖,http://youguan.gq/huya.php?id=17489431
-涵哥评电影,http://youguan.gq/huya.php?id=16865726
-方头人讲故事,http://youguan.gq/huya.php?id=16604314
-电影享不停,http://youguan.gq/huya.php?id=16873147
-Low君,http://youguan.gq/huya.php?id=17147314
-暴影君,http://youguan.gq/huya.php?id=15695263
-晓杰侃电影,http://youguan.gq/huya.php?id=17279509
-电影间谍,http://youguan.gq/huya.php?id=16149609
-影音炫客,http://youguan.gq/huya.php?id=17811579
-比尔电影,http://youguan.gq/huya.php?id=17227870
-花花与三猫CatLive,http://youguan.gq/huya.php?id=15927359
-阿皮快看,http://youguan.gq/huya.php?id=17013162
-寞尛北,http://youguan.gq/huya.php?id=11602076
-我的星盆友,http://youguan.gq/huya.php?id=880220
-正经说电影,http://youguan.gq/huya.php?id=19583776
-云儿,http://youguan.gq/huya.php?id=22176049
-三口看电影,http://youguan.gq/huya.php?id=15599787
-渣子看闹剧,http://youguan.gq/huya.php?id=16837764
-沫漾电影,http://youguan.gq/huya.php?id=15556391
-韩小囧说电影,http://youguan.gq/huya.php?id=20695907
-虎妞说电影,http://youguan.gq/huya.php?id=20343144
-小贝食记,http://youguan.gq/huya.php?id=17198831
-小丽说电影,http://youguan.gq/huya.php?id=20056437
-嫦娥撩电影,http://youguan.gq/huya.php?id=18201106
-春寒一夜动千城,http://youguan.gq/huya.php?id=20702189
-洛基的小蛇,http://youguan.gq/huya.php?id=19582933
-导演我太难了,http://youguan.gq/huya.php?id=880248
-李嘉格是谁,http://youguan.gq/huya.php?id=22187977
-顾九撩电影,http://youguan.gq/huya.php?id=16422212
-无比看电影精选,http://youguan.gq/huya.php?id=19450129
-虎牙志愿者,http://youguan.gq/huya.php?id=880232
-性格刺青,http://youguan.gq/huya.php?id=10386201
-万人影视,http://youguan.gq/huya.php?id=16914870
-阿祥说电影,http://youguan.gq/huya.php?id=16868935
-王冠逸Lawrence,http://youguan.gq/huya.php?id=22175780
-正经的瓜皮酱,http://youguan.gq/huya.php?id=19810875
-演员方安娜,http://youguan.gq/huya.php?id=22151150
-猪猪妹说电影,http://youguan.gq/huya.php?id=16457533
-MIKOOOO,http://youguan.gq/huya.php?id=22142519
-游戏小萌主,http://youguan.gq/huya.php?id=16915640
-大学Z课堂,http://youguan.gq/huya.php?id=11160272
-态度官方节目,http://youguan.gq/huya.php?id=21103951
-USA大蛇,http://youguan.gq/huya.php?id=19564134
-葫芦娃小剧场,http://youguan.gq/huya.php?id=17323378
-赵方婧wimi,http://youguan.gq/huya.php?id=19284461
-蛋壳宝宝,http://youguan.gq/huya.php?id=16619039
-娱乐大王牌,http://youguan.gq/huya.php?id=880242
-中国加油,http://youguan.gq/huya.php?id=21059527
-短的发布会,http://youguan.gq/huya.php?id=17142127
-关灯看大片,http://youguan.gq/huya.php?id=16135863
-阿钙扒瞎,http://youguan.gq/huya.php?id=15978172
-甘露Vera,http://youguan.gq/huya.php?id=21399753
-黄霄雲,http://youguan.gq/huya.php?id=22180457
-音雄请回答,http://youguan.gq/huya.php?id=880269
-彤颜童语,http://youguan.gq/huya.php?id=19398022
-虎牙影视厅,http://youguan.gq/huya.php?id=16020072
-臧老师好,http://youguan.gq/huya.php?id=16616824
-小鬼律令,http://youguan.gq/huya.php?id=16847139
-我是一颗小虎牙,http://youguan.gq/huya.php?id=17904870
-电剧小班长,http://youguan.gq/huya.php?id=21847611
-嘀嗒强东玥,http://youguan.gq/huya.php?id=21392019
-新声营业中,http://youguan.gq/huya.php?id=880257
-电影十里廊,http://youguan.gq/huya.php?id=16801558
-陈冰kiki,http://youguan.gq/huya.php?id=22144263
-虎牙校园俱乐部,http://youguan.gq/huya.php?id=21304740
-小南瓜解说,http://youguan.gq/huya.php?id=17462972
-粽子说,http://youguan.gq/huya.php?id=16549527
-AKB48China,http://youguan.gq/huya.php?id=22149408
-影视新起点,http://youguan.gq/huya.php?id=16102581
-郭其城,http://youguan.gq/huya.php?id=21467179
-电影充电站,http://youguan.gq/huya.php?id=20064385
-扬仔看权游,http://youguan.gq/huya.php?id=17089810
-Casper卡斯柏,http://youguan.gq/huya.php?id=21426772
-非同说电影,http://youguan.gq/huya.php?id=20482574
-饭前看电影,http://youguan.gq/huya.php?id=16278147
-LoseYourself,http://youguan.gq/huya.php?id=16061522
-2369雨婷讲电影,http://youguan.gq/huya.php?id=21638737
-西哥来了,http://youguan.gq/huya.php?id=10849208
-娘子说电影,http://youguan.gq/huya.php?id=18964209
-陈泽希,http://youguan.gq/huya.php?id=21411905
-小冷说电影,http://youguan.gq/huya.php?id=16739452
-默爷侃电影,http://youguan.gq/huya.php?id=17204307
-电影七,http://youguan.gq/huya.php?id=16859944
-这剧很火,http://youguan.gq/huya.php?id=19811530
-经典影音,http://youguan.gq/huya.php?id=24380318
+精彩电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
+星空卫视,http://120.84.96.32:808/hls/79/index.m3u8
+J2娱乐,http://120.84.96.32:808/hls/86/index.m3u8
+欧美大片,https://magselect-stirr.amagi.tv/playlist1080p.m3u8
+哒啵赛事,http://39.135.55.105:6610/PLTV/88888888/224/3221225894/index.m3u8?servicetype=1
+哒啵赛事,http://39.135.55.105:6610/PLTV/88888888/224/3221226676/index.m3u8?servicetype=1
+哒啵赛事,http://39.135.55.105:6610/PLTV/88888888/224/3221226680/index.m3u8?servicetype=1
+黑莓动画,http://39.135.55.105:6610/PLTV/88888888/224/3221225878/index.m3u8?servicetype=1
+黑莓电影,http://39.135.55.105:6610/PLTV/88888888/224/3221225891/index.m3u8?servicetype=1
+芒果TV,http://39.135.55.105:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
+华数 ,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+红牛TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+美剧频道 ,http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
+电影台,http://data.3g.yy.com/live/hls/29900720/29900720
 
-歪歪-轮播,#genre#
-香港赌片[1280*720],http://youguan.gq/yy.php?id=29900720
-英叔全集经典鬼片[1280*720],http://youguan.gq/yy.php?id=1354869861
-港片鬼片500部[1280*720],http://youguan.gq/yy.php?id=1353059120
-英叔全集电影[1280*720],http://youguan.gq/yy.php?id=1353685311
-【周星驰】经典搞笑堵片[1280*720],http://youguan.gq/yy.php?id=1353881242
-百万喜剧票房[1280*720],http://youguan.gq/yy.php?id=1353173695
-好片看不停[1280*720],http://youguan.gq/yy.php?id=28205255
-经典电影24小时[1280*720],http://youguan.gq/yy.php?id=1351496216
-古惑仔系列[1280*720],http://youguan.gq/yy.php?id=1382658857
-武侠经典电影 永恒不变[1280*720],http://youguan.gq/yy.php?id=1353587611
-动作 科幻 战争 狙击[1280*720],http://youguan.gq/yy.php?id=32140089
-|熊猫电影,http://youguan.gq/yy.php?id=1355036002
-铁齿铜牙YY鸭,http://youguan.gq/yy.php?id=29249921
-狄仁杰1-4部,http://youguan.gq/yy.php?id=1351755386
-【周星驰】电影[800*600],http://youguan.gq/yy.php?id=38670875
-港片 赌片 枪战[800*600],http://youguan.gq/yy.php?id=27514983
-香港搞笑鬼片[800*600],http://youguan.gq/yy.php?id=1352227227
-|欧美海外[1280*720],http://youguan.gq/yy.php?id=1352843113
-林正英搞笑僵尸[1280*720],http://youguan.gq/yy.php?id=1351505899
-精彩电视剧[1280*720],http://youguan.gq/yy.php?id=21180667
-经典电视剧[1280*720],http://youguan.gq/yy.php?id=1352795886
-动画片莽荒纪[1280*720],http://youguan.gq/yy.php?id=1354930977
-活佛济公[1280*720],http://youguan.gq/yy.php?id=1352487950
-狄仁杰[1280*720],http://youguan.gq/yy.php?id=36171593
-经典港片/奇幻国产[800*600],http://youguan.gq/yy.php?id=23120006
-发哥赌神电影系列[800*600],http://youguan.gq/yy.php?id=39589923
-电影 超好看[800*600],http://youguan.gq/yy.php?id=29460894
-祁阳港剧频道[1280*720],http://youguan.gq/yy.php?id=1507427617
-|欧美科幻[1280*720],http://youguan.gq/yy.php?id=37988782
-抗日谍战剧[1280*720],http://youguan.gq/yy.php?id=1354690406
-战狼系列影视[1280*720],http://youguan.gq/yy.php?id=37877178
-【我是特种兵】[1280*720],http://youguan.gq/yy.php?id=37228835
-战狼[1280*720],http://youguan.gq/yy.php?id=1352476016
-战狼6全集[1280*720],http://youguan.gq/yy.php?id=25061163
-【成龙经典】动作 搞笑[1280*720],http://youguan.gq/yy.php?id=34460526
-【重案六组】破案神剧[1280*720],http://youguan.gq/yy.php?id=1382660045
-电视剧神探狄仁杰[1280*720],http://youguan.gq/yy.php?id=38338029
-鬼吹灯全集[1280*720],http://youguan.gq/yy.php?id=1331686180
-赌片 港片 动作[1280*720],http://youguan.gq/yy.php?id=77869868
-上海滩[1280*720],http://youguan.gq/yy.php?id=79382500
-【林正英】僵尸 鬼片[1280*720],http://youguan.gq/yy.php?id=30668277
-【林正英】僵尸鬼片[1280*720],http://youguan.gq/yy.php?id=34229877
-|雪豹精神抗战经典剧[1280*720],http://youguan.gq/yy.php?id=18971688
-|高清蓝光亮剑[800*600],http://youguan.gq/yy.php?id=1353392400
-天龙八部[800*600],http://youguan.gq/yy.php?id=1351814644
-24小时蓝光大片 [1280*720],http://youguan.gq/yy.php?id=24066336
-超清【高分电影】[1280*720],http://youguan.gq/yy.php?id=38650266
-【周星驰】经典搞笑电影[1280*720],http://youguan.gq/yy.php?id=30633499
-【欧美科幻】[1280*720],http://youguan.gq/yy.php?id=35133142
-顶级欧美电影[1280*720],http://youguan.gq/yy.php?id=24923327
-甄子丹系列超清,http://youguan.gq/yy.php?id=1353314294
-【电影】超然巨作[1280*720],http://youguan.gq/yy.php?id=26623173
-【欧美电影】全程[1280*720],http://youguan.gq/yy.php?id=29170933
-【科幻电影】24小时[1280*720],http://youguan.gq/yy.php?id=14503914
-【欧美电影】不间断[1280*720],http://youguan.gq/yy.php?id=1382632937
-《电视剧》[1280*720],http://youguan.gq/yy.php?id=1453059740
-电视剧火蓝刀锋[800*600],http://youguan.gq/yy.php?id=39204655
-妞妞陪你看[1280*720],http://youguan.gq/yy.php?id=1353507954
-经典电影-超好看[1280*720],http://youguan.gq/yy.php?id=22006255
-【雪豹】文章本色出演[1280*720],http://youguan.gq/yy.php?id=1352216562
-陪你看电影[1280*720],http://youguan.gq/yy.php?id=24407222
-张一山鹿鼎记[1280*720],http://youguan.gq/yy.php?id=24929887
-|港片动作[800*600],http://youguan.gq/yy.php?id=1351506521
-|玄幻精彩系列[800*600],http://youguan.gq/yy.php?id=1382651025
-24H怀旧剧场[800*600],http://youguan.gq/yy.php?id=1350562684
-电视剧续集[800*600],http://youguan.gq/yy.php?id=1351074342
-|铁齿铜牙纪晓岚[800*600],http://youguan.gq/yy.php?id=22039119
-|雍正王朝[800*600],http://youguan.gq/yy.php?id=26650882
-金庸经典不间断[800*600],http://youguan.gq/yy.php?id=1354330541
-鹿鼎记高清经典[800*600],http://youguan.gq/yy.php?id=28265277
-一起来看电影吧[800*600],http://youguan.gq/yy.php?id=1354210357
-【动漫】斗罗斗破超清,http://youguan.gq/yy.php?id=28796627
-|后宫一堆PS[800*600],http://youguan.gq/yy.php?id=1351517815
-|亮剑 超清全屏 亮剑[800*600],http://youguan.gq/yy.php?id=27321535
-|新主[800*600],http://youguan.gq/yy.php?id=1353782648
-战争军事[800*600],http://youguan.gq/yy.php?id=1353426319
-亮剑 超清全屏2[800*600],http://youguan.gq/yy.php?id=1461022118
-亮剑 超清全屏3[800*600],http://youguan.gq/yy.php?id=21570276
-|【重案六组】国产破案,http://youguan.gq/yy.php?id=33567888
-电视剧平凡的世界[800*600],http://youguan.gq/yy.php?id=28541541
-【电视剧】天下第一[800*600],http://youguan.gq/yy.php?id=1354780649
-犯罪系列[800*600],http://youguan.gq/yy.php?id=1382671124
-经典抗战剧[800*600],http://youguan.gq/yy.php?id=33453966
-神雕侠侣倚天屠龙[800*600],http://youguan.gq/yy.php?id=1351762426
-天龙倚天笑傲[800*600],http://youguan.gq/yy.php?id=1351814644
-铁齿铜牙纪晓岚[800*600],http://youguan.gq/yy.php?id=1353074059
-|《地下交通站》[800*600],http://youguan.gq/yy.php?id=29907996
-虐心情感剧[800*600],http://youguan.gq/yy.php?id=1353455515
-电视剧[800*600],http://youguan.gq/yy.php?id=29216766
-TVB港剧[800*600],http://youguan.gq/yy.php?id=38525272
-那些年[800*600],http://youguan.gq/yy.php?id=1351417866
-|生活情景剧[800*600],http://youguan.gq/yy.php?id=39360972
-|武侠玄幻[800*600],http://youguan.gq/yy.php?id=28099939
-|军事战争[800*600],http://youguan.gq/yy.php?id=1450444115
-|康熙微服私访记[800*600],http://youguan.gq/yy.php?id=1352811698
-|港剧悬疑破案[800*600],http://youguan.gq/yy.php?id=10425097
-|港剧系列[800*600],http://youguan.gq/yy.php?id=10425098
-|全职高手[800*600],http://youguan.gq/yy.php?id=26870427
-|隋唐英雄[800*600],http://youguan.gq/yy.php?id=1352475619
-|法医秦明（3部）[800*600],http://youguan.gq/yy.php?id=31542198
-|篮球火[800*600],http://youguan.gq/yy.php?id=36912445
-|古装仙侠[800*600],http://youguan.gq/yy.php?id=22059534
-|搞笑喜剧片[800*600],http://youguan.gq/yy.php?id=1353018737
-高分好看电影[1280*720],http://youguan.gq/yy.php?id=1353312849
-高清港台经典电影[1280*720],http://youguan.gq/yy.php?id=1350998397
-【绝版】经典搞笑[1280*720],http://youguan.gq/yy.php?id=42932063
-亮剑 超清全屏,http://youguan.gq/yy.php?id=32110908
-燕双鹰专场,http://youguan.gq/yy.php?id=1352227153
-|动漫小天地,http://youguan.gq/yy.php?id=37708809
-|国产玄幻,http://youguan.gq/yy.php?id=1354143978
+电影,http://txtest-xp2p.p2p.huya.com/src/1199530067986-1199530067986-5300816003561684992-2399060259428-10057-A-0-1.xs
+
+
+1905电影,http://36.101.206.161/txdirect.hls.huya.com/src/1199513205060-1199513205060-5228390287876816896-2399026533576-10057-A-0-1.m3u8#http://txtest-xp2p.p2p.huya.com/src/1199513205060-1199513205060-5228390287876816896-2399026533576-10057-A-0-1.xs
+TVB官方,http://111.6.244.41/tx.hls.huya.com/src//1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.m3u8?wsSecret=b5e05987bb018804424740ab8f94c9ac&wsTime=626d16cb&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acp1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.xs
+
+
+海绵宝宝,http://111.6.244.41/txdirect.hls.huya.com/src/1423782096-1423782096-6115097538950332416-2847687648-10057-A-0-1.m3u8?wsSecret=8510d58eb0162e0de21185b980477b05&wsTime=626d439c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Awx6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/1423782096-1423782096-6115097538950332416-2847687648-10057-A-0-1.xs
+蜡笔小新,http://111.6.244.41/tx.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8?wsSecret=8f5d6a42c73876da3743b57a033c0e7a&wsTime=61250236&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw==&ctype=huya_tars&txyp=o:d3;&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&dispatch_from=ztc100.112.158.96&utime=1629815376492_#http://txtest-xp2p.p2p.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.xs
+猫和老鼠,http://111.6.244.41/tx.hls.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8?wsSecret=c0e7457bb7fe0e9afac328a4ee972d82&wsTime=626bcd8f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Asjz3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
+
+爆笑虫子,http://111.6.244.41/txdirect.hls.huya.com/huyalive/98282154-98282154-422118637210435584-3465852224-10057-A-0-1.m3u8#http://txtest-xp2p.p2p.huya.com/src/98282154-98282154-422118637210435584-3465852224-10057-A-0-1.xs
+
+中华小当家,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1449588921-1449588921-6225937008338927616-2789274526-10057-A-0-1.m3u8?wsSecret=9a52402588a0294acead2df3b623780f&wsTime=62707e38&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Afz6%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1449588921-1449588921-6225937008338927616-2789274526-10057-A-0-1.xs
+
+极限挑战,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1423782086-1423782086-6115097496000659456-2847687628-10057-A-0-1-imgplus.m3u8?wsSecret=2b01e6efc16a18e89a4ffeb7ee18a828&wsTime=626d21e2&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ayzeic1dx%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/1423782086-1423782086-6115097496000659456-2847687628-10057-A-0-1-imgplus.xs#http://121.51.249.48/tx.hls.huya.com/src/1423782086-1423782086-6115097496000659456-2847687628-10057-A-0-1-imgplus.m3u8?wsSecret=2b01e6efc16a18e89a4ffeb7ee18a828&wsTime=626d21e2&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ayzeic1dx%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://111.6.244.41/tx.hls.huya.com/src/1423782086-1423782086-6115097496000659456-2847687628-10057-A-0-1-imgplus.m3u8?wsSecret=2b01e6efc16a18e89a4ffeb7ee18a828&wsTime=626d21e2&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ayzeic1dx%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+
+韩国跑男,http://36.101.206.161/txdirect.hls.huya.com/huyalive//1250011-1250011-5368756364640256-2777071322-10057-A-0-1.m3u8?wsSecret=6cc02ea368ed9cb102fb0d8a8f2ac592&wsTime=626d25d1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An111%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777071322-10057-A-0-1.m3u8.xs#http://121.51.249.48/tx.hls.huya.com/src/1250011-1250011-5368756364640256-2777071322-10057-A-0-1.m3u8?wsSecret=6cc02ea368ed9cb102fb0d8a8f2ac592&wsTime=626d25d1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An111%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+铁齿铜牙纪晓岚,http://111.6.244.41/tx.hls.huya.com/src//1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1-imgplus.m3u8?wsSecret=487c86537c142655c350d221b7c1acba&wsTime=626bd475&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ax3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1-imgplus.xs#http://36.101.206.161/txdirect.hls.huya.com/src//1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1-imgplus.m3u8
+
+
+沈腾,http://111.6.244.41/txdirect.hls.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.m3u8?wsSecret=7ae42421c3c25d869b759b75cbd44d57&wsTime=626d43de&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ad3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
+
+陈翔六点半,http://36.101.206.161/txdirect.hls.huya.com//huyalive/1352054947-1352054947-5807031779760013312-2704233350-10057-A-0-1-imgplus.m3u8?wsSecret=86d19f616f36f3e9b332ed5ff6883466&wsTime=626d4568&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Atyeic11%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/1352054947-1352054947-5807031779760013312-2704233350-10057-A-0-1-imgplus.xs
+林正英,http://111.6.244.41/tx.hls.huya.com/src//1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8?wsSecret=a92cb0b623ef37409dca328f66a8a3f6&wsTime=626d14f0&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Awx91%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
+
+曾江,http://111.6.244.41/txdirect.hls.huya.com/huyalive/1449588725-1449588725-6225936166525337600-3048959678-10057-A-0-1.m3u8?wsSecret=e2a4dc70129eea55a4548fa8b721098d&wsTime=626d47be&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1449588725-1449588725-6225936166525337600-3048959678-10057-A-0-1.xs
+
+
+黑帮电影,http://111.6.244.41/tx.hls.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1-imgplus.m3u8?wsSecret=a894a9376336ee8255ab9068312ca70f&wsTime=626bcf11&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Az27%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1-imgplus.xs
+
+经典影院HD,http://121.51.249.48/tx.hls.huya.com/src/1449580358-1449580358-6225900230533971968-2847687552-10057-A-0-1.m3u8#http://txtest-xp2p.p2p.huya.com/src/1449580358-1449580358-6225900230533971968-2847687552-10057-A-0-1.xs
+经典影院,http://121.51.249.48/tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8#http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
+封神榜,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8?wsSecret=b93eb21b44ef2d5a3525377906d5623f&wsTime=626d3325&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An111%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.xs#http://121.51.249.48/tx.hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8?wsSecret=b93eb21b44ef2d5a3525377906d5623f&wsTime=626d3325&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An111%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+地下交通站,http://111.6.244.41/tx.hls.huya.com/src/1250011-1250011-5368756364640256-2789274572-10057-A-0-1.m3u8?wsSecret=43bd92e3b472fced1cf5c4353fa20755&wsTime=626d1bb7&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Az27%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*#http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789274572-10057-A-0-1.xs
+
+
+周星驰,http://111.6.244.41/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8?wsSecret=022028adddacf036a68cf16302912d8d&wsTime=626d1e9c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ad3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.xs
+
+王晶,http://111.6.244.41/txdirect.hls.huya.com/huyalive/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.m3u8?wsSecret=2eec247041e960277ce3e5535ec18156&wsTime=62707d53&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Atyeic11%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
+
+成龙,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.m3u8?wsSecret=f089f45fcd2509301fd35350a638ef0e&wsTime=626d261f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Atyeic12%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.xs#http://121.51.249.48/tx.hls.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.m3u8?wsSecret=f089f45fcd2509301fd35350a638ef0e&wsTime=626d261f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Atyeic12%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+刘德华,http://36.101.206.161/txdirect.hls.huya.com//huyalive/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8?wsSecret=603f2f2a039ddff4f2cff1dddf8c81fa&wsTime=626d3389&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Az16%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.xs#http://121.51.249.48/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8?wsSecret=603f2f2a039ddff4f2cff1dddf8c81fa&wsTime=626d3389&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Az16%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+
+
+
+五福星,http://36.101.206.161/tx.hls.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.m3u8?wsSecret=c74ebe1725a76c5fa2caf5f27546ec38&wsTime=62707de1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An4%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*#http://txtest-xp2p.p2p.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.xs
+
+德云社,http://111.6.244.41/txdirect.hls.huya.com/huyalive/2196391103-2196391103-9433427956610367488-4392905662-10057-A-0-1.m3u8?wsSecret=3660857fcbcaf59da6837341f3436448&wsTime=627937ab&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/2196391103-2196391103-9433427956610367488-4392905662-10057-A-0-1.xs#http://121.51.249.48/txdirect.hls.huya.com/huyalive/2196391103-2196391103-9433427956610367488-4392905662-10057-A-0-1.m3u8?wsSecret=3660857fcbcaf59da6837341f3436448&wsTime=627937ab&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct#http://36.101.206.161/txdirect.hls.huya.com/huyalive/2196391103-2196391103-9433427956610367488-4392905662-10057-A-0-1.m3u8?wsSecret=0f6505df5a76cfa85dab41bbee4ccb2d&wsTime=626bc6cc&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct
+动画相声,http://txtest-xp2p.p2p.huya.com/src/1671404305-1671404305-7178626828368609280-3342932066-10057-A-0-1.xs
+相声动画,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1449698104-1449698104-6226405945753206784-2847699140-10057-A-0-1.m3u8?wsSecret=d821eb3711873926669c1e941fbfabbf&wsTime=62792248&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1449698104-1449698104-6226405945753206784-2847699140-10057-A-0-1.xs
+相声,http://txtest-xp2p.p2p.huya.com/src/11406705-11406705-48991424930119680-22936866-10057-A-0-1.xs
+GDG相声,http://111.6.244.41/txdirect.hls.huya.com/huyalive//64310431-64310431-276211197936664576-128744318-10057-A-0-1.m3u8?wsSecret=d1fe28f4bcb71803a1e4f0a979d79e57&wsTime=62793a4f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Awheic1%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src//64310431-64310431-276211197936664576-128744318-10057-A-0-1.xs
+DG相声,http://111.6.244.41/txdirect.hls.huya.com/huyalive/1259519540050-1259519540050-6902425628102093230-2519039203556-10057-A-1607096521-1.m3u8?wsSecret=570875103e822e66e728dc5f4c0a2e14&wsTime=62793afa&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1259519540050-1259519540050-6902425628102093230-2519039203556-10057-A-1607096521-1.xs
+
+
+搞笑喜剧,http://121.51.249.48/tx.hls.huya.com/huyalive/1394575546-1394575546-5989656361871343616-2789274548-10057-A-0-1.m3u8?wsSecret=858482ead8826100ad2c4ef989f9b3d7&wsTime=626f9a6e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Az27%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1394575546-1394575546-5989656361871343616-2789274548-10057-A-0-1.xs
+
+
+电影,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1099531752755-1099531752755-86436126637686784-2199063628966-10057-A-0-1.m3u8?wsSecret=4be421e452d541e890d3ba9daeb48691&wsTime=62791b51&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1099531752755-1099531752755-86436126637686784-2199063628966-10057-A-0-1.xs
+
+游击队,http://121.51.249.48/txdirect.hls.huya.com/huyalive/1423787821-1423787821-6115122127638102016-2847699098-10057-A-0-1-imgplus.m3u8#http://txtest-xp2p.p2p.huya.com/src/1423787821-1423787821-6115122127638102016-2847699098-10057-A-0-1-imgplus.xs
+
+刘小光,http://121.51.249.48/txdirect.hls.huya.com/huyalive/1449588790-1449588790-6225936445698211840-2847699106-10057-A-0-1.m3u8?wsSecret=4d76836e301e54cb2695607645922c41&wsTime=62792847&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Afz1%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1449588790-1449588790-6225936445698211840-2847699106-10057-A-0-1.xs
+张涵予,http://121.51.249.48/txdirect.hls.huya.com/huyalive/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.m3u8?wsSecret=bd7ae9de8372bb7129bd5dd0dfa08491&wsTime=627927ed&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.xs
+宋小宝,http://121.51.249.48/txdirect.hls.huya.com/huyalive/1449584077-1449584077-6225916203517345792-2847687612-10057-A-0-1.m3u8?wsSecret=12d21002e0b2876ea58eb2f2d7bd86ac&wsTime=627928f7&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Afz1%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1449584077-1449584077-6225916203517345792-2847687612-10057-A-0-1.xs
+女神电影,http://121.51.249.48/txdirect.hls.huya.com/huyalive/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1-imgplus.m3u8?wsSecret=3dc0e68578d5bd44ba4bdb8022bca999&wsTime=62792887&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Aj10%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1-imgplus.xs
+洪金宝,http://121.51.249.48/txdirect.hls.huya.com/huyalive/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.m3u8?wsSecret=76542e61f9457989605b07c1068bc121&wsTime=627927a0&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ac7%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.xs
+许氏三杰,http://121.51.249.48/txdirect.hls.huya.com/huyalive/1524434070-1524434070-6547394475558174720-3048991596-10057-A-0-1.m3u8?wsSecret=b2b973489558989f0cd381468f2e6766&wsTime=627926e5&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Atyeic11%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1524434070-1524434070-6547394475558174720-3048991596-10057-A-0-1.xs
+文武英杰,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1524418094-1524418094-6547325859160653824-3048959644-10057-A-0-1-imgplus.m3u8?wsSecret=5692b5b79b024b594bca57ee6e9b6dfa&wsTime=62791f38&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acs7%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*#http://txtest-xp2p.p2p.huya.com/src/1524418094-1524418094-6547325859160653824-3048959644-10057-A-0-1-imgplus.xs#http://111.6.244.41/txdirect.hls.huya.com/huyalive/1524418094-1524418094-6547325859160653824-3048959644-10057-A-0-1-imgplus.m3u8?wsSecret=5692b5b79b024b594bca57ee6e9b6dfa&wsTime=62791f38&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acs7%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*#http://121.51.249.48/txdirect.hls.huya.com/huyalive/1524418094-1524418094-6547325859160653824-3048959644-10057-A-0-1-imgplus.m3u8?wsSecret=5692b5b79b024b594bca57ee6e9b6dfa&wsTime=62791f38&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acs7%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+
+
+吴孟达,http://121.51.249.48/txdirect.hls.huya.com/huyalive/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.m3u8?wsSecret=80c70be5507d226321b851fcb727c64a&wsTime=6279243d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*#http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
+香港贺岁,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.m3u8?wsSecret=7e343982d44f17490c4b63bfb5b9407f&wsTime=62792208&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.xs#http://121.51.249.48/txdirect.hls.huya.com/huyalive/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.m3u8?wsSecret=7e343982d44f17490c4b63bfb5b9407f&wsTime=62792208&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct
+喜剧电影,http://121.51.249.48/txdirect.hls.huya.com/huyalive/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.m3u8?wsSecret=0b513d25bfe104e8bc4b876c562385f1&wsTime=6279247c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Afz6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.xs
+功夫电影,http://121.51.249.48/txdirect.hls.huya.com/huyalive/1423782056-1423782056-6115097367151640576-2847687568-10057-A-0-1.m3u8?wsSecret=9250a0fa256832b4381e1f58d2dceb39&wsTime=627924e6&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*#http://txtest-xp2p.p2p.huya.com/src/1423782056-1423782056-6115097367151640576-2847687568-10057-A-0-1.xs
+搞笑喜剧,http://121.51.249.48/txdirect.hls.huya.com/huyalive/1423787870-1423787870-6115122338091499520-2847699196-10057-A-0-1.m3u8?wsSecret=c01bd964c0ffc8f64a917a18076899ac&wsTime=6279211f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acp1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/1423787870-1423787870-6115122338091499520-2847699196-10057-A-0-1.xs
+
+80后脱口秀,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1.m3u8?wsSecret=51c9cbc80e4d0b72c6fecdb9422a925f&wsTime=627922d6&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1.xs
+笑傲江湖,http://121.51.249.48/txdirect.hls.huya.com/huyalive/1423787824-1423787824-6115122140523003904-2847699104-10057-A-0-1-imgplus.m3u8?wsSecret=57e419796a7ca9501b0191a47c95388d&wsTime=62792561&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ad3%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1423787824-1423787824-6115122140523003904-2847699104-10057-A-0-1-imgplus.xs
+武林外传,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1099531752788-1099531752788-86436268371607552-2199063629032-10057-A-0-1.m3u8?wsSecret=700e98a30b3b19b232a94b8e92eda98c&wsTime=626d1fcf&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1099531752788-1099531752788-86436268371607552-2199063629032-10057-A-0-1.xs#http://111.6.244.41/tx.hls.huya.com/src/1099531752788-1099531752788-86436268371607552-2199063629032-10057-A-0-1.m3u8?wsSecret=700e98a30b3b19b232a94b8e92eda98c&wsTime=626d1fcf&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgc#http://121.51.249.48/tx.hls.huya.com/src/1099531752788-1099531752788-86436268371607552-2199063629032-10057-A-0-1.m3u8?wsSecret=700e98a30b3b19b232a94b8e92eda98c&wsTime=626d1fcf&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgc
+民兵葛二蛋,http://111.6.244.41/tx.hls.huya.com/src//1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.m3u8?wsSecret=093f41940e4da8860fbf6935dfdd24bc&wsTime=626d20cf&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acs7%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*#http://txtest-xp2p.p2p.huya.com/src/1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.xs
+
+三国,http://111.6.244.41/tx.hls.huya.com/src//1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1-imgplus.m3u8?wsSecret=5873fcaccb09d27ec3c4216001fdb927&wsTime=626d2142&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Awx92%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1-imgplus.xs
+
+龙珠Z,http://111.6.244.41/tx.hls.huya.com/src//146501201-146501201-629217867119722496-293125858-10057-A-0-1.m3u8?wsSecret=f46623b68a85f97c88e3997543e95c39&wsTime=626d3534&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Awx91%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/146501201-146501201-629217867119722496-293125858-10057-A-0-1.xs#http://36.101.206.161/txdirect.hls.huya.com/huyalive//146501201-146501201-629217867119722496-293125858-10057-A-0-1.m3u8?wsSecret=f46623b68a85f97c88e3997543e95c39&wsTime=626d3534&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Awx91%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+春晚小品,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1423782031-1423782031-6115097259777458176-2847687518-10057-A-0-1.m3u8?wsSecret=26b54ad0ad9b555105d58ee088ababe6&wsTime=626d3e88&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Afz1%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1423782031-1423782031-6115097259777458176-2847687518-10057-A-0-1.xs
+
+监狱风云,http://111.6.244.41/txdirect.hls.huya.com/huyalive/437362244-437362244-1878456534485172224-874847944-10057-A-0-1.m3u8?wsSecret=74c2a53441aa5467d865a1e6893ed965&wsTime=626d407b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ac8%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/437362244-437362244-1878456534485172224-874847944-10057-A-0-1.xs
+
+贺岁电影,http://111.6.244.41/txdirect.hls.huya.com/huyalive/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1-imgplus.m3u8?wsSecret=e3675f286be996ad680efabf52f2bf2d&wsTime=626d4110&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An4%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1-imgplus.xs
+
+炊事班的故事,http://111.6.244.41/txdirect.hls.huya.com/huyalive/1524418108-1524418108-6547325919290195968-3048959672-10057-A-0-1.m3u8?wsSecret=3e1396100d903f5906a943d6206e3ba1&wsTime=626d4231&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acp1%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1524418108-1524418108-6547325919290195968-3048959672-10057-A-0-1.xs
+良影解说,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1199579404459-1199579404459-5512714541596672000-2399158932374-10057-A-0-1.m3u8?wsSecret=d15219933929fb682df40d580f60a4bc&wsTime=626d3df7&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1199579404459-1199579404459-5512714541596672000-2399158932374-10057-A-0-1.xs
+
+庆余年,http://111.6.244.41/tx.hls.huya.com/src//1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.m3u8?wsSecret=ebe231d419100b210257bd755c8ec029&wsTime=626d3619&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An6%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.xs#http://36.101.206.161/txdirect.hls.huya.com/huyalive//1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.m3u8?wsSecret=ebe231d419100b210257bd755c8ec029&wsTime=626d3619&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An6%3B&fs=bgct
+神探狄仁杰,http://36.101.206.161/tx.hls.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.m3u8?wsSecret=b45a376c06b5c21c9db33265b0fef6a3&wsTime=626f93fb&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An111%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.xs
+
+神探狄仁杰3,http://111.6.244.41/tx.hls.huya.com/src/1394575548-1394575548-5989656370461278208-2789274552-10057-A-0-1-imgplus.m3u8?wsSecret=8778aa7ab25a847685034e0630bc7a3b&wsTime=626d357a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ax3%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1394575548-1394575548-5989656370461278208-2789274552-10057-A-0-1-imgplus.xs#http://36.101.206.161/txdirect.hls.huya.com/huyalive/1394575548-1394575548-5989656370461278208-2789274552-10057-A-0-1-imgplus.m3u8?wsSecret=8778aa7ab25a847685034e0630bc7a3b&wsTime=626d357a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ax3%3B&fs=bgct
+
+
+韦小宝,http://111.6.244.41/tx.hls.huya.com/src//1524418114-1524418114-6547325945059999744-3048959684-10057-A-0-1.m3u8?wsSecret=9f98c2c6f94d041745fe48fd5a07d922&wsTime=626d37ef&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Afz1%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1524418114-1524418114-6547325945059999744-3048959684-10057-A-0-1.xs#http://36.101.206.161/txdirect.hls.huya.com/huyalive//1524418114-1524418114-6547325945059999744-3048959684-10057-A-0-1.m3u8?wsSecret=9f98c2c6f94d041745fe48fd5a07d922&wsTime=626d37ef&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Afz1%3B&fs=bgct
+
+乡村爱情,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1524439828-1524439828-6547419205979865088-3049003112-10057-A-0-1.m3u8?wsSecret=13ad53206b0561060e70d0ee0d57f251&wsTime=626d3828&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An111%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/1524439828-1524439828-6547419205979865088-3049003112-10057-A-0-1.xs
+
+家有儿女,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.m3u8?wsSecret=08e28fdf429bcf67b5a5acf865113a38&wsTime=626d391b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An111%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.xs
+好先生,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1449584504-1449584504-6225918037468381184-3049003172-10057-A-0-1.m3u8?wsSecret=148d72bb33b73643605564cb5b3b1dd3&wsTime=626d3a26&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1449584504-1449584504-6225918037468381184-3049003172-10057-A-0-1.xs
+
+孙红雷,http://111.6.244.41/tx.hls.huya.com/huyalive/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.m3u8?wsSecret=51b46bcc8a7c5049f2fcf6f15b7b255a&wsTime=626d4876&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An111%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.xs
+
+港剧,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1423782037-1423782037-6115097285547261952-2847687530-10057-A-0-1.m3u8?wsSecret=7fd8ff56f050b93ea670aba0c04e8224&wsTime=626d493a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acp1%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1423782037-1423782037-6115097285547261952-2847687530-10057-A-0-1.xs
+
+
+搞笑一家人,http://36.101.206.161/txdirect.hls.huya.com/huyalive//1394565211-1394565211-5989611973384339456-2789253878-10057-A-0-1.m3u8?wsSecret=cd1570cb7dd23435a9b85bfa7e544dca&wsTime=626d3bdd&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Awx6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/1394565211-1394565211-5989611973384339456-2789253878-10057-A-0-1.xs#http://121.51.249.48/tx.hls.huya.com/src/1394565211-1394565211-5989611973384339456-2789253878-10057-A-0-1.m3u8?wsSecret=a0039497195ef81bbb9bf861c19f60c1&wsTime=626f96ad&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Az27%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+
+龙门镖局,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1449698121-1449698121-6226406018767650816-2847687516-10057-A-0-1.m3u8?wsSecret=62a0ad1c861bd4783d8b5d95502aed41&wsTime=626d3c38&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acp1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*#http://txtest-xp2p.p2p.huya.com/src/1449698121-1449698121-6226406018767650816-2847687516-10057-A-0-1.xs#http://36.101.206.161/txdirect.hls.huya.com/src/1449698121-1449698121-6226406018767650816-2847687516-10057-A-0-1.m3u8?wsSecret=986324c89d3b04337dd0131a97693822&wsTime=626d34fd&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acp1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*#http://36.101.206.161/txdirect.hls.huya.com/huyalive/11449698121-1449698121-6226406018767650816-2847687516-10057-A-0-1.m3u8?wsSecret=336c4f3edf0955d6463525f8766c56c5&wsTime=626d3436&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acp1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*/#http://121.51.249.48/tx.hls.huya.com/src/11449698121-1449698121-6226406018767650816-2847687516-10057-A-0-1.m3u8?wsSecret=336c4f3edf0955d6463525f8766c56c5&wsTime=626d3436&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acp1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+
+电视剧,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1524439854-1524439854-6547419317649014784-3049003164-10057-A-0-1-imgplus.m3u8?wsSecret=5c10fadedc5ba52e052381b8e38dd0b1&wsTime=626d3cc7&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An112%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1524439854-1524439854-6547419317649014784-3049003164-10057-A-0-1-imgplus.xs
+
+活佛济公,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1394565208-1394565208-5989611960499437568-2789253872-10057-A-0-1.m3u8?wsSecret=2bd1d4a14fa277fcd424b9f8c8732e3d&wsTime=626f8ce9&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Atyeic12%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1394565208-1394565208-5989611960499437568-2789253872-10057-A-0-1.xs
+
+欢乐颂,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1524418105-1524418105-6547325906405294080-3048959666-10057-A-0-1.m3u8?wsSecret=a3d2c61f96e1d05bb42d69338ad8f812&wsTime=626f8d80&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Anc2%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1524418105-1524418105-6547325906405294080-3048959666-10057-A-0-1.xs
+
+医馆笑传,http://36.101.206.161/tx.hls.huya.com/src/1449698185-1449698185-6226406293645557760-2847687566-10057-A-0-1.m3u8?wsSecret=a60afd8776dd052f444db0a354718823&wsTime=626f8e05&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Awx91%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*#http://txtest-xp2p.p2p.huya.com/src/1449698185-1449698185-6226406293645557760-2847687566-10057-A-0-1.xs
+
+成龙历险记,http://36.101.206.161/tx.hls.huya.com/src/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.m3u8?wsSecret=9b6d4ec2a1fc3dec369c279fa5bf216b&wsTime=626f8eab&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An111%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*#http://txtest-xp2p.p2p.huya.com/src/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.xs
+
+牛郎织女,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1420736865-1420736865-6102018371396567040-2847687618-10057-A-0-1.m3u8?wsSecret=cb630f7de3bb8046ccc1bfd5531d0f51&wsTime=62791907&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Atyeic12%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1420736865-1420736865-6102018371396567040-2847687618-10057-A-0-1.xs
+
+爱情公寓,http://111.6.244.41/tx.hls.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1-imgplus.m3u8?wsSecret=380663de73f92d8fbdd58b1f7cdff512&wsTime=626f8f78&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An6%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1-imgplus.xs
+
+秦,http://121.51.249.48/txdirect.hls.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.m3u8?wsSecret=f0803daef7f6ffcaf0f3d27ea947c14c&wsTime=626f90df&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*#http://txtest-xp2p.p2p.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.xs
+
+
+TVB,http://121.51.249.48/txdirect.hls.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.m3u8?wsSecret=533e2b70639a793d4848e9bc08db0db7&wsTime=626f923a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Asjz3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.xs
+
+天龙八部,http://121.51.249.48/txdirect.hls.huya.com/huyalive/1423782083-1423782083-6115097483115757568-2847687622-10057-A-0-1.m3u8?wsSecret=8acbdc059960c1febb2ce4e81457e7bf&wsTime=626f95e6&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acs6%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1423782083-1423782083-6115097483115757568-2847687622-10057-A-0-1.xs
+
+
+大宅门,http://121.51.249.48/txdirect.hls.huya.com/huyalive/1250011-1250011-5368756364640256-2789253858-10057-A-0-1.m3u8?wsSecret=676ecef9e50773bad3e6f4d54f552fb6&wsTime=62708bfa&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Anc4%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789253858-10057-A-0-1.xs
+奥特曼,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1199598462404-1199598462404-5594567792100638720-2399197048264-10057-A-0-1.m3u8?wsSecret=2f38c45154fe4f88ab6a6f2ad4a4f593&wsTime=6279171f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1199598462404-1199598462404-5594567792100638720-2399197048264-10057-A-0-1.xs
+
+
+吴京,http://111.6.244.41/txdirect.hls.huya.com/huyalive/1199581679881-1199581679881-5522487404671270912-2399163483218-10057-A-0-1.m3u8?wsSecret=2144fd09631293d63c80622bb19868ca&wsTime=62708a0c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Anc2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/1199581679881-1199581679881-5522487404671270912-2399163483218-10057-A-0-1.xs
+
+
+神雕侠侣,http://121.51.249.48/tx.hls.huya.com/src/1423787869-1423787869-6115122333796532224-2847699194-10057-A-0-1-imgplus.m3u8?wsSecret=ecfbc615c959ce9a4f375d9a892f42de&wsTime=626fae39&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/1423787869-1423787869-6115122333796532224-2847699194-10057-A-0-1-imgplus.xs
+还珠格格,http://121.51.249.48/txdirect.hls.huya.com/src/1423787874-1423787874-6115122355271368704-2847699204-10057-A-0-1.m3u8?wsSecret=117a4d11ec4af7bf275dfdb55a7190db&wsTime=626fa404&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Anc4%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/1423787874-1423787874-6115122355271368704-2847699204-10057-A-0-1.xs
+
+芈月传,http://121.51.249.48/txdirect.hls.huya.com/huyalive/1423787884-1423787884-6115122398221041664-2847699224-10057-A-0-1.m3u8?wsSecret=89c1005bc476ea0e48ba263e47edcf8a&wsTime=626f9f48&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acs7%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*#http://txtest-xp2p.p2p.huya.com/src/1423787884-1423787884-6115122398221041664-2847699224-10057-A-0-1.xs
+
+鬼吹灯,http://121.51.249.48/txdirect.hls.huya.com/huyalive/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.m3u8?wsSecret=6de8ed5f7425af1b1caaa346ece30334&wsTime=626f9b47&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An4%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.xs
+
+
+康熙微服私访,http://121.51.249.48/tx.hls.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.m3u8?wsSecret=0c9d222b16011d0726d35b996356baf4&wsTime=626f9d05&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Az27%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*#http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.xs
+
+康熙王朝,http://121.51.249.48/tx.hls.huya.com/huyalive/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1.m3u8?wsSecret=97cb8e45a256c561d6828efe31ee8374&wsTime=626f9dd3&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Az16%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1.xs
+
+倚天屠龙记,http://36.101.206.161/txdirect.hls.huya.com/src/1394565214-1394565214-5989611986269241344-2789253884-10057-A-0-1.m3u8?wsSecret=289d00060bee6c5d8fd9194408cdacbc&wsTime=626f9e25&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Az16%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*#http://txtest-xp2p.p2p.huya.com/src/1394565214-1394565214-5989611986269241344-2789253884-10057-A-0-1.xs
+四大才子,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1199563478867-1199563478867-5444314644787232768-2399127081190-10057-A-0-1.m3u8?wsSecret=ee891cf6958b818c49d9d02afdc81678&wsTime=62791da5&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1199563478867-1199563478867-5444314644787232768-2399127081190-10057-A-0-1.xs
+陈佩斯,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1524418065-1524418065-6547325734606602240-3048959586-10057-A-0-1.m3u8?wsSecret=e145eb0300c43c118b41018926e9f8a2&wsTime=62791e1d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Az16%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*#http://txtest-xp2p.p2p.huya.com/src/1524418065-1524418065-6547325734606602240-3048959586-10057-A-0-1.xs
+
+土味情话,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1099531840927-1099531840927-86814822494109696-2199063805310-10057-A-0-1.m3u8?wsSecret=78002abadb1a238c30239d3035a2177f&wsTime=62791ecc&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Az16%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1099531840927-1099531840927-86814822494109696-2199063805310-10057-A-0-1.xs
+
+电视剧,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1394575538-1394575538-5989656327511605248-2789274532-10057-A-0-1.m3u8?wsSecret=eae2da87fb9dcdf3e8fd53659100142b&wsTime=62791fee&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/1394575538-1394575538-5989656327511605248-2789274532-10057-A-0-1.xs
+
+金庸,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.m3u8?wsSecret=acf53cb1806797a6d5f6007146d42788&wsTime=62792077&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Awx91%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
+茶啊二中,http://36.101.206.161/txdirect.hls.huya.com/huyalive/28596569-28596569-122821328632807424-2633424538-10057-A-0-1.m3u8?wsSecret=cff5b90ba861b69ce6ff0ae2ad07379c&wsTime=62792161&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/28596569-28596569-122821328632807424-2633424538-10057-A-0-1.xs
+
+
+----,http://121.51.249.48/txdirect.hls.huya.com/huyalive/1199591052044-1199591052044-5562740538249052160-2399182227544-10057-A-0-1.m3u8?wsSecret=c894909e5fa0d0aa28b46709307b342d&wsTime=6279273c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1199591052044-1199591052044-5562740538249052160-2399182227544-10057-A-0-1.xs
+
+
+街访Show,http://36.101.206.161/txdirect.hls.huya.com/huyalive/60637426-60637426-260435761583620096-2125253048-10057-A-0-1.m3u8?wsSecret=824aa7ac99a84bd2f3a390e9e00a7705&wsTime=6279237f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Afz1%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/60637426-60637426-260435761583620096-2125253048-10057-A-0-1.xs
+笑傲帮,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1449380946-1449380946-6225043762515542016-2847687614-10057-A-0-1.m3u8?wsSecret=dd08844529f173b0d619b3371be85f9b&wsTime=6279240b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Awx91%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/1449380946-1449380946-6225043762515542016-2847687614-10057-A-0-1.xs
+数码评测,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1099531752622-1099531752622-86435555407036416-2199063628700-10057-A-0-1.m3u8?wsSecret=945a9a1c02fe32edfec09d6e0a382b19&wsTime=62792316&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1099531752622-1099531752622-86435555407036416-2199063628700-10057-A-0-1.xs
+
+
+沙雕,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1199563571793-1199563571793-5444713758918180864-2399127267042-10057-A-0-1.m3u8?wsSecret=21ddf7b066d670f8acbade5764c5aa23&wsTime=62791c3b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Anc2%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1199563571793-1199563571793-5444713758918180864-2399127267042-10057-A-0-1.xs
+唐唐,http://121.51.249.48/txdirect.hls.huya.com/huyalive/22303913-22303913-95794576907829248-4413173724-10057-A-0-1.m3u8?wsSecret=5f3e8fe11df0d2a81851d8bf2c1436f9&wsTime=6279186e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ad2%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/22303913-22303913-95794576907829248-4413173724-10057-A-0-1.xs
+搞笑,http://36.101.206.161/txdirect.hls.huya.com/huyalive/1391381950-1391381950-5975939971494707200-2782887356-10057-A-0-1.m3u8?wsSecret=20c5b237fbedd2d1c76fad45e3e9c50c&wsTime=62791a49&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ad2%3B&fs=bgct#http://txtest-xp2p.p2p.huya.com/src/1391381950-1391381950-5975939971494707200-2782887356-10057-A-0-1.xs
+
+
 |熊猫功夫台,http://youguan.gq/yy.php?id=1355013632
 
+
 斗鱼,#genre#
+斗鱼,#genre#
+粤语电影,http://epg.112114.xyz/douyu/2466104
 【牛叔】N分钟带你看完大片,http://youguan.gq/douyu.php?id=2758565
+粤语综艺,http://epg.112114.xyz/douyu/7919720
 【更新】最全斗牌、麻将剧集解说,http://youguan.gq/douyu.php?id=9559158
+华语经典,http://epg.112114.xyz/douyu/434971
 【德善】所谓胡同就是，用时间来造就朋友,http://youguan.gq/douyu.php?id=8600645
+吃米滴虫,http://epg.112114.xyz/douyu/315457
 「橙記」「最人气港剧直播间」,http://youguan.gq/douyu.php?id=4549169
+神乐影片1,http://epg.112114.xyz/douyu/122402
 【女神金】60帧 极致蓝光 刀刀陪看,http://youguan.gq/douyu.php?id=747764
+神乐影片2,http://epg.112114.xyz/douyu/85894
 ❤️可乐❤️电影 欧美 科幻 经典,http://youguan.gq/douyu.php?id=20415
+特辑影院,http://epg.112114.xyz/douyu/3637778
 ❤️奶虫❤️恐怖 丧尸 鬼片 灾难科幻,http://youguan.gq/douyu.php?id=263824
+贝爷MAX厅,http://epg.112114.xyz/douyu/4332
 【猫和老鼠】汤姆和杰瑞童年回忆,http://youguan.gq/douyu.php?id=7888428
+漫威影片,http://epg.112114.xyz/douyu/6140589
 谁说一起看不能100级，晚晚偏要做第一个,http://youguan.gq/douyu.php?id=8861179
+周星驰电影,http://epg.112114.xyz/douyu/3990812
 【特辑】直播间的大哥是谁我不说,http://youguan.gq/douyu.php?id=3637778
+刘德华电影1,http://epg.112114.xyz/douyu/2516864
 【龙门】天山勾地火，宝塔镇蛇妖,http://youguan.gq/douyu.php?id=9650860
+刘德华电影2,http://epg.112114.xyz/douyu/8985415
 ❤️ 曾小贤❤️⭐,http://youguan.gq/douyu.php?id=9586235
+喜剧经典,http://epg.112114.xyz/douyu/9650887
 【小鸽陪看】华语热门影视剧,http://youguan.gq/douyu.php?id=3928
+豆瓣高分,http://epg.112114.xyz/douyu/8770422
 【话事人】粤语【周星驰】【林正英】,http://youguan.gq/douyu.php?id=5033502
+林正英电影1,http://epg.112114.xyz/douyu/218859
 ❤️冰冰❤️恐怖/经典/搞笑陪你一起,http://youguan.gq/douyu.php?id=74374
+林正英电影2,http://epg.112114.xyz/douyu/7356023
 ❤️悍匪技术学院❤️。。。。,http://youguan.gq/douyu.php?id=922564
+女神金电影,http://epg.112114.xyz/douyu/747764
 海绵与大星直播间,http://youguan.gq/douyu.php?id=2250349
+贝爷影厅1,http://epg.112114.xyz/douyu/252802
 晓妞动漫花园o(∩_∩)o,http://youguan.gq/douyu.php?id=426517
+贝爷影厅2,http://epg.112114.xyz/douyu/36337
 【片片】片荒的时候看片片,http://youguan.gq/douyu.php?id=4258555
+霍格影片,http://epg.112114.xyz/douyu/8814650
 【万合天宜】王大锤情怀上线,http://youguan.gq/douyu.php?id=9220456
+可乐电影,http://epg.112114.xyz/douyu/20415
 你好你好你好 7494871,http://youguan.gq/douyu.php?id=7494871
+冰冰经典电影,http://epg.112114.xyz/douyu/74374
 战斗吧！热血动漫全看,http://youguan.gq/douyu.php?id=9641152
+奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
 【雍正】人无伤虎意虎有吃人心,http://youguan.gq/douyu.php?id=9650836
+奶瓶科幻片,http://epg.112114.xyz/douyu/6655271
 【番号】入万军丛中，取上将头颅,http://youguan.gq/douyu.php?id=8157860
+避风港影院,http://epg.112114.xyz/douyu/9826611
 【逃出监狱】兄弟情，是真的,http://youguan.gq/douyu.php?id=7575350
+林林影院,http://epg.112114.xyz/douyu/9652323
 走进“柯”学，西瓜讲柯南的案件~,http://youguan.gq/douyu.php?id=9065082
+漫威电影,http://epg.112114.xyz/douyu/4282654
 【倍速播放】快乐会加倍！,http://youguan.gq/douyu.php?id=4105989
+恐怖经典,http://epg.112114.xyz/douyu/1165374
 【1900影剧室】经典战争电影,http://youguan.gq/douyu.php?id=7796193
+变种人电影,http://epg.112114.xyz/douyu/9651304
 【樱木花道灌篮】PP动漫精彩解说,http://youguan.gq/douyu.php?id=9837291
+华语电影,http://epg.112114.xyz/douyu/3928
 【贝贝】军旅 历史 喜剧 动作,http://youguan.gq/douyu.php?id=431460
+华语动作电影,http://epg.112114.xyz/douyu/1504768
 经典武侠解说,http://youguan.gq/douyu.php?id=9649681
+怀旧90,http://epg.112114.xyz/douyu/9275635
 【虫哥】魔性吐槽童年回忆,http://youguan.gq/douyu.php?id=8915074
+国产影片,http://epg.112114.xyz/douyu/5423
 【洗碗君】 解说 爷青回！,http://youguan.gq/douyu.php?id=9446706
+麓山迷踪,http://epg.112114.xyz/douyu/4505431
 【周末】速进！新片放映中！,http://youguan.gq/douyu.php?id=3637765
+高帧影片,http://epg.112114.xyz/douyu/6763930
 【恐怖影厅】胆小勿入,http://youguan.gq/douyu.php?id=3637726
+米娅电影,http://epg.112114.xyz/douyu/6537888
 【体育】聊聊科比、乔丹传奇故事,http://youguan.gq/douyu.php?id=8434598
+小九电影,http://epg.112114.xyz/douyu/7136517
 【科幻Fans】精彩科幻影视，解说连连看,http://youguan.gq/douyu.php?id=3508304
+斗鱼電影7,http://epg.112114.xyz/douyu/3637726
 【科幻片】最专业的科幻片解说,http://youguan.gq/douyu.php?id=9338839
+斗鱼電影8,http://epg.112114.xyz/douyu/323876
 ❤️怡寳❤️  国民女友陪看,http://youguan.gq/douyu.php?id=434971
+斗鱼电影10,http://epg.112114.xyz/douyu/2935323
 开心锤锤，开心快乐每一天！,http://youguan.gq/douyu.php?id=9018297
+斗鱼電影11,http://epg.112114.xyz/douyu/7459925
 ✨神乐✨华语 经典 电影 沈腾 周星驰,http://youguan.gq/douyu.php?id=85894
+斗鱼電影16,http://epg.112114.xyz/douyu/431460
 【红雷】经典电视剧精讲,http://youguan.gq/douyu.php?id=9650131
+斗鱼電影18,http://epg.112114.xyz/douyu/4246519
 漫威、科幻作品逐帧解析,http://youguan.gq/douyu.php?id=10494168
+斗鱼電影19,http://epg.112114.xyz/douyu/7116591
 年轻人就要做干干脆脆的小饼干，~,http://youguan.gq/douyu.php?id=9461083
+斗鱼電影21,http://epg.112114.xyz/douyu/6776615
 迷小雅最新爽剧解说,http://youguan.gq/douyu.php?id=9639225
+斗鱼電影22,http://epg.112114.xyz/douyu/1979257
 ✨周星驰✨星爷 华语 成龙 电影 神乐,http://youguan.gq/douyu.php?id=122402
+斗鱼電影23,http://epg.112114.xyz/douyu/7494871
 【拳叔】那些经典的动漫,http://youguan.gq/douyu.php?id=9484105
+斗鱼電影26,http://epg.112114.xyz/douyu/8413092
 美剧解说精彩不断,http://youguan.gq/douyu.php?id=9643264
+斗鱼電影35,http://epg.112114.xyz/douyu/248753
 已更新！聊聊武侠与江湖,http://youguan.gq/douyu.php?id=8986636
+斗鱼電影71,http://epg.112114.xyz/douyu/2987100
 许君聪经典小品的直播间,http://youguan.gq/douyu.php?id=10419558
+斗鱼電影77,http://epg.112114.xyz/douyu/2758565
 【悬疑】都市猎奇传说、恐怖故事,http://youguan.gq/douyu.php?id=2337939
+斗鱼電影79,http://epg.112114.xyz/douyu/805235
 【庆帝】云淡风轻正闲处，鲜衣怒马少年时,http://youguan.gq/douyu.php?id=7489563
+斗鱼電影81,http://epg.112114.xyz/douyu/3870925
 【蓝翔】弹幕天团、下饭神剧[请勿刷屏],http://youguan.gq/douyu.php?id=276200
+斗鱼電影94,http://epg.112114.xyz/douyu/4396972
 【青铜椁】大道龙行自有真飘忽隐现是龙身,http://youguan.gq/douyu.php?id=9292503
+斗鱼電影95,http://epg.112114.xyz/douyu/4549169
 【漫威】漫威主线剧情 最佳观影顺序,http://youguan.gq/douyu.php?id=6140589
+斗鱼電影97,http://epg.112114.xyz/douyu/8867878
 ✨丸子✨经典国产大片，24小时看不停,http://youguan.gq/douyu.php?id=8986148
+斗鱼電影99,http://epg.112114.xyz/douyu/7655471
 【林正英】僵尸 女鬼 弹幕 护体,http://youguan.gq/douyu.php?id=218859
+斗鱼電影105,http://epg.112114.xyz/douyu/4290711
 ✨贝爷MAX厅✨科幻 动作 经典 喜剧,http://youguan.gq/douyu.php?id=4332
+斗鱼電影108,http://epg.112114.xyz/douyu/6566671
 2021年度影评-美人如玉剑如虹,http://youguan.gq/douyu.php?id=10395989
+斗鱼電影111,http://epg.112114.xyz/douyu/8475821
 刑事组之虎~曹达华,http://youguan.gq/douyu.php?id=10673094
+斗鱼電影117,http://epg.112114.xyz/douyu/338759
 【刘德华】庆祝华仔出道40周年,http://youguan.gq/douyu.php?id=2516864
+斗鱼電影124,http://epg.112114.xyz/douyu/2793084
 2021年度影评-惜取眼前人,http://youguan.gq/douyu.php?id=10395991
+斗鱼電影125,http://epg.112114.xyz/douyu/5067952
 【喜剧】经典喜剧专场,http://youguan.gq/douyu.php?id=9650887
+斗鱼電影128,http://epg.112114.xyz/douyu/675072
 【史君说剧】史君说尽天下好剧,http://youguan.gq/douyu.php?id=9419771
+斗鱼電影129,http://epg.112114.xyz/douyu/413573
 【成龙】一个能打的都没有 duang~,http://youguan.gq/douyu.php?id=10395969
+斗鱼電影134,http://epg.112114.xyz/douyu/6725858
 86上山~一起上树,http://youguan.gq/douyu.php?id=10240549
+斗鱼電影135,http://epg.112114.xyz/douyu/7476264
 【李连杰】拳拳到肉的动作爽片,http://youguan.gq/douyu.php?id=10395964
+斗鱼電影136,http://epg.112114.xyz/douyu/5689514
 【动画电影】童年回忆,http://youguan.gq/douyu.php?id=10395973
+斗鱼電影141,http://epg.112114.xyz/douyu/7623292
 [兔兔陪看]爱笑的撸猫主播,http://youguan.gq/douyu.php?id=1504768
+斗鱼電影145,http://epg.112114.xyz/douyu/5033502
 2021年度影评-喜剧专题,http://youguan.gq/douyu.php?id=10395937
+斗鱼電影151,http://epg.112114.xyz/douyu/426517
 2021年度影评-我们不甘平凡,http://youguan.gq/douyu.php?id=10395986
+斗鱼電影153,http://epg.112114.xyz/douyu/8799435
 【雍正、杨贵妃】剧集精讲,http://youguan.gq/douyu.php?id=9660127
+斗鱼電影155,http://epg.112114.xyz/douyu/4258555
 【小叮当】童年经典动画片,http://youguan.gq/douyu.php?id=9445279
+斗鱼電影165,http://epg.112114.xyz/douyu/8705754
 【高智商】两脚离地了，智商又占领高地了,http://youguan.gq/douyu.php?id=10395981
+斗鱼電影166,http://epg.112114.xyz/douyu/5581257
 2021年度影评-正义不会缺席,http://youguan.gq/douyu.php?id=10395984
+斗鱼電影169,http://epg.112114.xyz/douyu/7528160
 【SVA】 今天双倍亲密度 三倍上限,http://youguan.gq/douyu.php?id=4326998
+斗鱼电影90,http://epg.112114.xyz/douyu/6785471
 2021年度影评-悬疑专题,http://youguan.gq/douyu.php?id=10395965
+斗鱼电影92,http://epg.112114.xyz/douyu/7537296
 舔狗波比的幸福生活,http://youguan.gq/douyu.php?id=7620081
+斗鱼电影110,http://epg.112114.xyz/douyu/8415464
 游戏剧情系列/恐怖/主机/通关,http://youguan.gq/douyu.php?id=10401475
+斗鱼电影113,http://epg.112114.xyz/douyu/5522351
 【小宇尬舞】60帧 科幻 动作 喜剧电影,http://youguan.gq/douyu.php?id=323876
+斗鱼电影114,http://epg.112114.xyz/douyu/562225
 ✨贝爷影厅✨经典 科幻 动作 灾难 巨兽,http://youguan.gq/douyu.php?id=252802
+斗鱼电影115,http://epg.112114.xyz/douyu/223521
 【贤于葛格】最会讲电影的贤于来啦,http://youguan.gq/douyu.php?id=9461990
+斗鱼电影116,http://epg.112114.xyz/douyu/8651489
 【Liz陪看】各种类型电影,http://youguan.gq/douyu.php?id=7254536
+斗鱼电影118,http://epg.112114.xyz/douyu/4631599
 都市/喜剧大片天天看,http://youguan.gq/douyu.php?id=10240539
+斗鱼电影120,http://epg.112114.xyz/douyu/5354713
 【雍正康熙】帝王故事连连看,http://youguan.gq/douyu.php?id=4808115
+斗鱼电影122,http://epg.112114.xyz/douyu/3485629
 【枪战】枪神在此，无敌,http://youguan.gq/douyu.php?id=10240510
+斗鱼电影130,http://epg.112114.xyz/douyu/8014467
 【法证】十个环境证据，比十个证人还管用,http://youguan.gq/douyu.php?id=9019945
+斗鱼电影137,http://epg.112114.xyz/douyu/1274132
 史剧解说洪武年间大案,http://youguan.gq/douyu.php?id=297689
+斗鱼电影143,http://epg.112114.xyz/douyu/7314294
 【悬疑】午夜惊悚乐园，点上关注带你探险！,http://youguan.gq/douyu.php?id=9075333
+斗鱼电影149,http://epg.112114.xyz/douyu/6582435
 飞社长日本二次元探秘,http://youguan.gq/douyu.php?id=524757
+斗鱼电影150,http://epg.112114.xyz/douyu/3980787
 【韦小宝】春辞小院离离影，夜受轻衫漠漠香,http://youguan.gq/douyu.php?id=7473576
+斗鱼电影158,http://epg.112114.xyz/douyu/8788687
 四月十号一周年啦～欢迎大家来玩儿,http://youguan.gq/douyu.php?id=9461178
-【令狐冲】什么是江湖,http://youguan.gq/douyu.php?id=9653063
-长工带你一起来追剧,http://youguan.gq/douyu.php?id=8869614
-【康熙】张国立在线扫H除恶,http://youguan.gq/douyu.php?id=7550220
-【霍格沃茨】伟大引起嫉妒，嫉妒导致怨毒,http://youguan.gq/douyu.php?id=8814650
-⭐圆子⭐纯系初恋 电视剧 电影 动漫,http://youguan.gq/douyu.php?id=6566658
-周扒片深度解说,http://youguan.gq/douyu.php?id=6434857
-反手一个好家伙,http://youguan.gq/douyu.php?id=7270927
-【老王】经典电影看不停,http://youguan.gq/douyu.php?id=9687733
-已更新！星君带你看大片,http://youguan.gq/douyu.php?id=8014467
-小时候的经典~,http://youguan.gq/douyu.php?id=7280583
-来呀官人，都是你的梦,http://youguan.gq/douyu.php?id=9986305
-【宇哥】极限惊悚，无限反转,http://youguan.gq/douyu.php?id=8651489
-生物全部变异成为顶级食材，少年化身成恶魔,http://youguan.gq/douyu.php?id=9391292
-长片短解，精彩的电影都有,http://youguan.gq/douyu.php?id=9410946
-口音贼重的解说直播间,http://youguan.gq/douyu.php?id=9734098
-宇宙的尽头是什么？,http://youguan.gq/douyu.php?id=9456028
-刘哔讲电影，东北话解说嘎嘎强,http://youguan.gq/douyu.php?id=2632223
-【小片片】国产经典剧集专属直播间,http://youguan.gq/douyu.php?id=10011547
-机智帅气的一炫君的直播间,http://youguan.gq/douyu.php?id=3705472
-中二日记搞笑日常更新,http://youguan.gq/douyu.php?id=9505575
-最新奇幻电影解说-宇宙无敌韩三金,http://youguan.gq/douyu.php?id=3194372
-【牛叔2台】欢迎来到牛叔的悬疑世界,http://youguan.gq/douyu.php?id=10010651
-【刘德华】24小时看不停,http://youguan.gq/douyu.php?id=8985415
-【朱棣】笑天下可笑之人,http://youguan.gq/douyu.php?id=308752
-【重案】万籁俱寂 鸦雀无声,http://youguan.gq/douyu.php?id=9290734
-❤小鸭子来啦❤,http://youguan.gq/douyu.php?id=7925840
-【樊胜美】天下无不散宴席除了你自己,http://youguan.gq/douyu.php?id=3756989
-【屠龙】凛冬将至，夜王之争,http://youguan.gq/douyu.php?id=8945323
-【悬疑】古今中外犯罪录,http://youguan.gq/douyu.php?id=9171887
-杀死燕双鹰，活捉狄仁杰！,http://youguan.gq/douyu.php?id=3439096
-【吐槽】烂片的克星，老邪入驻啦,http://youguan.gq/douyu.php?id=9222870
-❤️小U❤️丧尸 鬼片 恐怖 惊悚 电影,http://youguan.gq/douyu.php?id=96577
-【西游】由爱故生怨，怨恨交缠，那又何苦,http://youguan.gq/douyu.php?id=9518204
-【恐怖】经典 恐怖 鬼怪 剧场,http://youguan.gq/douyu.php?id=1165374
-❤️精彩片段❤️胡一菲❤️～,http://youguan.gq/douyu.php?id=6863367
-✨曾小贤✨胡一菲✨第三季✨第一季✨,http://youguan.gq/douyu.php?id=2838296
-童年经典动漫讲解,http://youguan.gq/douyu.php?id=9734515
-【大秦】秦人不暇自哀，而后人哀之,http://youguan.gq/douyu.php?id=1584198
-【宋江】梁园虽好不是久恋之家,http://youguan.gq/douyu.php?id=3758762
-【美食】舌尖上的火锅，美食不可辜负,http://youguan.gq/douyu.php?id=9650849
-【刘老师】每天爆笑解说不断,http://youguan.gq/douyu.php?id=8317926
-【使徒】做兄弟在心中,http://youguan.gq/douyu.php?id=7810803
-篮球集锦速递,http://youguan.gq/douyu.php?id=9399887
-【步惊云】金鳞岂是池中物，一遇风云便化龙,http://youguan.gq/douyu.php?id=9290755
-喜欢不要忘记关注哦,http://youguan.gq/douyu.php?id=9038894
-sSs女团，帮上金星，通宵妹妹钢枪捶人,http://youguan.gq/douyu.php?id=4346416
-【变种人】除掉任何阻碍我们的人,http://youguan.gq/douyu.php?id=9651304
-粤语电影⭐周星驰 林正英 经典喜剧 白话,http://youguan.gq/douyu.php?id=6566671
-【隋唐】与君共饮盏中酒，几人哀伤几人愁,http://youguan.gq/douyu.php?id=7552568
-【电影/音乐】✨珍惜一切就算没有拥有✨,http://youguan.gq/douyu.php?id=6079455
-钱债易还情债难偿!,http://youguan.gq/douyu.php?id=8595134
-✨曾小贤✨胡一菲✨第一季✨第三季✨,http://youguan.gq/douyu.php?id=5062195
-【吕不韦】智可以微谋仁可以托财,http://youguan.gq/douyu.php?id=8366759
-恐怖游戏全看【主播视频轮播】,http://youguan.gq/douyu.php?id=10401481
-【凌儿️】港剧️ 破案️ 怀旧,http://youguan.gq/douyu.php?id=1377142
-【吐槽】疯狂吐槽辣眼雷剧,http://youguan.gq/douyu.php?id=9026377
-来看一只熊解说电影,http://youguan.gq/douyu.php?id=9386057
-说笑武林的直播间,http://youguan.gq/douyu.php?id=10329706
-港片 破案~,http://youguan.gq/douyu.php?id=6733135
-很高兴认识你 7305938,http://youguan.gq/douyu.php?id=7305938
-斗鱼音乐MV频道,http://youguan.gq/douyu.php?id=3870925
-【二炮】养条狗，不防鬼子防贼九,http://youguan.gq/douyu.php?id=9522194
-【冤案】夫斯乃上蔡布衣，闾巷之黔首,http://youguan.gq/douyu.php?id=6706214
-【刑侦】饿不饿，要不要下一碗面吃呀,http://youguan.gq/douyu.php?id=138959
-【瑶瑶】童年阴影 鬼片 恐怖 惊悚,http://youguan.gq/douyu.php?id=2935323
-最早港剧点播,http://youguan.gq/douyu.php?id=59612
-❤️小饼❤️一个神秘的直播间,http://youguan.gq/douyu.php?id=1735337
-【吐槽】吐槽一下，快乐一天,http://youguan.gq/douyu.php?id=9236042
-【鉴证】刑侦破案，线索追凶,http://youguan.gq/douyu.php?id=8323493
-【大蓝雀】最新神剧爆笑解说,http://youguan.gq/douyu.php?id=8656759
-下次直播再见，搞笑解说就看文西与阿漆,http://youguan.gq/douyu.php?id=8737695
-贰哥带你看电影,http://youguan.gq/douyu.php?id=9338867
-【看电影了没】深度讲解电影,http://youguan.gq/douyu.php?id=9562616
-好像视说故事电影推荐,http://youguan.gq/douyu.php?id=8891883
-【漫漫60帧】科幻 动作 喜剧 电影,http://youguan.gq/douyu.php?id=5403257
-荒野求生纪录片小天地,http://youguan.gq/douyu.php?id=9661369
-【RM-点播】点播！模式-24H欢乐不断,http://youguan.gq/douyu.php?id=131977
-懒猫 美食家 点播,http://youguan.gq/douyu.php?id=260322
-【蓝光女团】Kpop女团点播直播间,http://youguan.gq/douyu.php?id=329667
-【邦德】再帮我一个忙，让我消失,http://youguan.gq/douyu.php?id=9292499
-【邵氏影院】经典武侠 动作 老电影你懂的,http://youguan.gq/douyu.php?id=4246519
-济公/聊斋的故事,http://youguan.gq/douyu.php?id=10475459
-平凡的世界，平凡的人,http://youguan.gq/douyu.php?id=10240495
-【笑场】喜剧电影专场,http://youguan.gq/douyu.php?id=9292492
-网红赤焰男孩来了！都是热知识,http://youguan.gq/douyu.php?id=9835644
-疗伤点歌台：从来没有医不好的伤~,http://youguan.gq/douyu.php?id=3186217
-【香港赌片】喜剧、黑帮、动作、武侠、经典,http://youguan.gq/douyu.php?id=315457
-【天子】愁在秋日里落花逐水流,http://youguan.gq/douyu.php?id=7133423
-【s1134】经典 科幻 动作 灾难,http://youguan.gq/douyu.php?id=248753
-元芳到底看不看,http://youguan.gq/douyu.php?id=6027991
-【RM-轮播】轮播！模式-24H欢乐不断,http://youguan.gq/douyu.php?id=7298973
-【恐怖电影】鬼片 僵尸 灾难 丧尸片,http://youguan.gq/douyu.php?id=310926
-没错，就是你们知道的那个足球西看台,http://youguan.gq/douyu.php?id=8449367
-【贝爷影厅】欧美 日韩 国产 2号厅,http://youguan.gq/douyu.php?id=36337
-【老白和小粉】化学攻击最为致命,http://youguan.gq/douyu.php?id=755832
-俗哥看电影的直播间,http://youguan.gq/douyu.php?id=2161818
-♥️周杰伦♥️MV音乐演唱会高清电影视频,http://youguan.gq/douyu.php?id=7537296
-猪酱：经典电影播放中~,http://youguan.gq/douyu.php?id=7029806
-✨动漫✨热血 木叶忍者 草帽路飞 青春,http://youguan.gq/douyu.php?id=206858
-贾队长~原版独播、,http://youguan.gq/douyu.php?id=6778282
-鼎香楼的故事,http://youguan.gq/douyu.php?id=299854
-国强四阿哥九子夺嫡,http://youguan.gq/douyu.php?id=4944033
-周末狂欢剧场,http://youguan.gq/douyu.php?id=7476264
-【超清1】经典港剧天地,http://youguan.gq/douyu.php?id=4290711
-【米娅陪看】60帧喜剧科幻电影真人互动,http://youguan.gq/douyu.php?id=6537888
-四大经典/水浒系列,http://youguan.gq/douyu.php?id=9487003
-【神探】童年阴影包拯,http://youguan.gq/douyu.php?id=7784862
-【动漫】超燃 怀旧 经典,http://youguan.gq/douyu.php?id=1174353
-电影解说人,http://youguan.gq/douyu.php?id=9431125
-漫威迷集合,http://youguan.gq/douyu.php?id=1713615
-〖師落〗大秦男儿 勿忘东出,http://youguan.gq/douyu.php?id=6582435
-正常开播，欢迎欢迎,http://youguan.gq/douyu.php?id=319576
-【搞笑】下饭神剧 童年回忆,http://youguan.gq/douyu.php?id=5422706
-金庸武侠、古装神剧,http://youguan.gq/douyu.php?id=338759
-楠者电影，最会讲电影的人,http://youguan.gq/douyu.php?id=9485398
-❤小饼❤蓝光 胡八一 经典电视剧,http://youguan.gq/douyu.php?id=7701735
-【表妹】国产青春 动作 喜剧轮播,http://youguan.gq/douyu.php?id=5423
-搜集世界上悉奇的案件和恐怖故事,http://youguan.gq/douyu.php?id=9401473
-筑梦影视精讲的直播间,http://youguan.gq/douyu.php?id=10036128
-4K魔幻手游。顶尖画质,http://youguan.gq/douyu.php?id=9978431
-❤️奶瓶❤️金庸武侠剧,http://youguan.gq/douyu.php?id=7644931
-各种美剧、连续剧全集解说,http://youguan.gq/douyu.php?id=1979257
-3D魔幻大作，,http://youguan.gq/douyu.php?id=9858832
-快进贱丶许一三多,http://youguan.gq/douyu.php?id=7517784
-燃爆全网的动作大片都在这里！！！！！！！,http://youguan.gq/douyu.php?id=9614847
-【粤语电影】吴孟达 达叔 周星驰 经典,http://youguan.gq/douyu.php?id=1226741
-【蓝翔】经典电视剧,http://youguan.gq/douyu.php?id=7459925
-漫威与DC，精彩有声漫画,http://youguan.gq/douyu.php?id=1952680
-超清港剧直播间,http://youguan.gq/douyu.php?id=223521
-遇见国战，诠释魅力,http://youguan.gq/douyu.php?id=9809296
-开心情景剧-超清去片头片尾,http://youguan.gq/douyu.php?id=6648727
-✨✨✨收到！可怕の黑色城堡✨✨✨,http://youguan.gq/douyu.php?id=7528160
-范闲、王启年、陈萍萍~,http://youguan.gq/douyu.php?id=5908256
-【柯南】外表看似小孩，智慧却过于常人,http://youguan.gq/douyu.php?id=6484910
-❤️奶瓶❤️新三国,http://youguan.gq/douyu.php?id=6546908
-【超清3】人气港剧天地,http://youguan.gq/douyu.php?id=5261342
-【4K】贵族直播间,http://youguan.gq/douyu.php?id=10416271
-古惑仔漫画 高燃解说中...,http://youguan.gq/douyu.php?id=10669227
-带你体验宇宙时空之旅,http://youguan.gq/douyu.php?id=9439712
-〖小瑟瑟西游房〗86版+续集,http://youguan.gq/douyu.php?id=5472438
-♥卡面来打♥,http://youguan.gq/douyu.php?id=1218414
-【奥雷】带你看遍奇葩老电影,http://youguan.gq/douyu.php?id=1224356
-【经典】江湖故人,http://youguan.gq/douyu.php?id=7314294
-经典美剧解说，悬疑科幻惊悚,http://youguan.gq/douyu.php?id=9123570
-原创惊悚恐怖动画,http://youguan.gq/douyu.php?id=9312460
-【贝爷影厅】华语 星爷 沈腾 成龙 喜剧,http://youguan.gq/douyu.php?id=925724
-菠萝说电影,http://youguan.gq/douyu.php?id=3714736
-【谁语Whospeak】精彩电影解说,http://youguan.gq/douyu.php?id=8705754
-带你看没时间看的经典电影,http://youguan.gq/douyu.php?id=9375743
-傲娇的超级赛亚人的直播间,http://youguan.gq/douyu.php?id=4373285
-清汤寡水之情景喜剧,http://youguan.gq/douyu.php?id=3980787
-清晨醒脑！T-ARA根本停不下来！,http://youguan.gq/douyu.php?id=17732
-看遍世界各地的纪录片,http://youguan.gq/douyu.php?id=8834003
-【麓山迷踪】邪  虐  异  染  绝,http://youguan.gq/douyu.php?id=4505431
-我只担心一件事，我怕我配不上所受的苦难,http://youguan.gq/douyu.php?id=8344251
-【一目十影】温情解说经典电影,http://youguan.gq/douyu.php?id=3643605
-【独立鱼】鱼叔荐好片 爱看你就来,http://youguan.gq/douyu.php?id=2413555
-【经典悬疑烧脑剧解说】你值得拥有,http://youguan.gq/douyu.php?id=8790357
-果子哥哥邓先森配音的直播间,http://youguan.gq/douyu.php?id=9372950
-最会“夸人”的三代鹿人来斗鱼啦,http://youguan.gq/douyu.php?id=9629717
-【经典巨制】欧美大片,http://youguan.gq/douyu.php?id=2793084
-天津吃腰子跳伦巴的王,http://youguan.gq/douyu.php?id=6899895
-二次元放映室，喜欢二次元，关注我就对了!,http://youguan.gq/douyu.php?id=9624330
-恐怖悬疑小故事精彩解说,http://youguan.gq/douyu.php?id=6361974
-听wo姐说,http://youguan.gq/douyu.php?id=8830082
-【神剧】【燕双鹰】【狄仁杰】,http://youguan.gq/douyu.php?id=5875025
-【果条】偶尔陪看,http://youguan.gq/douyu.php?id=6785471
-【刘华强】你这呱保熟吗,http://youguan.gq/douyu.php?id=2726977
-【鸡哥】一部电影就是一个人生,http://youguan.gq/douyu.php?id=5067952
-【经典动漫】 9455567,http://youguan.gq/douyu.php?id=9455567
-【天使点播】动漫直播间,http://youguan.gq/douyu.php?id=1487654
-小姐姐Bie跑哦的直播间,http://youguan.gq/douyu.php?id=8666258
-新鲜影剧解说，好看的电影、电视剧都在我这,http://youguan.gq/douyu.php?id=421222
-罐装老K的直播间,http://youguan.gq/douyu.php?id=9566210
-跟着小猪一起看【热剧联播】,http://youguan.gq/douyu.php?id=10297898
-指缝君看大片,http://youguan.gq/douyu.php?id=9647834
-老司机扯电影的直播间,http://youguan.gq/douyu.php?id=9447717
-【快看张不止】带你看各国悬疑电影,http://youguan.gq/douyu.php?id=8413226
-【恐怖电影】 林正英 僵尸 鬼片 经典,http://youguan.gq/douyu.php?id=9275635
-郭云神奇的神奇解说，百万UP主的威力！,http://youguan.gq/douyu.php?id=8694831
-超美竹公子来说书,http://youguan.gq/douyu.php?id=8887432
-【恐怖电影】小岛理解下的恐怖电影,http://youguan.gq/douyu.php?id=9390955
-猪弟侃电影,http://youguan.gq/douyu.php?id=8862501
-挖沟连彭沟长的直播间,http://youguan.gq/douyu.php?id=8413092
-祝晓晗的直播间,http://youguan.gq/douyu.php?id=9575293
-【阿木】解读高分经典电影,http://youguan.gq/douyu.php?id=532050
-【娜娜酱】带你一起看动漫,http://youguan.gq/douyu.php?id=9445557
-鲨说电影的直播间,http://youguan.gq/douyu.php?id=9544628
-小儛陪你聊电影,http://youguan.gq/douyu.php?id=8362978
-电影冷知识的直播间,http://youguan.gq/douyu.php?id=9660835
-珞珞说电影,http://youguan.gq/douyu.php?id=3718888
-带您进入搞笑院长的电影世界,http://youguan.gq/douyu.php?id=8829915
-四叶草影视的直播间,http://youguan.gq/douyu.php?id=9446117
-第七艺术坊的直播间,http://youguan.gq/douyu.php?id=9737022
-动漫女神儿  每日更新,http://youguan.gq/douyu.php?id=9439594
-玫瑰叔品评,http://youguan.gq/douyu.php?id=8805720
-那些年一起追的宝可梦,http://youguan.gq/douyu.php?id=9050486
-女汉子还是女神，看看她讲的电影就知道了,http://youguan.gq/douyu.php?id=9395966
-晓麦带你看电影 453963,http://youguan.gq/douyu.php?id=453963
-【崽崽】创意电影脑洞大开,http://youguan.gq/douyu.php?id=8325511
-朔涵君影视解说直播间,http://youguan.gq/douyu.php?id=9354201
-【速看】码哥出品，必是精品！,http://youguan.gq/douyu.php?id=8821892
-托腮少女猪五花,http://youguan.gq/douyu.php?id=3508096
-爱电影更爱你！,http://youguan.gq/douyu.php?id=549693
-学姐圆的直播间,http://youguan.gq/douyu.php?id=9639735
-进来涨知识，科普小短片,http://youguan.gq/douyu.php?id=1732550
-Rabbit每日爆料的直播间,http://youguan.gq/douyu.php?id=9685652
-怠惰守夜女频漫画,http://youguan.gq/douyu.php?id=8842108
-张开嘴吃我安利啦,http://youguan.gq/douyu.php?id=9184833
-补番目录V的直播间,http://youguan.gq/douyu.php?id=9668692
-【六小龄童】你挑着担，我牵着马,http://youguan.gq/douyu.php?id=8953746
-【高帧】成龙/李连杰/动作/武侠…,http://youguan.gq/douyu.php?id=6763930
-【凤凰堂】德善你们抢，宝拉是我的,http://youguan.gq/douyu.php?id=7292330
-【女团】精选韩国现场饭拍MV,http://youguan.gq/douyu.php?id=231464
-这是一间聊天室吧？？？,http://youguan.gq/douyu.php?id=9110905
-【超级赛亚人】悟吉塔,http://youguan.gq/douyu.php?id=7190773
-【超清2】热门港剧天地,http://youguan.gq/douyu.php?id=5522351
-大乱斗霍霍人,http://youguan.gq/douyu.php?id=2714
-【神剧】经典神剧~~,http://youguan.gq/douyu.php?id=3700024
-想看新电影？最新影视资讯每周更新！,http://youguan.gq/douyu.php?id=1557505
-【粤语频道】电影点播,http://youguan.gq/douyu.php?id=2466104
-【速看】深度解读各种冷门佳作！,http://youguan.gq/douyu.php?id=8850682
-柯南探案解说中,http://youguan.gq/douyu.php?id=9065302
-佛系--爆笑--剧集轮播-（史上最爆笑）,http://youguan.gq/douyu.php?id=5689514
-【HiFi4.0】女团 车模 写真,http://youguan.gq/douyu.php?id=427397
-【回首往事】仨房间画面同步显示,http://youguan.gq/douyu.php?id=1569773
-草帽丶海贼团的直播间,http://youguan.gq/douyu.php?id=997925
-【闯关D】今日鲜儿要上山，敬请神灵多包涵,http://youguan.gq/douyu.php?id=8787737
-范闲4K超清、下饭神剧,http://youguan.gq/douyu.php?id=9633542
-【胥渡吧】经典搞笑 神配音~,http://youguan.gq/douyu.php?id=2040822
-【经典搞笑电视剧】轮播♥高清,http://youguan.gq/douyu.php?id=5429211
-【经典武侠】时代的记忆！,http://youguan.gq/douyu.php?id=9649701
-你的坚持，终将美好！,http://youguan.gq/douyu.php?id=251125
-【Firend黎伽嘛】粤语港产片爱好者,http://youguan.gq/douyu.php?id=8603174
-超魔性换脸直播间，别错过~,http://youguan.gq/douyu.php?id=9323164
-经典超清情景剧,http://youguan.gq/douyu.php?id=9639508
-一个只讲恐怖电影的电影解说,http://youguan.gq/douyu.php?id=8415464
-老刘带你看大片,http://youguan.gq/douyu.php?id=3985805
-进游拿15个648所见即所得！在线冲榜！,http://youguan.gq/douyu.php?id=10544800
-【悬疑烧脑】欢迎来到侦探宇宙,http://youguan.gq/douyu.php?id=8788687
-【松轩】速看大片，体味人生,http://youguan.gq/douyu.php?id=1524969
-最好看的搞笑篮球动漫,http://youguan.gq/douyu.php?id=9401305
-【综艺】搞笑影视综艺解说时间到了！,http://youguan.gq/douyu.php?id=8657920
-林正英混剪 各类电影剪辑混剪盘点系列,http://youguan.gq/douyu.php?id=9607934
-娱乐扒叔的直播间,http://youguan.gq/douyu.php?id=9624581
-【小侠】带你看电影,http://youguan.gq/douyu.php?id=9734042
-【史君观影】国产刑侦电视剧太精彩了,http://youguan.gq/douyu.php?id=9644669
-用细致的角度观察电影,http://youguan.gq/douyu.php?id=3715426
-【一拳超人】高燃解说！！！,http://youguan.gq/douyu.php?id=9568700
-那些6到让我们窒息的操作！,http://youguan.gq/douyu.php?id=8881729
-【鬼兄奇谈】午夜故事，提神醒脑，清清凉凉,http://youguan.gq/douyu.php?id=8722254
-【速看】超精彩的电影解说，等你来看！,http://youguan.gq/douyu.php?id=8808506
-混剪大师混剪一切,http://youguan.gq/douyu.php?id=2894528
-波哥电影的直播间,http://youguan.gq/douyu.php?id=9442430
-脑洞大到飞起，猜到结局算我输！！,http://youguan.gq/douyu.php?id=8706084
-海龟汤 情景推理,http://youguan.gq/douyu.php?id=9475113
-【柚子树】悬疑电影大观园,http://youguan.gq/douyu.php?id=9606419
-实力主唱宝贝LIZ,http://youguan.gq/douyu.php?id=40471
-♥ 港剧 动漫 美剧❤️,http://youguan.gq/douyu.php?id=6581531
-【动漫】记录你的王者峡谷生活~,http://youguan.gq/douyu.php?id=9360149
-影视绝美混剪轮播,http://youguan.gq/douyu.php?id=9662856
-秀才侃娱乐,http://youguan.gq/douyu.php?id=9382873
-每日深度解说经典电影。每天惊喜不断,http://youguan.gq/douyu.php?id=8758482
-搞笑有趣的女生日常,http://youguan.gq/douyu.php?id=8911070
-是天才还是穿越,http://youguan.gq/douyu.php?id=8662915
-小姐姐小乔讲电影,http://youguan.gq/douyu.php?id=8413908
-鹏友说电影、一起看电影,http://youguan.gq/douyu.php?id=9445244
-大壮撞电影,http://youguan.gq/douyu.php?id=9437349
-【舞蹈赏析】嗨翻一整天,http://youguan.gq/douyu.php?id=7308244
-超精彩的高能影视剪辑,http://youguan.gq/douyu.php?id=9487090
-9186596的直播间,http://youguan.gq/douyu.php?id=9186596
-欢乐吐槽，一起来看大白话瞎突突,http://youguan.gq/douyu.php?id=9412287
-动漫二次元#补番推荐#,http://youguan.gq/douyu.php?id=9429545
-迷剧阿菁的直播间,http://youguan.gq/douyu.php?id=9486024
-二次元fans鹿鹿~鹿鹿陪你看动漫！,http://youguan.gq/douyu.php?id=8661526
-冷冷冷！没有比这里更冷门的电影解说了,http://youguan.gq/douyu.php?id=9666219
-看电影，懂生活,http://youguan.gq/douyu.php?id=9573592
-将军侃片的直播间,http://youguan.gq/douyu.php?id=8529736
-老人家-小熊猫君,http://youguan.gq/douyu.php?id=753342
-芳芳说故事每日更新,http://youguan.gq/douyu.php?id=9401905
-二次元放映室，有呐味儿了!,http://youguan.gq/douyu.php?id=8912038
-背包聊电影,http://youguan.gq/douyu.php?id=2265391
-【罗杰】高分悬疑推理电影盘点解读,http://youguan.gq/douyu.php?id=8821917
-人类早期驯服野生生物的珍贵影像,http://youguan.gq/douyu.php?id=8892864
-精彩电影，看就完事了,http://youguan.gq/douyu.php?id=9486015
-沙雕日常笑不停,http://youguan.gq/douyu.php?id=9516137
-晓晓说电影的直播间,http://youguan.gq/douyu.php?id=9430717
-chshh的沙雕视频,http://youguan.gq/douyu.php?id=9570579
-【我是阿树酱】不一样的影视解说,http://youguan.gq/douyu.php?id=9486020
-这里有你想要的 8871095,http://youguan.gq/douyu.php?id=8871095
-屁屁鸭和他的朋友们,http://youguan.gq/douyu.php?id=9461930
-罗休休的爆笑校园,http://youguan.gq/douyu.php?id=9403178
-带您进入享看电影的世界,http://youguan.gq/douyu.php?id=8974130
-【小超讲电影】几分钟看完一部精彩电影,http://youguan.gq/douyu.php?id=3432645
-翦瞳秋的直播间,http://youguan.gq/douyu.php?id=9623057
-小丽说电影每日更新,http://youguan.gq/douyu.php?id=9368016
-人形自走变声器日配声优,http://youguan.gq/douyu.php?id=8896100
-猫眼电影影视的直播间,http://youguan.gq/douyu.php?id=8726221
-阿魁方言配音的直播间,http://youguan.gq/douyu.php?id=9442903
-万年如一柯播南，各位给点电费吧,http://youguan.gq/douyu.php?id=1783144
-卡牌大师！花式切牌，有点东西,http://youguan.gq/douyu.php?id=9388557
-老sao的沙雕动漫解说,http://youguan.gq/douyu.php?id=8833450
-不存在的直播间V,http://youguan.gq/douyu.php?id=9729740
-无际电影的直播间,http://youguan.gq/douyu.php?id=9720498
-大星与海绵方块,http://youguan.gq/douyu.php?id=3949681
-⭐修复版⭐国配经典⭐,http://youguan.gq/douyu.php?id=10084875
-【电视剧】本直播间由天使点播提供技术支持,http://youguan.gq/douyu.php?id=7623292
-美味！蟹黄堡,http://youguan.gq/douyu.php?id=8762358
-【米尼影院】经典电视剧,http://youguan.gq/douyu.php?id=7642724
-【网神影厅】经典 科幻 动作 灾难 二战,http://youguan.gq/douyu.php?id=508118
-【僵尸】化为自己的力量然后就无坚不摧,http://youguan.gq/douyu.php?id=3627728
-✨妖精的直播间✨,http://youguan.gq/douyu.php?id=5960746
-【第七穿插连】许三呆,http://youguan.gq/douyu.php?id=6949033
-【胡椒粉的胡歌】 胡歌 经典 漫威 星爷,http://youguan.gq/douyu.php?id=5448413
-是如一啊的直播间,http://youguan.gq/douyu.php?id=10420309
-蓝光画质电视剧,http://youguan.gq/douyu.php?id=3831627
-【典】【悚】【怀】万部,http://youguan.gq/douyu.php?id=7882691
-译制国语影片荟萃,http://youguan.gq/douyu.php?id=2436390
-迷茫看【许三多】励志⭐特种兵 原版蓝光,http://youguan.gq/douyu.php?id=10348728
-【美食】舌尖上的早餐，天天不一样,http://youguan.gq/douyu.php?id=5451871
-《武侠剧》,http://youguan.gq/douyu.php?id=7655471
-电影最TOP,http://youguan.gq/douyu.php?id=2164691
-【经典影视韩国车模小刚歌】,http://youguan.gq/douyu.php?id=1360303
-❤️奶瓶❤️经典港剧,http://youguan.gq/douyu.php?id=6241733
-四大名著（原版）,http://youguan.gq/douyu.php?id=1046540
-有温度的篮球厂牌,http://youguan.gq/douyu.php?id=9367541
-【严守一】太传统不好，太饭桶更不好,http://youguan.gq/douyu.php?id=8507023
-【Hunter】动漫 热血 老贼 冒险,http://youguan.gq/douyu.php?id=6610883
-星矢-燃烧吧我的小宇宙,http://youguan.gq/douyu.php?id=8458270
-《探奇录-案件篇》,http://youguan.gq/douyu.php?id=9746763
-懒懒壁虎的直播间,http://youguan.gq/douyu.php?id=5127679
-【童年往事】仨房间画面同步显示点播,http://youguan.gq/douyu.php?id=7256376
-粵語影視動漫,http://youguan.gq/douyu.php?id=8524186
-❤️奶瓶❤️欧美电影,http://youguan.gq/douyu.php?id=6655271
-神探：带你走进案件,http://youguan.gq/douyu.php?id=3310454
-【沙雕】五毛特效，大战恶龙,http://youguan.gq/douyu.php?id=7421687
-【童年回忆】仨房间画面同步显示,http://youguan.gq/douyu.php?id=6712083
-真实、惊悚事件录,http://youguan.gq/douyu.php?id=9754849
-小小鹿的恐怖故事馆（故事内容仅为小说）,http://youguan.gq/douyu.php?id=9442889
-全网最清晰林正英僵尸道长,http://youguan.gq/douyu.php?id=7356023
-【宇哥】总有你没看过的经典,http://youguan.gq/douyu.php?id=413573
-欢声笑语过虎年  经典电视剧 港剧,http://youguan.gq/douyu.php?id=9548850
-【瑶瑶】恐怖 悬疑 午夜,http://youguan.gq/douyu.php?id=2083382
-日本最新资讯速递,http://youguan.gq/douyu.php?id=296836
-【科幻】九叔带你看大片！,http://youguan.gq/douyu.php?id=9348282
-苏家动漫重捶,http://youguan.gq/douyu.php?id=9569905
-曾经的小小少年 6896398,http://youguan.gq/douyu.php?id=6896398
-【39影咖】青春才几年，珍惜眼前人,http://youguan.gq/douyu.php?id=1274132
-粤语部【节目调动啦】,http://youguan.gq/douyu.php?id=9701481
-【电影黑匣子】用心去解读每一部电影,http://youguan.gq/douyu.php?id=8706652
-讲故事的角马 一起看电影,http://youguan.gq/douyu.php?id=4400816
-涛哥玩吃鸡,http://youguan.gq/douyu.php?id=613850
-【午夜消暑】伊藤润二恐怖漫画血亏解说专场,http://youguan.gq/douyu.php?id=8936207
-【蓝星人】颠覆你想象的神秘未解谜团,http://youguan.gq/douyu.php?id=9431727
-解说-厨神当道 地狱厨房 天桥骄子,http://youguan.gq/douyu.php?id=9753585
-9369937的直播间,http://youguan.gq/douyu.php?id=9369937
-【神烦xp】十分钟传递影视情感,http://youguan.gq/douyu.php?id=8286679
-【星星影院】漫威 科幻 动作 欧美 灾难,http://youguan.gq/douyu.php?id=315131
-带您进入腹黑电影的电影世界,http://youguan.gq/douyu.php?id=8867878
-爆笑动画吐槽2333333,http://youguan.gq/douyu.php?id=9039217
-【电影漩涡】好电影让你感同身受,http://youguan.gq/douyu.php?id=8706350
-【奥特】经典童年记忆，没有之一,http://youguan.gq/douyu.php?id=8841881
-未曾相逢先一笑，初会便已许平生,http://youguan.gq/douyu.php?id=3221207
-专业女团【超万部女团】任你点,http://youguan.gq/douyu.php?id=340224
-小马哥说电影的直播间,http://youguan.gq/douyu.php?id=9396672
-fans圈娱乐的直播间,http://youguan.gq/douyu.php?id=9630581
-唯美混剪视频,http://youguan.gq/douyu.php?id=9505190
-【恐怖片】专注恐怖片赏析与原创解说！！！,http://youguan.gq/douyu.php?id=9280384
-和火影有关的一切,http://youguan.gq/douyu.php?id=9398828
-最好看的影视片段,http://youguan.gq/douyu.php?id=7212528
-避风港电影院,http://youguan.gq/douyu.php?id=9826611
-渚岸汐潮233的直播间,http://youguan.gq/douyu.php?id=9518082
-吃鸡小表弟魔性吃鸡,http://youguan.gq/douyu.php?id=9370197
-【苏八拉西】快乐搞笑吐槽电影,http://youguan.gq/douyu.php?id=97643
-日本惊悚恐怖漫画大师伊藤润二,http://youguan.gq/douyu.php?id=8849703
-【娱乐】歪果仁的奇葩生活,http://youguan.gq/douyu.php?id=8850453
-动漫搞笑配音,http://youguan.gq/douyu.php?id=9650181
-【高燃混剪】进来感受海贼王魅力,http://youguan.gq/douyu.php?id=9609171
-Ido漫说的直播间,http://youguan.gq/douyu.php?id=9456379
-看动画听听歌,http://youguan.gq/douyu.php?id=9506782
-【DS女老诗】萌系萝莉 辛辣吐槽,http://youguan.gq/douyu.php?id=563536
-鲁过一世的直播间,http://youguan.gq/douyu.php?id=9716515
-微笑影视解说的直播间,http://youguan.gq/douyu.php?id=9476790
-星海璃幻V的直播间,http://youguan.gq/douyu.php?id=9567313
-驴哥解说最奇葩的电影,http://youguan.gq/douyu.php?id=5376478
-小美丽带你5分钟看一部精彩电影！,http://youguan.gq/douyu.php?id=6725858
-“酒痴东梦带你看全球政治经济变化”,http://youguan.gq/douyu.php?id=9477805
-轩邈Elias的直播间,http://youguan.gq/douyu.php?id=9412454
-小姐姐详细解说动漫,http://youguan.gq/douyu.php?id=9674566
-预言家Alice的直播间,http://youguan.gq/douyu.php?id=9483772
-吐槽各种东西！都吐槽！,http://youguan.gq/douyu.php?id=9540113
-没有比我更懂二次元,http://youguan.gq/douyu.php?id=8849954
-黑T毒物的直播间,http://youguan.gq/douyu.php?id=3579219
-【珍藏修复版】四大名著,http://youguan.gq/douyu.php?id=3533017
-【薯条影厅】经典 科幻 热血 动作,http://youguan.gq/douyu.php?id=10599965
-经典港剧、古装剧,http://youguan.gq/douyu.php?id=4147520
-小小天才的搞笑段子,http://youguan.gq/douyu.php?id=9419678
-愿所有善良都被温柔以待！感谢大家的喜爱！,http://youguan.gq/douyu.php?id=7495810
-片源多多，欢迎点播,http://youguan.gq/douyu.php?id=6332732
-胡八一雪莉杨,http://youguan.gq/douyu.php?id=10510852
-歌单在鱼吧,http://youguan.gq/douyu.php?id=603070
-大桃儿剧场,http://youguan.gq/douyu.php?id=9846395
-【经典剧集】【高清轮播】,http://youguan.gq/douyu.php?id=7582564
-【4K HDR】Dolby Atmos,http://youguan.gq/douyu.php?id=9249162
-包铁山一夜端掉鬼子七个炮楼,http://youguan.gq/douyu.php?id=10572268
-好久不见哦 8252036,http://youguan.gq/douyu.php?id=8252036
-【粤语港剧】看的不是剧【是回忆】求关注,http://youguan.gq/douyu.php?id=7919720
-【陆小鸡】随机轮播,http://youguan.gq/douyu.php?id=6919701
-【漫威丶嗷大喵】漫威电影 超清 轮播,http://youguan.gq/douyu.php?id=4282654
-【犯罪】【真实案件】【刑侦】,http://youguan.gq/douyu.php?id=10019937
-每个人心中都有一个武侠梦,http://youguan.gq/douyu.php?id=5635000
-【周星星】星爷经典不间断,http://youguan.gq/douyu.php?id=3990812
-相恋影视城,http://youguan.gq/douyu.php?id=6511325
-成龙、洪金宝，好电影不怕多看几遍,http://youguan.gq/douyu.php?id=4833289
-【追忆】国语超清动画电影,http://youguan.gq/douyu.php?id=6449849
-最爱贾萌萌,http://youguan.gq/douyu.php?id=7253343
-经典影视剧 4744905,http://youguan.gq/douyu.php?id=4744905
-✨电影点播✨✨荧幕经典✨,http://youguan.gq/douyu.php?id=9652323
-艾箐宫羽彡,http://youguan.gq/douyu.php?id=5658951
-谷阿莫又来斗鱼啦！兄弟萌关注一波,http://youguan.gq/douyu.php?id=515005
-☆卡卡罗特☆,http://youguan.gq/douyu.php?id=7286439
-经典剧场  海景房,http://youguan.gq/douyu.php?id=8543072
-❤小九❤春日暖洋洋,http://youguan.gq/douyu.php?id=7136517
-只播经典好看的电影每天加一部 鱼吧点播,http://youguan.gq/douyu.php?id=5008089
-【怀旧】姜子牙，孙悟空打妖怪的故事,http://youguan.gq/douyu.php?id=6861249
-经典影视直播间 3113309,http://youguan.gq/douyu.php?id=3113309
-喜羊羊9948644,http://youguan.gq/douyu.php?id=9948644
-某主播坚持播一年、亏损一年电费,http://youguan.gq/douyu.php?id=10287808
-带您进入岚FL的动漫小屋,http://youguan.gq/douyu.php?id=9409703
-顺风为主 其他情喜影剧集锦为辅 随机连播,http://youguan.gq/douyu.php?id=6369954
-四大名著 （中国古典文学）,http://youguan.gq/douyu.php?id=1308848
-快乐男孩解说经典,http://youguan.gq/douyu.php?id=8795274
-【星星华语】 润发 德华 伊健 星驰,http://youguan.gq/douyu.php?id=10254810
-肖胜350的直播间,http://youguan.gq/douyu.php?id=7338853
-【十四周年】最强女团，没有之一,http://youguan.gq/douyu.php?id=211561
-【星星动画】童年 热血 搞笑 爱情,http://youguan.gq/douyu.php?id=4369939
-车模车展，全天播放,http://youguan.gq/douyu.php?id=9805480
-精彩影视持续更新,http://youguan.gq/douyu.php?id=9738876
-马天宇】 10639373,http://youguan.gq/douyu.php?id=10639373
-悬疑烧脑影视大合集！,http://youguan.gq/douyu.php?id=5354713
-香港恐怖喜剧&amp;影院大片,http://youguan.gq/douyu.php?id=10406651
-轻风乍起的直播间,http://youguan.gq/douyu.php?id=9445489
-最好看的盗墓题材,http://youguan.gq/douyu.php?id=5265983
-沉郁观影 带您看奇案,http://youguan.gq/douyu.php?id=9393577
-吐槽安利各种剧,http://youguan.gq/douyu.php?id=8611011
-带您走进博然的电影世界,http://youguan.gq/douyu.php?id=9561992
-【麻瓜学院】一起来感受魔法,http://youguan.gq/douyu.php?id=9272077
-❤️奶瓶❤️经典国产电影,http://youguan.gq/douyu.php?id=10515109
-洛克电影的直播间,http://youguan.gq/douyu.php?id=9414884
-邸生讲解的童年经典,http://youguan.gq/douyu.php?id=9665298
-曾经有一份真挚的爱情,http://youguan.gq/douyu.php?id=8368972
-奇妙故事的博物馆，看完不亏,http://youguan.gq/douyu.php?id=9409723
-我有我自由理閪你感受,http://youguan.gq/douyu.php?id=6379310
-恐怖电影，北大落说大片,http://youguan.gq/douyu.php?id=8828811
-77电影解说，每日更新,http://youguan.gq/douyu.php?id=9444320
-喜欢二次元动漫就点进来吧,http://youguan.gq/douyu.php?id=4285043
-全是恐怖片的解说直播间,http://youguan.gq/douyu.php?id=9736161
-漫威/DC宇宙讲解中,http://youguan.gq/douyu.php?id=9440728
-木JJv的直播间,http://youguan.gq/douyu.php?id=9575463
-带您进入皮皮动漫星球的动漫小屋,http://youguan.gq/douyu.php?id=8841920
-是否要去你的,http://youguan.gq/douyu.php?id=9533302
-【熊猫电影】超详细的电影解说,http://youguan.gq/douyu.php?id=3506483
-八月几分钟带你看经典电影,http://youguan.gq/douyu.php?id=8816671
-臧老师电影解说深度好看,http://youguan.gq/douyu.php?id=9576994
-【混剪】情感向,http://youguan.gq/douyu.php?id=9651506
-带您进入潜伏的动漫小屋,http://youguan.gq/douyu.php?id=9458345
-【短剧】最奇异的人生问题,http://youguan.gq/douyu.php?id=9409722
-三斤呦的直播间,http://youguan.gq/douyu.php?id=9047933
-陈易的奇闻趣事直播间,http://youguan.gq/douyu.php?id=9365118
-带您走进周墨的电影世界,http://youguan.gq/douyu.php?id=9505584
-变的沙雕起来了！！,http://youguan.gq/douyu.php?id=9541736
-小爱看大片的直播间,http://youguan.gq/douyu.php?id=9312805
-枫泽雨畔的直播间,http://youguan.gq/douyu.php?id=5279518
-爆笑P图和游戏日常,http://youguan.gq/douyu.php?id=2282604
-管理员要求,http://youguan.gq/douyu.php?id=9640698
-带您进入总之的电影世界,http://youguan.gq/douyu.php?id=8978669
-玩纸牌的yolo,http://youguan.gq/douyu.php?id=5077166
-【酉晨君】进来一起影视解说,http://youguan.gq/douyu.php?id=9484541
-带您进入YIKa777的动漫小屋,http://youguan.gq/douyu.php?id=8868213
-会火-娱乐先知 海量资讯内容等你来看,http://youguan.gq/douyu.php?id=9442836
-神奇的大智的直播间,http://youguan.gq/douyu.php?id=9650047
-用户67075445的直播间,http://youguan.gq/douyu.php?id=9649913
-小太的amv制作与展示,http://youguan.gq/douyu.php?id=9606954
-来！吐！槽！ 9510544,http://youguan.gq/douyu.php?id=9510544
-是小x同学呀  原创动画的世界,http://youguan.gq/douyu.php?id=9415020
-【有超超】那些童年回忆的动画,http://youguan.gq/douyu.php?id=9665484
-火柴人对战，超精彩,http://youguan.gq/douyu.php?id=9430394
-电影先锋V的直播间,http://youguan.gq/douyu.php?id=8711212
-带您进入孙十一的动漫小屋,http://youguan.gq/douyu.php?id=9619048
-好耶进来听歌8,http://youguan.gq/douyu.php?id=9533226
-热门电视剧/综艺的疯狂吐槽,http://youguan.gq/douyu.php?id=9663084
-经典始终经典 10672751,http://youguan.gq/douyu.php?id=10672751
-铁头与橘子（每周更新一起看霸总）,http://youguan.gq/douyu.php?id=9450942
-维立方电影的直播间,http://youguan.gq/douyu.php?id=8706393
-【野外生存】合集,http://youguan.gq/douyu.php?id=3968984
-更新500多，感谢关注,http://youguan.gq/douyu.php?id=4209195
-少女与半妖,http://youguan.gq/douyu.php?id=7422897
-胡八一 王胖子 播不停,http://youguan.gq/douyu.php?id=7683588
-这里全是名场面~,http://youguan.gq/douyu.php?id=9336286
-涂丁的直播间,http://youguan.gq/douyu.php?id=10548245
-专业烧脑 一个安静的直播间,http://youguan.gq/douyu.php?id=5802446
-4K直播间,http://youguan.gq/douyu.php?id=8663752
-经典、豆瓣高分电影,http://youguan.gq/douyu.php?id=10422935
-【速看】爆笑解说，欢乐百分百！,http://youguan.gq/douyu.php?id=2660125
-看就完事了~,http://youguan.gq/douyu.php?id=4628266
-【三笠】根本不存在解不开的迷！,http://youguan.gq/douyu.php?id=7050342
-高冷不说话新主播【DMC：鬼泣5】,http://youguan.gq/douyu.php?id=3901090
-【高分经典】感动只在一瞬间,http://youguan.gq/douyu.php?id=2535105
-【怀旧剧场】每天精彩不断,http://youguan.gq/douyu.php?id=10696126
-大扁儿直播,http://youguan.gq/douyu.php?id=8216610
-是时候来看鬼灭了,http://youguan.gq/douyu.php?id=10411323
-燕双鹰钱雁秋作品,http://youguan.gq/douyu.php?id=8380211
-鑫酱盘动漫的直播间,http://youguan.gq/douyu.php?id=9547575
-前方的前景的直播间,http://youguan.gq/douyu.php?id=8985119
-全程爆笑，高能不停,http://youguan.gq/douyu.php?id=505667
-【动漫】 24小时不间断 动漫专场,http://youguan.gq/douyu.php?id=7493575
-斗鱼直播王,http://youguan.gq/douyu.php?id=4654883
-保持快乐的心情，是一种能力！,http://youguan.gq/douyu.php?id=785252
-【铁三角】斗嘴的日常,http://youguan.gq/douyu.php?id=9994377
-不看热闹群众,http://youguan.gq/douyu.php?id=2096337
-1000部悬疑电影,http://youguan.gq/douyu.php?id=9601429
-【影视/动作】那些操作猛如虎的精彩瞬间,http://youguan.gq/douyu.php?id=9627172
-17号说动漫热血解说,http://youguan.gq/douyu.php?id=9822277
-菜菜菜萌新 9406295,http://youguan.gq/douyu.php?id=9406295
-周卫国冲冲冲！,http://youguan.gq/douyu.php?id=4424013
-樱木花道的篮球解说,http://youguan.gq/douyu.php?id=9848146
-【正在解说光头琦玉】饭点陪聊,http://youguan.gq/douyu.php?id=9527700
-爆笑解说各种动漫,http://youguan.gq/douyu.php?id=2365
-港式西游经典解说中,http://youguan.gq/douyu.php?id=8976766
-深夜直播间 9682807,http://youguan.gq/douyu.php?id=9682807
-幻想神话志 10722565,http://youguan.gq/douyu.php?id=10722565
-4K修复电影随便看看,http://youguan.gq/douyu.php?id=10728174
-不会画线稿的丸子,http://youguan.gq/douyu.php?id=7860622
-看电影 10714478,http://youguan.gq/douyu.php?id=10714478
-阿巳与小铃铛甜蜜日常,http://youguan.gq/douyu.php?id=9702820
-树莓派直播 ，您的二蛋哥已上线,http://youguan.gq/douyu.php?id=5947132
-经典-循环播放一月,http://youguan.gq/douyu.php?id=9963561
-【爆笑】从无到有，一路开心,http://youguan.gq/douyu.php?id=8066352
-日剧、吹替、漫改\动漫,http://youguan.gq/douyu.php?id=10087228
-如果失眠情绪不佳请来放松放松,http://youguan.gq/douyu.php?id=9287941
-经典电影回顾！因为积分不够，得重播！,http://youguan.gq/douyu.php?id=10533936
-夜挑鬼灯寻秘宝,http://youguan.gq/douyu.php?id=10323345
-【海绵宝宝】就饭影音馆,http://youguan.gq/douyu.php?id=10727728
-猛男上树！！！,http://youguan.gq/douyu.php?id=10597486
-【4K高清】韩国女团热舞,http://youguan.gq/douyu.php?id=10639903
-解说：各类精彩国产悬疑推理剧集,http://youguan.gq/douyu.php?id=8741860
-大吉大利今晚吃鸡 10310859,http://youguan.gq/douyu.php?id=10310859
-宅家看世界,http://youguan.gq/douyu.php?id=9257160
-（兔瓦斯轮播）期待JISOO的solo,http://youguan.gq/douyu.php?id=9596882
-英大吉的奇闻&amp;故事档案,http://youguan.gq/douyu.php?id=9174097
-一起探讨影视,http://youguan.gq/douyu.php?id=10200990
-影视 笑工场的直播间,http://youguan.gq/douyu.php?id=10298846
-二次元MMD 关注不迷路,http://youguan.gq/douyu.php?id=10357290
-浦饭幽游藏马飞影桑原,http://youguan.gq/douyu.php?id=9938431
-歌曲、挂机听歌。点歌去房间3186217,http://youguan.gq/douyu.php?id=9965018
-【萌迪迪】经典柯南系列解说,http://youguan.gq/douyu.php?id=5354705
-今日宜“哈哈哈哈哈”,http://youguan.gq/douyu.php?id=10298856
-【老白】经典美剧，致敬（小雅授权）,http://youguan.gq/douyu.php?id=8343640
-【火龙果讲电影】超爽的电影解说,http://youguan.gq/douyu.php?id=2039501
-【茶啊二中】好看的动画,http://youguan.gq/douyu.php?id=2925610
-新游戏 新的冒险,http://youguan.gq/douyu.php?id=8542427
-植物椿de房间的直播间,http://youguan.gq/douyu.php?id=9771247
-福气二哈的直播间,http://youguan.gq/douyu.php?id=10725260
-浩贤说电影的直播间,http://youguan.gq/douyu.php?id=10535867
-怀旧剧场 70 80童年的记忆,http://youguan.gq/douyu.php?id=10240231
-animax台配国语：索尼,http://youguan.gq/douyu.php?id=216397
-学了个寂寞，还是玩比较好,http://youguan.gq/douyu.php?id=4231787
-科幻战舰，为你带来好看的科幻片,http://youguan.gq/douyu.php?id=8772060
-神秘直播间 10139405,http://youguan.gq/douyu.php?id=10139405
-最强拳王——刃牙速看,http://youguan.gq/douyu.php?id=9542676
-朱元璋是如何从乞丐变成皇帝的？,http://youguan.gq/douyu.php?id=10050996
-冬至科幻电影推荐,http://youguan.gq/douyu.php?id=10465156
-【名著解读】西游 三国 水浒 封神...,http://youguan.gq/douyu.php?id=562225
-用户25239481的直播间,http://youguan.gq/douyu.php?id=10607780
-龙门镖~来了就笑吧,http://youguan.gq/douyu.php?id=9375914
-有部电影儿的直播间,http://youguan.gq/douyu.php?id=9736479
-听完发现这些书白读了~,http://youguan.gq/douyu.php?id=2680501
-蒙面人影视的直播间,http://youguan.gq/douyu.php?id=9779848
-多多陪你看 经典 老剧 国产 好看 回忆,http://youguan.gq/douyu.php?id=10547150
-专场 看的 是回忆 是经典,http://youguan.gq/douyu.php?id=9531337
-梁山好汉都在此,http://youguan.gq/douyu.php?id=3472959
-动漫集结营地,http://youguan.gq/douyu.php?id=10673042
-下饭必看直播间,http://youguan.gq/douyu.php?id=9788756
-放松放松减压解压,http://youguan.gq/douyu.php?id=7322210
-【爱了】史上最强变装秀,http://youguan.gq/douyu.php?id=10672106
-张卫健的方无敌,http://youguan.gq/douyu.php?id=9653056
-【大坑】悬疑推理视频解说,http://youguan.gq/douyu.php?id=9440339
-【雷克萨】雷雷国一台！！！,http://youguan.gq/douyu.php?id=682205
-【斗鱼电影推荐官】更新中……,http://youguan.gq/douyu.php?id=2523528
-舞蹈呀！热舞呀！,http://youguan.gq/douyu.php?id=10228750
-剪辑让电影变得更有趣！,http://youguan.gq/douyu.php?id=8443438
-【冬粮】解析电影 品评人生,http://youguan.gq/douyu.php?id=5192695
-带您进入Fatal飞雪的动漫小屋,http://youguan.gq/douyu.php?id=8813596
-【喜人电影】讲解最新海外高分大片,http://youguan.gq/douyu.php?id=10348735
-p2p测试,http://youguan.gq/douyu.php?id=949007
-无聊播播播0.0,http://youguan.gq/douyu.php?id=6747916
-越南小哥的丛林生活,http://youguan.gq/douyu.php?id=10675329
-内涵 搞笑 短剧，每日更新！,http://youguan.gq/douyu.php?id=2995636
-【北斗神拳】重温经典,http://youguan.gq/douyu.php?id=5663070
-蓝光乐队翻唱大合集！,http://youguan.gq/douyu.php?id=9572351
-时势造英雄，三分天下谁主沉浮?,http://youguan.gq/douyu.php?id=2436176
-【飞碟说】一分钟了解知识,http://youguan.gq/douyu.php?id=1449125
-经典老电影，那种非常经典的,http://youguan.gq/douyu.php?id=10411518
-带你进入抗战年代，体会热血抗战,http://youguan.gq/douyu.php?id=9388945
-【九儿】高粱真的红,http://youguan.gq/douyu.php?id=7335280
-一起来看大神修复老物件，解压 治愈,http://youguan.gq/douyu.php?id=4164119
-神风实战对抗篇《HLW丨犊子》,http://youguan.gq/douyu.php?id=9440292
-梓帆说电影的直播间,http://youguan.gq/douyu.php?id=9769563
-这里有一个摇滚萝莉,http://youguan.gq/douyu.php?id=6428730
-初音 弱音 原神 崩3MMD,http://youguan.gq/douyu.php?id=9235284
-每 日 经 典,http://youguan.gq/douyu.php?id=1772685
-佛曰影视的直播间,http://youguan.gq/douyu.php?id=9671758
-星光视界5套,http://youguan.gq/douyu.php?id=7178622
-万花丛中过 独宠你一个,http://youguan.gq/douyu.php?id=8783035
-【音乐世界】唯一音乐小魔王,http://youguan.gq/douyu.php?id=9642552
-发现放映室,http://youguan.gq/douyu.php?id=8791622
-武神常山赵子龙是也,http://youguan.gq/douyu.php?id=9388938
-老牌香港明星的最全八卦~,http://youguan.gq/douyu.php?id=9970047
-童乐说电影,http://youguan.gq/douyu.php?id=9660704
-Hello~大家好~！我是小虾米！,http://youguan.gq/douyu.php?id=102114
-你就是我的风，若有来世，我还愿等风来。,http://youguan.gq/douyu.php?id=3659583
-很有趣的电影解说,http://youguan.gq/douyu.php?id=8837964
-哈哈哈哈哈哈哈 10478464,http://youguan.gq/douyu.php?id=10478464
-名剧小仙女解说影视题材,http://youguan.gq/douyu.php?id=10592710
-影视聚集地,http://youguan.gq/douyu.php?id=8919066
-【刘也变】搞笑的超能力者,http://youguan.gq/douyu.php?id=9489079
-（遥远的救世主）连播,http://youguan.gq/douyu.php?id=10743411
-大别山的真实生活,http://youguan.gq/douyu.php?id=8837707
-已更新：宇哥带你几分钟看完一部好电影,http://youguan.gq/douyu.php?id=2104744
-各种经典动漫解说,http://youguan.gq/douyu.php?id=5584437
-听听歌，看绝美动漫场景,http://youguan.gq/douyu.php?id=9191790
-全网最全搞笑视频集锦，天天陪伴解放不开心,http://youguan.gq/douyu.php?id=296066
-飞行，驾驶，太空！ ！ ！,http://youguan.gq/douyu.php?id=5727066
-戴萌兔的模玩手办展示,http://youguan.gq/douyu.php?id=9522315
-斗鱼最温情电影解说,http://youguan.gq/douyu.php?id=8799435
-怀旧粤语台,http://youguan.gq/douyu.php?id=5325029
-拉尔虎影视的直播间,http://youguan.gq/douyu.php?id=10655162
-【阿松撩剧】恐怖喜剧，一键切换,http://youguan.gq/douyu.php?id=8880843
-出格字幕组的直播间,http://youguan.gq/douyu.php?id=8906162
-超然电影解说,http://youguan.gq/douyu.php?id=4626315
-蓝光碟原盘直播间,http://youguan.gq/douyu.php?id=9610808
-来看热血动漫,http://youguan.gq/douyu.php?id=9931766
-用户60045945的直播间,http://youguan.gq/douyu.php?id=10647134
-山子哥直播间,http://youguan.gq/douyu.php?id=10753056
-曾经的回忆 7812810,http://youguan.gq/douyu.php?id=7812810
-来看我跳舞(*^▽^*)（每周更新）,http://youguan.gq/douyu.php?id=9211287
-进6480真冲卡，每日2Q真冲+-+）,http://youguan.gq/douyu.php?id=10688003
-老电影故事的直播间,http://youguan.gq/douyu.php?id=9167273
-【安小闫说电影】每日电影解说更新,http://youguan.gq/douyu.php?id=1842621
-第一次接触UFO,http://youguan.gq/douyu.php?id=9930858
-风清扬说剧,http://youguan.gq/douyu.php?id=10589215
-前任电影的直播间,http://youguan.gq/douyu.php?id=9329242
-古风杰伦民谣Rap向唱见~,http://youguan.gq/douyu.php?id=9595715
-胡八一闯江湖,http://youguan.gq/douyu.php?id=10754812
-【老剧新赏/影视】第一人称视角解说,http://youguan.gq/douyu.php?id=9663665
-【青凌说电影】N分钟带你看完大片,http://youguan.gq/douyu.php?id=9488836
-来欣赏别墅咯,http://youguan.gq/douyu.php?id=9527761
-剧燃有趣的直播间,http://youguan.gq/douyu.php?id=10329702
-早睡早起身体好啊 9769996,http://youguan.gq/douyu.php?id=9769996
-游戏天才纪录片【话龙电竞】,http://youguan.gq/douyu.php?id=9957571
-全是经典电影解说,http://youguan.gq/douyu.php?id=10087640
-一起欣赏电影,http://youguan.gq/douyu.php?id=9444627
-【草泥泥影院】每日解说欧美高分动画,http://youguan.gq/douyu.php?id=9091049
-你知道人的一生有多长吗？,http://youguan.gq/douyu.php?id=9477915
-悬案/真实案件专业讲解,http://youguan.gq/douyu.php?id=9819539
-墨西哥大毒枭的传奇往事,http://youguan.gq/douyu.php?id=9422144
-音乐/影视 喜欢就好,http://youguan.gq/douyu.php?id=5426175
-奇葩电影一次看个够,http://youguan.gq/douyu.php?id=3508538
-小宝在这里,http://youguan.gq/douyu.php?id=472755
-幻醒动漫全集解说-越看越上头-新人求关注,http://youguan.gq/douyu.php?id=10307013
-毛阿情Iris的直播间,http://youguan.gq/douyu.php?id=10749449
-动漫推荐官方直播间,http://youguan.gq/douyu.php?id=5187099
-谁主沉浮的直播间 10578988,http://youguan.gq/douyu.php?id=10578988
-九冢嵬的直播间,http://youguan.gq/douyu.php?id=9393501
-粉猪君说电影,http://youguan.gq/douyu.php?id=10095878
-经典特摄动画放送,http://youguan.gq/douyu.php?id=6920060
-low君带你发掘更多好剧！,http://youguan.gq/douyu.php?id=8461020
-一日三餐下饭时刻,http://youguan.gq/douyu.php?id=3558231
-9392433的直播间,http://youguan.gq/douyu.php?id=9392433
-冷门惊悚片，一次看过瘾,http://youguan.gq/douyu.php?id=9647845
-没有比这更沙雕的直播间了,http://youguan.gq/douyu.php?id=9481300
-恐怖片解说，想来点刺激的,http://youguan.gq/douyu.php?id=9447668
-杰森、人皮脸，各种杀人魔解说，你敢看吗？,http://youguan.gq/douyu.php?id=9314689
-槽槽有槽点看电影,http://youguan.gq/douyu.php?id=752376
-最近好听的歌单 9674665,http://youguan.gq/douyu.php?id=9674665
-正在解说【犯罪心理】，值得研究,http://youguan.gq/douyu.php?id=8851140
-涛浪浪说电影集锦,http://youguan.gq/douyu.php?id=5424258
-欢迎来到超级英雄的世界,http://youguan.gq/douyu.php?id=9665696
-脑洞大开的悬疑短剧【不思异】,http://youguan.gq/douyu.php?id=9297412
-一起来看搞笑视频哦,http://youguan.gq/douyu.php?id=10334999
-景彡ZI屋,http://youguan.gq/douyu.php?id=10411522
-上车吧！老胡带你一起看电影,http://youguan.gq/douyu.php?id=8880466
-【高甜KISS】苏到爆炸的吻戏合集,http://youguan.gq/douyu.php?id=8807568
-动漫精彩混剪，令人极为舒适的踩点衔接,http://youguan.gq/douyu.php?id=9192852
-《我们的冬奥》2.19电影院上映,http://youguan.gq/douyu.php?id=432071
-【二哈】几分钟看完各种恐怖大片,http://youguan.gq/douyu.php?id=8778280
-看一部电影 体百味人生,http://youguan.gq/douyu.php?id=8774345
-幺妹讲故事V的直播间,http://youguan.gq/douyu.php?id=10096041
-梦醒有一个梦想,http://youguan.gq/douyu.php?id=10752525
-庄尼兔拟音实验室的直播间,http://youguan.gq/douyu.php?id=9546169
-魔芋小超人,http://youguan.gq/douyu.php?id=4899968
-【经典电影】 历届奥斯卡最佳影片盘点解说,http://youguan.gq/douyu.php?id=9402110
-【伊藤润二】恐怖漫画解说直播间,http://youguan.gq/douyu.php?id=9481137
-超精彩电影解说,http://youguan.gq/douyu.php?id=10319545
-号角电影幕后,http://youguan.gq/douyu.php?id=22104
-学霸小九的直播间,http://youguan.gq/douyu.php?id=10229327
-消灭剧荒，与你相聚！欢迎来到剧集地！！,http://youguan.gq/douyu.php?id=10346694
-世界纪录大全的直播间,http://youguan.gq/douyu.php?id=9406359
-脑洞菌Alee的直播间,http://youguan.gq/douyu.php?id=9457334
-真人改编，史上最凶残的毒枭，世界七大富豪,http://youguan.gq/douyu.php?id=9937291
-来看声音比电影好听的粽子,http://youguan.gq/douyu.php?id=8867276
-kura_yun的直播间,http://youguan.gq/douyu.php?id=4627432
-不正经的讲故事，蜜汁口音,http://youguan.gq/douyu.php?id=9636034
-光影笔墨哦！,http://youguan.gq/douyu.php?id=8256039
-最有梗的直播间，全是影视梗,http://youguan.gq/douyu.php?id=9480648
-少年看电影的直播间,http://youguan.gq/douyu.php?id=8762120
-28岁电影的直播间,http://youguan.gq/douyu.php?id=8884164
-周队长电影解说,http://youguan.gq/douyu.php?id=9023539
-【全外语】【短视频】【影片推荐介绍】,http://youguan.gq/douyu.php?id=9683979
-音乐台长的直播间,http://youguan.gq/douyu.php?id=9629943
-XCin，你的私人球鞋顾问,http://youguan.gq/douyu.php?id=3617935
-猫八解说的直播间,http://youguan.gq/douyu.php?id=9542831
-开心每一天视频的直播间,http://youguan.gq/douyu.php?id=10464012
-【三七电影】好看电影解说,http://youguan.gq/douyu.php?id=9457792
-好看电影混剪,http://youguan.gq/douyu.php?id=8475821
-技术流声控！,http://youguan.gq/douyu.php?id=749124
-大胡子魏的直播间,http://youguan.gq/douyu.php?id=8792763
-奇趣研究的直播间,http://youguan.gq/douyu.php?id=8661456
-带您进入滑稽中二梦V的动漫小屋,http://youguan.gq/douyu.php?id=8829706
-小鸭子老师来唱歌,http://youguan.gq/douyu.php?id=9627625
-动漫新番看这里，包子解说,http://youguan.gq/douyu.php?id=9028721
-SlamDunk灌篮的直播间,http://youguan.gq/douyu.php?id=9420379
-【黑袍】假如超人不再拯救世界,http://youguan.gq/douyu.php?id=7508566
-花町馆长——进击的巨人精彩解说,http://youguan.gq/douyu.php?id=2295993
-秦看番的直播间,http://youguan.gq/douyu.php?id=9542832
-同同电影的直播间,http://youguan.gq/douyu.php?id=10155359
-【漫画解说】漫威宇宙解读,http://youguan.gq/douyu.php?id=5907076
-带您进入5毒士的动漫小屋,http://youguan.gq/douyu.php?id=9406600
-精彩宫斗剧,http://youguan.gq/douyu.php?id=10137850
-【喜剧电影】最全搞笑喜剧，从这一刻开始,http://youguan.gq/douyu.php?id=9824094
-【动漫盘点+老番补番】动漫片段24h轮播,http://youguan.gq/douyu.php?id=9199976
-小猪搞笑精选,http://youguan.gq/douyu.php?id=10329752
-郭教练篮球教学的直播间,http://youguan.gq/douyu.php?id=9437932
-大笑影院的直播间,http://youguan.gq/douyu.php?id=10329300
-橙香丶劉夏的直播间,http://youguan.gq/douyu.php?id=10747176
-小行家的MMD直播间,http://youguan.gq/douyu.php?id=9280356
-最好看剧都在这里,http://youguan.gq/douyu.php?id=10508677
-一切都那么的难,http://youguan.gq/douyu.php?id=9148997
-Co视因你而精彩,http://youguan.gq/douyu.php?id=1060418
-9191358的直播间,http://youguan.gq/douyu.php?id=9191358
-如果你无聊的话 来聊天吧 随性,http://youguan.gq/douyu.php?id=3414663
-小姐姐解说大马猴电影,http://youguan.gq/douyu.php?id=8851063
-名人传奇！来啊，涨知识啊！☺️,http://youguan.gq/douyu.php?id=9539063
-艾弥儿：生活不易，有我陪你。,http://youguan.gq/douyu.php?id=9427927
-Sirius&amp;的直播间,http://youguan.gq/douyu.php?id=10745281
-那些年的网吧故事,http://youguan.gq/douyu.php?id=10757850
-黑菠萝陪你侃大片,http://youguan.gq/douyu.php?id=5803764
-【麦绿素】几分钟带你完整看电影（尽量）,http://youguan.gq/douyu.php?id=9336437
-穿透音乐AAA,http://youguan.gq/douyu.php?id=8671698
-三新动漫的直播间,http://youguan.gq/douyu.php?id=9548279
-神羊说电影＋一起看电影,http://youguan.gq/douyu.php?id=9443552
-神探/探案  故事合集,http://youguan.gq/douyu.php?id=10351947
-【噬元兽】小姐姐带你看剧吖,http://youguan.gq/douyu.php?id=8896723
-Rimworld：皇权,http://youguan.gq/douyu.php?id=7661496
-高压锅带你追剧,http://youguan.gq/douyu.php?id=10501272
-24小时云养鱼,http://youguan.gq/douyu.php?id=8775319
-伦帝入驻斗鱼啦！,http://youguan.gq/douyu.php?id=9368091
-正在解说丧尸片,http://youguan.gq/douyu.php?id=10075154
-专业圣斗士的直播间,http://youguan.gq/douyu.php?id=10349501
-怪异君来了！悬疑世界,http://youguan.gq/douyu.php?id=10279570
-科幻梦工场,http://youguan.gq/douyu.php?id=9608874
-目及-疯狂安利下饭剧,http://youguan.gq/douyu.php?id=8712204
-传承红色经典，弘扬爱国精神,http://youguan.gq/douyu.php?id=8223733
-齐木楠雄陪你看动漫,http://youguan.gq/douyu.php?id=9415755
-人性的本质是什么样的？,http://youguan.gq/douyu.php?id=9443129
-王力差点红的小周慧敏来啦,http://youguan.gq/douyu.php?id=9348469
-斗鱼主播礼物排行榜,http://youguan.gq/douyu.php?id=218044
-哇是搞笑君啊,http://youguan.gq/douyu.php?id=10329719
-架子鼓美少女,http://youguan.gq/douyu.php?id=8887438
-【久远酱】动漫解说，进来就对了,http://youguan.gq/douyu.php?id=9046649
-小度播声优,http://youguan.gq/douyu.php?id=9127438
-割麦喽 关注送麦子咋样,http://youguan.gq/douyu.php?id=9071554
-带您进入鸡蛋高的动漫小屋,http://youguan.gq/douyu.php?id=9367188
-动漫配音 安排安排,http://youguan.gq/douyu.php?id=4049310
-自制小视频播放室,http://youguan.gq/douyu.php?id=6085873
-【恶搞】一样的电影，不一样的feel,http://youguan.gq/douyu.php?id=2519745
-哈喽，大家好 一起来看电影吧,http://youguan.gq/douyu.php?id=9440966
-忙着呐！！！,http://youguan.gq/douyu.php?id=2798717
-年度科幻大片,http://youguan.gq/douyu.php?id=7536856
-一只喵讲电影会是什么样？,http://youguan.gq/douyu.php?id=9312432
-食姐搞笑生活,http://youguan.gq/douyu.php?id=9322081
-喵招诗雨的直播间,http://youguan.gq/douyu.php?id=9651121
-吉他的音乐教学,http://youguan.gq/douyu.php?id=4564166
-爆笑行为大赏,http://youguan.gq/douyu.php?id=10329767
-带您进入光影故事汇的电影世界,http://youguan.gq/douyu.php?id=9541423
-经典日漫，剧情向剪辑,http://youguan.gq/douyu.php?id=9193179
-暮小肆的放飞日常,http://youguan.gq/douyu.php?id=9634199
-直男粤语爆笑综艺reaction,http://youguan.gq/douyu.php?id=8764282
-大哥大姐们，看看我吧！,http://youguan.gq/douyu.php?id=9013989
-【MAD】极致卡点，极致视听享受,http://youguan.gq/douyu.php?id=9191071
-二次元放映室！综漫衔接的魅力！,http://youguan.gq/douyu.php?id=9192932
-教你学板绘上色,http://youguan.gq/douyu.php?id=9501548
-颜雪落的直播间,http://youguan.gq/douyu.php?id=8864291
-带您进入在下小苏Su的日常,http://youguan.gq/douyu.php?id=8658051
-冯二宸   影视鉴赏,http://youguan.gq/douyu.php?id=9501818
-没有我没看过的番！,http://youguan.gq/douyu.php?id=9207457
-笑哈哈团长,http://youguan.gq/douyu.php?id=10329368
-小陶气说动漫二号机,http://youguan.gq/douyu.php?id=2335065
-爱星影视的直播间,http://youguan.gq/douyu.php?id=9476806
-情感测试小分队的直播间,http://youguan.gq/douyu.php?id=9697688
-程序员易劈西的直播间,http://youguan.gq/douyu.php?id=8759268
-桃红梨白专栏的直播间,http://youguan.gq/douyu.php?id=9568196
-世界最神秘的事你整明白了没？,http://youguan.gq/douyu.php?id=9580477
-盘点委员的直播间,http://youguan.gq/douyu.php?id=9481059
-带您进入白鱼Sakana的动漫小屋,http://youguan.gq/douyu.php?id=9611771
-LKs视频轮播,http://youguan.gq/douyu.php?id=8935403
-【狂阿弥】电影！VLOG！文学！,http://youguan.gq/douyu.php?id=8975282
-爱玩客小姐姐播一会,http://youguan.gq/douyu.php?id=317409
-老王的夜电影院,http://youguan.gq/douyu.php?id=3498219
-没命了直播间！,http://youguan.gq/douyu.php?id=9564845
-电影幕后喵的直播间,http://youguan.gq/douyu.php?id=8884074
-齐司礼的直播间,http://youguan.gq/douyu.php?id=9481340
-吃瓜鹅每日速报的直播间,http://youguan.gq/douyu.php?id=9681022
-总有一部让你觉得很哇塞的电影,http://youguan.gq/douyu.php?id=9820039
-王德发的导演小阿伟 直播间,http://youguan.gq/douyu.php?id=9430799
-关云猖动漫剧场,http://youguan.gq/douyu.php?id=8820996
-玖月影视的直播间,http://youguan.gq/douyu.php?id=9339251
-Ethan清醒思考的直播间,http://youguan.gq/douyu.php?id=9481151
-最详细的解说,http://youguan.gq/douyu.php?id=9542834
-数据库saber的直播间,http://youguan.gq/douyu.php?id=9720506
-大魔王解说,http://youguan.gq/douyu.php?id=10415661
-9371552的直播间,http://youguan.gq/douyu.php?id=9371552
-带您走进夙瑶瑾的动漫绘画世界,http://youguan.gq/douyu.php?id=9450568
-热门新片/新剧解说直播间,http://youguan.gq/douyu.php?id=9455937
-带您进入新视角解说的电影世界,http://youguan.gq/douyu.php?id=8813254
-带您进入莱纳电影的电影世界,http://youguan.gq/douyu.php?id=9356937
-强人你说笑,http://youguan.gq/douyu.php?id=10329713
-王俊凯的资源组的直播间,http://youguan.gq/douyu.php?id=8862216
-君笑坊的直播间,http://youguan.gq/douyu.php?id=9444093
-带您进入不会骑马的健身少年的日常,http://youguan.gq/douyu.php?id=8862198
-【whitebuste】真的很细动漫解说,http://youguan.gq/douyu.php?id=9481484
-十音来斗鱼啦~！,http://youguan.gq/douyu.php?id=9650451
-速看丽姐说电影,http://youguan.gq/douyu.php?id=9437283
-本主儿的直播间,http://youguan.gq/douyu.php?id=9565677
-惊悚/反转/剧情小短片,http://youguan.gq/douyu.php?id=10348959
-李蚊香的直播间,http://youguan.gq/douyu.php?id=4786399
-神迹小霸霸的直播间,http://youguan.gq/douyu.php?id=8837963
-整 活 开 始 8943060,http://youguan.gq/douyu.php?id=8943060
-好剧看不停！,http://youguan.gq/douyu.php?id=9375923
-你也爱看动漫吗？,http://youguan.gq/douyu.php?id=9564766
-带您进入海男Rexv的时尚天堂,http://youguan.gq/douyu.php?id=9626732
-同学们快进来学知识,http://youguan.gq/douyu.php?id=8799739
-爆笑体育，停不下来,http://youguan.gq/douyu.php?id=1255068
-忆暄Ethan的直播间,http://youguan.gq/douyu.php?id=9570042
-纆緣老给给的直播间,http://youguan.gq/douyu.php?id=9543413
-【波澜哥】精彩上新，搞笑不断,http://youguan.gq/douyu.php?id=9627400
-灵佑奇谈的直播间,http://youguan.gq/douyu.php?id=9678207
-西施约你看电影,http://youguan.gq/douyu.php?id=7532080
-前方高能 我也就看了几百遍,http://youguan.gq/douyu.php?id=9188696
-电影解说：了解不为人知的真实电影,http://youguan.gq/douyu.php?id=1690081
-【一起过七夕】大力学姐の搞笑影视解说时间,http://youguan.gq/douyu.php?id=8784719
-枫狂吐槽的动漫推荐！没番看就进来吧！,http://youguan.gq/douyu.php?id=9541849
-鹿老尸的直播间,http://youguan.gq/douyu.php?id=857979
-【野灿baka】一起追番,http://youguan.gq/douyu.php?id=8867233
-KB唱歌时间,http://youguan.gq/douyu.php?id=8970851
-【国士无双人物传奇】无双国士人物分享,http://youguan.gq/douyu.php?id=9544555
-《好久不见，武汉》,http://youguan.gq/douyu.php?id=8933612
-半藏科普直播间,http://youguan.gq/douyu.php?id=9372627
-小浅说电影的直播间,http://youguan.gq/douyu.php?id=9665834
-沙雕妮的直播间,http://youguan.gq/douyu.php?id=9612400
-讲神话的小志,http://youguan.gq/douyu.php?id=9495613
-【亚巴拉辛巴】搞笑就属你厉害,http://youguan.gq/douyu.php?id=5179152
-【前女友】动漫了解一下,http://youguan.gq/douyu.php?id=8896746
-带您进入动画魂的动漫小屋,http://youguan.gq/douyu.php?id=9393242
-上来先丢大,http://youguan.gq/douyu.php?id=9566154
-是纯洁上校的直播间,http://youguan.gq/douyu.php?id=9666042
-元壹影直播间,http://youguan.gq/douyu.php?id=8503904
-Melo的健身课堂的直播间,http://youguan.gq/douyu.php?id=9306609
-最牛的特效，没有想不到,http://youguan.gq/douyu.php?id=9406663
-没腿毛的哥哥的直播间,http://youguan.gq/douyu.php?id=9720447
-shhher的直播间,http://youguan.gq/douyu.php?id=8733680
-非常有格调的影视剪辑~,http://youguan.gq/douyu.php?id=9384527
-无上老祖的陈情的直播间,http://youguan.gq/douyu.php?id=9556720
-带您进入粽子酱的动漫小屋,http://youguan.gq/douyu.php?id=9390685
-【多巴安工作室】日常生活搞笑，一起欢乐,http://youguan.gq/douyu.php?id=9446799
-进击de伏特加的直播间,http://youguan.gq/douyu.php?id=9501444
-夏日幻听MCE的直播间,http://youguan.gq/douyu.php?id=9546437
-【吟笑派】爆笑解说,http://youguan.gq/douyu.php?id=2987100
-【体育】足坛事件大盘点,http://youguan.gq/douyu.php?id=4589972
-买菜要砍价,http://youguan.gq/douyu.php?id=9477851
-大手哥有评有测,http://youguan.gq/douyu.php?id=4030060
-【搞笑】学会了！这就去和女神对线！,http://youguan.gq/douyu.php?id=9382395
-带您进入醉我天涯的影视世界,http://youguan.gq/douyu.php?id=9479775
-【峰video】思维力升级实验室,http://youguan.gq/douyu.php?id=8779139
-豆客解说的直播间,http://youguan.gq/douyu.php?id=8883122
-【功夫联盟】拳拳到肉，实拍功夫,http://youguan.gq/douyu.php?id=9169624
-爆笑神剧陪你下饭！24小时不间断轮播,http://youguan.gq/douyu.php?id=9339300
-大千世界，无奇不有,http://youguan.gq/douyu.php?id=295858
-mzx阿哲   动漫杂谈,http://youguan.gq/douyu.php?id=9483965
-追番社长的直播间,http://youguan.gq/douyu.php?id=10411300
-动漫杂谈放送,http://youguan.gq/douyu.php?id=5124602
-动漫混剪放映厅,http://youguan.gq/douyu.php?id=9191006
-当下频道的当下世界,http://youguan.gq/douyu.php?id=9389239
-JG影视解说的直播间,http://youguan.gq/douyu.php?id=9391277
-家用数码科技测评第一线,http://youguan.gq/douyu.php?id=9446511
-唐人探影的直播间,http://youguan.gq/douyu.php?id=10371561
-doyoudo团队的直播间,http://youguan.gq/douyu.php?id=721837
-冰糖葫芦没放盐,http://youguan.gq/douyu.php?id=3505453
-每周更新  更多娱乐,http://youguan.gq/douyu.php?id=5918434
-影子叔影视解说，每日更新,http://youguan.gq/douyu.php?id=9446338
-国产经典剧解说中,http://youguan.gq/douyu.php?id=9634946
-【OooOlivia奥莉蕉】穿出你的美,http://youguan.gq/douyu.php?id=9678862
-干货！年度潮鞋评测,http://youguan.gq/douyu.php?id=4585643
-钱小元说电影的直播间,http://youguan.gq/douyu.php?id=9368265
-小鹏漫剪的直播间,http://youguan.gq/douyu.php?id=9476810
-田浅浅w的直播间,http://youguan.gq/douyu.php?id=9747144
-京城笑工坊,http://youguan.gq/douyu.php?id=10329324
-鞋！鞋！鞋！时尚男孩进,http://youguan.gq/douyu.php?id=8317571
-汪哥说电影的直播间,http://youguan.gq/douyu.php?id=9312685
-哈哈哈哈哈哈哈 9583975,http://youguan.gq/douyu.php?id=9583975
-鐵牛杰哥的直播间,http://youguan.gq/douyu.php?id=8815425
-迷影至下Filmlast的直播间,http://youguan.gq/douyu.php?id=9187596
-带您进入华白雨的动漫小屋,http://youguan.gq/douyu.php?id=9495454
-【月影轮播间】后宫番解说,http://youguan.gq/douyu.php?id=8885525
-9351043的直播间,http://youguan.gq/douyu.php?id=9351043
-洛飕飕的直播间,http://youguan.gq/douyu.php?id=9543361
-热星音乐菌的直播间,http://youguan.gq/douyu.php?id=8405922
-千代语默的动漫世界,http://youguan.gq/douyu.php?id=9484187
-温柔大姐姐声,http://youguan.gq/douyu.php?id=2925299
-律子的经典漫画和宅物分享,http://youguan.gq/douyu.php?id=9371308
-带您进入LCPD拉登的动画世界,http://youguan.gq/douyu.php?id=9503015
-树根摆龙门阵,http://youguan.gq/douyu.php?id=1833459
-狗毛电影的直播间,http://youguan.gq/douyu.php?id=9356637
-带您进入神之传说的动漫小屋,http://youguan.gq/douyu.php?id=9370168
-御前狼王顾云川的直播间,http://youguan.gq/douyu.php?id=9517289
-露爷说漫的直播间,http://youguan.gq/douyu.php?id=9542830
-WANJINNY的直播间,http://youguan.gq/douyu.php?id=9567755
-带您进入红烛Sakura的搞笑世界,http://youguan.gq/douyu.php?id=9678226
-心情不好的时候治愈你,http://youguan.gq/douyu.php?id=9204381
-为全国中老年朋友发声,http://youguan.gq/douyu.php?id=9440530
-带您进入永无叙的动漫小屋,http://youguan.gq/douyu.php?id=9442980
-点点点点点点 9458184,http://youguan.gq/douyu.php?id=9458184
-【蔡恩雨Priscilla】的音乐世界,http://youguan.gq/douyu.php?id=9662853
-开心逛剧场,http://youguan.gq/douyu.php?id=10329310
-黑暗骑士DARKSWEET的直播间,http://youguan.gq/douyu.php?id=8795660
-起来啦小躺的直播间,http://youguan.gq/douyu.php?id=8849047
-辰哥说电影的直播间,http://youguan.gq/douyu.php?id=9371407
-带您进入笑点组长的搞笑世界,http://youguan.gq/douyu.php?id=9535757
-训练师十六的直播间,http://youguan.gq/douyu.php?id=9721338
-最会讲电影的漂亮小姐姐看一看,http://youguan.gq/douyu.php?id=9464182
-什么都解说一下的育碧先生,http://youguan.gq/douyu.php?id=9505962
-带您进入咆哮丶土拨鼠的鬼畜现场,http://youguan.gq/douyu.php?id=9564230
-皮小帅同学的直播间,http://youguan.gq/douyu.php?id=10364776
-超人.传播正能量搞笑视频,http://youguan.gq/douyu.php?id=5961006
-舞者胡哥的直播间,http://youguan.gq/douyu.php?id=9404678
-SKYE魏-手机绘画,http://youguan.gq/douyu.php?id=9460834
-黑衣陌秦mq的直播间,http://youguan.gq/douyu.php?id=9559308
-辉夜大小姐想让你看漫画解说~,http://youguan.gq/douyu.php?id=9039399
-叶墨的百妖馆的直播间,http://youguan.gq/douyu.php?id=9517351
-TSSS映画的直播间,http://youguan.gq/douyu.php?id=9749339
-贤狼赫萝老师的直播间,http://youguan.gq/douyu.php?id=5996089
-徳彪的故事，你看懂了吗？,http://youguan.gq/douyu.php?id=9145648
-带您进入南小北的动漫小屋,http://youguan.gq/douyu.php?id=9441056
-冰冰小弟弟的直播间,http://youguan.gq/douyu.php?id=9718721
-原创歌手双笙陈元汐入驻斗鱼啦,http://youguan.gq/douyu.php?id=6476693
-没 有 人 比 我 更懂二次元！！！,http://youguan.gq/douyu.php?id=8977251
-带您走进唯一讲述者的电影世界,http://youguan.gq/douyu.php?id=9440460
-吾恩的音乐世界,http://youguan.gq/douyu.php?id=9631914
-看个M啊的直播间,http://youguan.gq/douyu.php?id=9720919
-玩偶欧ba的直播间,http://youguan.gq/douyu.php?id=9728089
-不开腔的自己人,http://youguan.gq/douyu.php?id=1725238
-带您进入噩梦D的动漫小屋,http://youguan.gq/douyu.php?id=9366922
-带您进入威生天霖的电影世界,http://youguan.gq/douyu.php?id=9393403
-猫总白一航的直播间,http://youguan.gq/douyu.php?id=9517105
-大跌眼镜！抓马/恋爱/剧情解读,http://youguan.gq/douyu.php?id=10350875
-【萱草daylily】美妆好物分享,http://youguan.gq/douyu.php?id=9685770
-【全职猎人】一网打尽,http://youguan.gq/douyu.php?id=10050914
-Nino学长的直播间,http://youguan.gq/douyu.php?id=9525473
-趣评测李杰灵的直播间~,http://youguan.gq/douyu.php?id=751316
-娱乐明星一手讯息，理娱打挺疼,http://youguan.gq/douyu.php?id=2925563
-带您进入少年阿虎的动漫小屋,http://youguan.gq/douyu.php?id=9396762
-带您进入龙大人不喷火的搞笑天堂,http://youguan.gq/douyu.php?id=9437298
-流小豆   爆笑配音动画,http://youguan.gq/douyu.php?id=2441228
-冷门动漫解说,http://youguan.gq/douyu.php?id=9064711
-小铁房乐队来唱歌了,http://youguan.gq/douyu.php?id=9624976
-【速看】取经大队第二部！,http://youguan.gq/douyu.php?id=10060835
-橘癫疯Oswald的直播间,http://youguan.gq/douyu.php?id=8793544
-我的超能力女友的直播间,http://youguan.gq/douyu.php?id=9501159
-带您进入亓夭的搞笑天堂,http://youguan.gq/douyu.php?id=9547862
-戏晶SHOW的直播间,http://youguan.gq/douyu.php?id=9565130
-用户81130217的直播间,http://youguan.gq/douyu.php?id=9683911
-【托尔兹桃花剑】动漫特设反复横跳,http://youguan.gq/douyu.php?id=8896743
-庆皇龙利余,http://youguan.gq/douyu.php?id=9524210
-缺实战鞋吗，送你一双,http://youguan.gq/douyu.php?id=865331
-没什么奔头的一天,http://youguan.gq/douyu.php?id=7466846
-星空茶茶的直播间,http://youguan.gq/douyu.php?id=8635497
-关于90后全球最火男歌手比伯的一切,http://youguan.gq/douyu.php?id=8811166
-几号房间V的直播间,http://youguan.gq/douyu.php?id=8829425
-天JIANG 剪辑/特效教学,http://youguan.gq/douyu.php?id=9455480
-外卖仙人成天,http://youguan.gq/douyu.php?id=9498506
-你听过我唱歌吗？没有的话来听听吧~,http://youguan.gq/douyu.php?id=9650246
-阿卓丨a丶zhuo,http://youguan.gq/douyu.php?id=1558490
-灿辰Stardust的直播间,http://youguan.gq/douyu.php?id=9215309
-爱黏人的圆子   时尚测评,http://youguan.gq/douyu.php?id=9576933
-旺仔大哥哥阿的直播间,http://youguan.gq/douyu.php?id=9629361
-Red袖袖的直播间,http://youguan.gq/douyu.php?id=9645396
-尚大人OwO的直播间,http://youguan.gq/douyu.php?id=9656124
-带您进入安琪儿的羽翼的动漫小屋,http://youguan.gq/douyu.php?id=9388783
-补番推荐、动漫吐槽！老二次元了！,http://youguan.gq/douyu.php?id=9272043
-带您进入潇湘公子的动漫小屋,http://youguan.gq/douyu.php?id=9535657
-CYN大帅笔的直播间,http://youguan.gq/douyu.php?id=9718700
-带您进入忆昔的动漫小屋,http://youguan.gq/douyu.php?id=9455518
-锋哥聊商机的直播间,http://youguan.gq/douyu.php?id=9472141
-沙雕番推荐，无聊你就来看,http://youguan.gq/douyu.php?id=8859276
-带您走进心叽酱动漫的小屋,http://youguan.gq/douyu.php?id=9488056
-鞋迷的极致追求,http://youguan.gq/douyu.php?id=9687221
-乐儿陪你看动漫,http://youguan.gq/douyu.php?id=8221699
-祝各位如虎添翼,http://youguan.gq/douyu.php?id=9055742
-电视这个圈儿的直播间,http://youguan.gq/douyu.php?id=9425669
-耗子男人爆炸帅,http://youguan.gq/douyu.php?id=1557288
-柠柠柠萌菌的直播间,http://youguan.gq/douyu.php?id=9720895
-带您进入十三的艺术世界,http://youguan.gq/douyu.php?id=9498317
-立秋动画的直播间,http://youguan.gq/douyu.php?id=10351891
-公司生活,http://youguan.gq/douyu.php?id=419987
-风影无涯看动漫,http://youguan.gq/douyu.php?id=9380764
-记录越野行程,http://youguan.gq/douyu.php?id=1844872
-搞搞小毛线的直播间,http://youguan.gq/douyu.php?id=8978619
-7152289的直播间,http://youguan.gq/douyu.php?id=7152289
-喜欢点关住。,http://youguan.gq/douyu.php?id=7678309
-妈见打ovo的直播间,http://youguan.gq/douyu.php?id=9413151
-TFBOYS饭团官博的直播间,http://youguan.gq/douyu.php?id=9565765
-超燃超治愈超励志短片：你是最棒的！,http://youguan.gq/douyu.php?id=8700367
-实时取款机,http://youguan.gq/douyu.php?id=8546002
-白色的天空白银黄金钻石还没好还需要支援,http://youguan.gq/douyu.php?id=8859363
-曾小贤贤#521,http://youguan.gq/douyu.php?id=10760129
-宫崎骏的奇思妙想,http://youguan.gq/douyu.php?id=10760374
-小李的一天,http://youguan.gq/douyu.php?id=10760005
-九字路口24111的直播间,http://youguan.gq/douyu.php?id=10760543
-【时尚频道】,http://youguan.gq/douyu.php?id=9497397
-GoFighting1314的直播间,http://youguan.gq/douyu.php?id=10759845
-冲上云霄第一部,http://youguan.gq/douyu.php?id=10466019
-某某阿某某的直播间,http://youguan.gq/douyu.php?id=9685035
-今天几点打本,http://youguan.gq/douyu.php?id=487588
+斗鱼电影168,http://epg.112114.xyz/douyu/6861249
 
 央视,#genre#
 CCTV1,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
@@ -6720,115 +4904,127 @@ CNA(1080p),https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebb
 越南_Cbeebies少儿,https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8?zshijd
 
 埋堆堆,#genre#
-埋堆堆1,http://youguan.gq/huya.php?id=23749096
-埋堆堆2,http://youguan.gq/huya.php?id=23735126
-埋堆堆3,http://youguan.gq/huya.php?id=23865152
-埋堆堆4,http://youguan.gq/huya.php?id=23903196
-埋堆堆5,http://youguan.gq/huya.php?id=23740156
-埋堆堆6,http://youguan.gq/huya.php?id=23728660
-埋堆堆7,http://youguan.gq/huya.php?id=23735153
-埋堆堆8,http://youguan.gq/huya.php?id=23865058
-埋堆堆9,http://youguan.gq/huya.php?id=23734183
-埋堆堆10,http://youguan.gq/huya.php?id=23749068
-埋堆堆11,http://youguan.gq/huya.php?id=23865036
-埋堆堆12,http://youguan.gq/huya.php?id=23740162
-埋堆堆13,http://youguan.gq/huya.php?id=23829474
-埋堆堆14,http://youguan.gq/huya.php?id=23863833
-埋堆堆15,http://youguan.gq/huya.php?id=23903106
-埋堆堆16,http://youguan.gq/huya.php?id=23865025
-埋堆堆17,http://youguan.gq/huya.php?id=23728689
-埋堆堆18,http://youguan.gq/huya.php?id=23824171
-埋堆堆19,http://youguan.gq/huya.php?id=23860057
-埋堆堆20,http://youguan.gq/huya.php?id=23865072
-埋堆堆21,http://youguan.gq/huya.php?id=23734176
-埋堆堆22,http://youguan.gq/huya.php?id=23728651
-埋堆堆23,http://youguan.gq/huya.php?id=23734246
-埋堆堆24,http://youguan.gq/huya.php?id=23865179
-埋堆堆25,http://youguan.gq/huya.php?id=23734196
-埋堆堆26,http://youguan.gq/huya.php?id=23734211
-埋堆堆27,http://youguan.gq/huya.php?id=23865086
-埋堆堆28,http://youguan.gq/huya.php?id=23863796
-埋堆堆29,http://youguan.gq/huya.php?id=23863822
-埋堆堆30,http://youguan.gq/huya.php?id=23749083
-埋堆堆31,http://youguan.gq/huya.php?id=23734243
-埋堆堆32,http://youguan.gq/huya.php?id=23864480
-埋堆堆33,http://youguan.gq/huya.php?id=23746486
-埋堆堆34,http://youguan.gq/huya.php?id=23860049
-埋堆堆35,http://youguan.gq/huya.php?id=23749074
-埋堆堆36,http://youguan.gq/huya.php?id=23863882
-埋堆堆37,http://youguan.gq/huya.php?id=23863778
-埋堆堆38,http://youguan.gq/huya.php?id=23824164
-埋堆堆39,http://youguan.gq/huya.php?id=23829537
-埋堆堆40,http://youguan.gq/huya.php?id=23863809
-埋堆堆41,http://youguan.gq/huya.php?id=23865096
-埋堆堆42,http://youguan.gq/huya.php?id=23863804
-埋堆堆43,http://youguan.gq/huya.php?id=23728630
-埋堆堆44,http://youguan.gq/huya.php?id=23863895
-埋堆堆45,http://youguan.gq/huya.php?id=23863787
-埋堆堆46,http://youguan.gq/huya.php?id=23728637
-埋堆堆47,http://youguan.gq/huya.php?id=23865142
-埋堆堆48,http://youguan.gq/huya.php?id=23903085
-埋堆堆49,http://youguan.gq/huya.php?id=23903183
-埋堆堆50,http://youguan.gq/huya.php?id=23728647
-埋堆堆51,http://youguan.gq/huya.php?id=23746691
-埋堆堆52,http://youguan.gq/huya.php?id=23829447
-埋堆堆53,http://youguan.gq/huya.php?id=23728693
-埋堆堆54,http://youguan.gq/huya.php?id=23903130
-埋堆堆55,http://youguan.gq/huya.php?id=23734223
-埋堆堆56,http://youguan.gq/huya.php?id=23734169
-埋堆堆57,http://youguan.gq/huya.php?id=23865124
-埋堆堆58,http://youguan.gq/huya.php?id=23865186
-埋堆堆59,http://youguan.gq/huya.php?id=23902225
-埋堆堆60,http://youguan.gq/huya.php?id=23903164
-埋堆堆61,http://youguan.gq/huya.php?id=23728674
-埋堆堆62,http://youguan.gq/huya.php?id=23863818
-埋堆堆63,http://youguan.gq/huya.php?id=23865171
-埋堆堆64,http://youguan.gq/huya.php?id=23728595
-埋堆堆65,http://youguan.gq/huya.php?id=23734256
-埋堆堆66,http://youguan.gq/huya.php?id=23829543
+埋堆堆1,http://txtest-xp2p.p2p.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.xs
+埋堆堆2,http://txtest-xp2p.p2p.huya.com/src/1199563477578-1199563477578-5444309108574388224-2399127078612-10057-A-0-1.xs
+埋堆堆3,http://txtest-xp2p.p2p.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.xs
+埋堆堆4,http://txtest-xp2p.p2p.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.xs
+埋堆堆5,http://txtest-xp2p.p2p.huya.com/src/1199563995872-1199563995872-5446535164354101248-2399128115200-10057-A-0-1.xs
+埋堆堆6,http://txtest-xp2p.p2p.huya.com/src/1199563484986-1199563484986-5444340925692116992-2399127093428-10057-A-0-1.xs
+埋堆堆7,http://txtest-xp2p.p2p.huya.com/src/1199561181108-1199561181108-5434445845028143104-2399122485672-10057-A-0-1.xs
+埋堆堆8,http://txtest-xp2p.p2p.huya.com/src/1199563481163-1199563481163-5444324506032144384-2399127085782-10057-A-0-1.xs
+埋堆堆9,http://txtest-xp2p.p2p.huya.com/src/1199563491091-1199563491091-5444367146467459072-2399127105638-10057-A-0-1.xs
+埋堆堆10,http://txtest-xp2p.p2p.huya.com/src/1199563479466-1199563479466-5444317217472643072-2399127082388-10057-A-0-1.xs
+埋堆堆11,http://txtest-xp2p.p2p.huya.com/src/1199561179151-1199561179151-5434437439777144832-2399122481758-10057-A-0-1.xs
+埋堆堆12,http://txtest-xp2p.p2p.huya.com/src/1199561223711-1199561223711-5434628823519854592-2399122570878-10057-A-0-1.xs
+埋堆堆13,http://txtest-xp2p.p2p.huya.com/src/1199561223732-1199561223732-5434628913714167808-2399122570920-10057-A-0-1.xs
+埋堆堆14,http://txtest-xp2p.p2p.huya.com/src/1199561245453-1199561245453-5434722204698804224-2399122614362-10057-A-0-1.xs
+埋堆堆15,http://txtest-xp2p.p2p.huya.com/src/1199563479551-1199563479551-5444317582544863232-2399127082558-10057-A-0-1.xs
+埋堆堆16,http://txtest-xp2p.p2p.huya.com/src/1199564003640-1199564003640-5446568527660056576-2399128130736-10057-A-0-1.xs
+埋堆堆17,http://txtest-xp2p.p2p.huya.com/src/1199561217760-1199561217760-5434603264169476096-2399122558976-10057-A-0-1.xs
+埋堆堆18,http://txtest-xp2p.p2p.huya.com/src/1199563995848-1199563995848-5446535061274886144-2399128115152-10057-A-0-1.xs
+埋堆堆19,http://txtest-xp2p.p2p.huya.com/src/1199563478721-1199563478721-5444314017722007552-2399127080898-10057-A-0-1.xs
+埋堆堆20,http://txtest-xp2p.p2p.huya.com/src/1199561185548-1199561185548-5434464914682937344-2399122494552-10057-A-0-1.xs
+埋堆堆21,http://txtest-xp2p.p2p.huya.com/src/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.xs
+埋堆堆22,http://txtest-xp2p.p2p.huya.com/src/1199563478540-1199563478540-5444313240332926976-2399127080536-10057-A-0-1.xs
+埋堆堆23,http://txtest-xp2p.p2p.huya.com/src/1199563493375-1199563493375-5444376956172763136-2399127110206-10057-A-0-1.xs
+埋堆堆24,http://txtest-xp2p.p2p.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.xs
+埋堆堆25,http://txtest-xp2p.p2p.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.xs
+埋堆堆26,http://txtest-xp2p.p2p.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.xs
+埋堆堆27,http://txtest-xp2p.p2p.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.xs
+埋堆堆28,http://txtest-xp2p.p2p.huya.com/src/1199561462555-1199561462555-5435654650688700416-2399123048566-10057-A-0-1.xs
+埋堆堆29,http://txtest-xp2p.p2p.huya.com/src/1199563479615-1199563479615-5444317857422770176-2399127082686-10057-A-0-1.xs
+埋堆堆30,http://txtest-xp2p.p2p.huya.com/src/1199561277686-1199561277686-5434860644379656192-2399122678828-10057-A-0-1.xs
+埋堆堆31,http://txtest-xp2p.p2p.huya.com/src/1199561391895-1199561391895-5435351168299565056-2399122907246-10057-A-0-1.xs
+埋堆堆32,http://txtest-xp2p.p2p.huya.com/src/1199563491137-1199563491137-5444367344035954688-2399127105730-10057-A-0-1.xs
+埋堆堆33,http://txtest-xp2p.p2p.huya.com/src/1199563459301-1199563459301-5444230609457119232-2399127042058-10057-A-0-1.xs
+埋堆堆35,http://txtest-xp2p.p2p.huya.com/src/1199561277694-1199561277694-5434860678739394560-2399122678844-10057-A-0-1.xs
+埋堆堆36,http://txtest-xp2p.p2p.huya.com/src/1199561178473-1199561178473-5434434527789318144-2399122480402-10057-A-0-1.xs
+埋堆堆37,http://txtest-xp2p.p2p.huya.com/src/1199564000752-1199564000752-5446556123794505728-2399128124960-10057-A-0-1.xs
+埋堆堆38,http://txtest-xp2p.p2p.huya.com/src/1199561179116-1199561179116-5434437289453289472-2399122481688-10057-A-0-1.xs
+埋堆堆39,http://txtest-xp2p.p2p.huya.com/src/1199561276781-1199561276781-5434856757434253312-2399122677018-10057-A-0-1.xs
+埋堆堆40,http://txtest-xp2p.p2p.huya.com/src/1199563483195-1199563483195-5444333233405689856-2399127089846-10057-A-0-1.xs
+埋堆堆41,http://txtest-xp2p.p2p.huya.com/src/1199561240999-1199561240999-5434703074914467840-2399122605454-10057-A-0-1.xs
+埋堆堆42,http://txtest-xp2p.p2p.huya.com/src/1199561276760-1199561276760-5434856667239940096-2399122676976-10057-A-0-1.xs
+埋堆堆43,http://txtest-xp2p.p2p.huya.com/src/1199564061580-1199564061580-5446817378065186816-2399128246616-10057-A-0-1.xs
+埋堆堆44,http://txtest-xp2p.p2p.huya.com/src/1199561241049-1199561241049-5434703289662832640-2399122605554-10057-A-0-1.xs
+埋堆堆45,http://txtest-xp2p.p2p.huya.com/src/1199561218716-1199561218716-5434607370158211072-2399122560888-10057-A-0-1.xs
+埋堆堆46,http://txtest-xp2p.p2p.huya.com/src/1199563489752-1199563489752-5444361395506249728-2399127102960-10057-A-0-1.xs
+埋堆堆47,http://txtest-xp2p.p2p.huya.com/src/1199561244004-1199561244004-5434715981291192320-2399122611464-10057-A-0-1.xs
+埋堆堆48,http://txtest-xp2p.p2p.huya.com/src/1199564060588-1199564060588-5446813117457629184-2399128244632-10057-A-0-1.xs
+埋堆堆49,http://txtest-xp2p.p2p.huya.com/src/1199563481280-1199563481280-5444325008543318016-2399127086016-10057-A-0-1.xs
+埋堆堆50,http://txtest-xp2p.p2p.huya.com/src/1199561153241-1199561153241-5434326157174505472-2399122429938-10057-A-0-1.xs
+埋堆堆51,http://txtest-xp2p.p2p.huya.com/src/1199561277724-1199561277724-5434860807588413440-2399122678904-10057-A-0-1.xs
+埋堆堆52,http://txtest-xp2p.p2p.huya.com/src/1199561463578-1199561463578-5435659044440244224-2399123050612-10057-A-0-1.xs
+埋堆堆53,http://txtest-xp2p.p2p.huya.com/src/1199564067003-1199564067003-5446840669672833024-2399128257462-10057-A-0-1.xs
+埋堆堆54,http://txtest-xp2p.p2p.huya.com/src/1199563478867-1199563478867-5444314644787232768-2399127081190-10057-A-0-1.xs
+埋堆堆55,http://txtest-xp2p.p2p.huya.com/src/1199561219773-1199561219773-5434611909938642944-2399122563002-10057-A-0-1.xs
+埋堆堆56,http://txtest-xp2p.p2p.huya.com/src/1199563486009-1199563486009-5444345319443660800-2399127095474-10057-A-0-1.xs
+埋堆堆57,http://txtest-xp2p.p2p.huya.com/src/1199561276763-1199561276763-5434856680124841984-2399122676982-10057-A-0-1.xs
+埋堆堆58,http://txtest-xp2p.p2p.huya.com/src/1199561176260-1199561176260-5434425023026692096-2399122475976-10057-A-0-1.xs 
+埋堆堆61,http://txtest-xp2p.p2p.huya.com/src/1199561153167-1199561153167-5434325839346925568-2399122429790-10057-A-0-1.xs
+埋堆堆65,http://txtest-xp2p.p2p.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.xs
+埋堆堆66,http://txtest-xp2p.p2p.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.xs
 
 🚗🚒咪咕,#genre#
-怀旧老片,http://youguan.gq/migu.php?id=hjlp
- 每日科幻电影,http://youguan.gq/migu.php?id=mrkhdy
- 神探狄仁杰,http://youguan.gq/migu.php?id=stdrj
- 金庸频道,http://youguan.gq/migu.php?id=jypd
- 杨幂影院,http://youguan.gq/migu.php?id=ymyy
- 深夜失眠剧场,http://youguan.gq/migu.php?id=sysmjc
- 高清大片,http://youguan.gq/migu.php?id=gqdp
- 盗墓方法论,http://youguan.gq/migu.php?id=dmffl
- 追剧少女,http://youguan.gq/migu.php?id=jzsn
- 周星驰影院,http://youguan.gq/migu.php?id=zxcyy
- 高能烧脑时刻,http://youguan.gq/migu.php?id=gnsnsk
- 赛事最经典,http://youguan.gq/migu.php?id=sszjd
- 新片放映厅,http://youguan.gq/migu.php?id=xpfyt
- 热剧联播,http://youguan.gq/migu.php?id=rjlb
- 爱情公寓,http://youguan.gq/migu.php?id=aqgy
- 黄金剧场,http://youguan.gq/migu.php?id=hjinjc
- 云上电影院,http://youguan.gq/migu.php?id=ysdyy
- 军旅剧场,http://youguan.gq/migu.php?id=jljc
- 少林剧场,http://youguan.gq/migu.php?id=sljc
- 吴京作品集,http://youguan.gq/migu.php?id=wjzpj
- 经典贺岁片,http://youguan.gq/migu.php?id=jdhsp
- 郭富城影院,http://youguan.gq/migu.php?id=gfcyy
- 喜剧联盟,http://youguan.gq/migu.php?id=xjlm
- 假期剧场,http://youguan.gq/migu.php?id=jqjc
- 古天乐影院,http://youguan.gq/migu.php?id=gtlyy
- 红色谍战剧场,http://youguan.gq/migu.php?id=hsdzjc
- 武侠剧场,http://youguan.gq/migu.php?id=wxjc
- 试胆大会,http://youguan.gq/migu.php?id=sddh
- TVB剧场,http://youguan.gq/migu.php?id=tvbjc
- TVB剧场2,http://youguan.gq/migu.php?id=tvbjc2
- 周润发影院,http://youguan.gq/migu.php?id=zrfyy
- 僵尸剧场,http://youguan.gq/migu.php?id=jsjc
- 经典影视速看,http://youguan.gq/migu.php?id=jdyssk
- 高分影院,http://youguan.gq/migu.php?id=gfyy
- 张国荣影院,http://youguan.gq/migu.php?id=zgryy
- 张国荣影院2,http://youguan.gq/migu.php?id=zgryy2
- 刘德华影院,http://youguan.gq/migu.php?id=ldhyy
- 古龙作品集,http://youguan.gq/migu.php?id=glzpj
- 刘亦菲影视展播,http://youguan.gq/migu.php?id=lyfys
- 成龙作品集,http://youguan.gq/migu.php?id=clzpj
- 葛优作品集,http://youguan.gq/migu.php?id=gyzpj
+刘亦菲,http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8?zmid
+古天乐影院,http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8?zmid
+成龙作品集,http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8?zmid
+郭富城影院,http://117.148.179.177/PLTV/88888888/224/3221231688/index.m3u8?zmid
+张国荣影院,http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8?zmid
+周润发影院,http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8?zmid
+周星驰影院,http://117.148.179.157/PLTV/88888888/224/3221231562/index.m3u8?zmid
+葛优作品集,http://117.148.179.139/PLTV/88888888/224/3221231754/index.m3u8?zmid
+刘德华影院,http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8?zmid
+TVB剧场,http://117.148.179.154/PLTV/88888888/224/3221231733/index.m3u8?zmid
+金庸频道,http://117.148.179.139/PLTV/88888888/224/3221231477/index.m3u8?zmid
+每日科幻电影,http://117.148.179.154/PLTV/88888888/224/3221231568/index.m3u8?zmid
+云上电影院,http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8?zmid
+僵尸剧场,http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8?zmid
+新片放映厅,http://117.148.179.167/PLTV/88888888/224/3221231640/index.m3u8?zmid
+怀旧老片,http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8?zmid
+盗墓方法论,http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8?zmid
+午夜失眠剧场,http://117.148.179.154/PLTV/88888888/224/3221231516/index.m3u8?zmid
+试胆大会,http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8?zmid
+高能烧脑时刻,http://117.148.179.167/PLTV/88888888/224/3221231504/index.m3u8?zmid
+杨幂作品集,http://117.148.179.154/PLTV/88888888/224/3221231556/index.m3u8?zmid
+爱情公寓,http://117.148.179.165/PLTV/88888888/224/3221231583/index.m3u8?zmid
+4K剧场,http://117.148.179.167/PLTV/88888888/224/3221231624/index.m3u8?zmid
+军旅剧场,http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8?zmid
+少林剧场,http://117.148.179.165/PLTV/88888888/224/3221231628/index.m3u8?zmid
+红色谍战剧场,http://117.148.179.164/PLTV/88888888/224/3221231627/index.m3u8?zmid
+神探狄仁杰,http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8?zmid
+黄金剧场,http://117.148.179.167/PLTV/88888888/224/3221231637/index.m3u8?zmid
+追剧少女,http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8?zmid
+经典贺岁片,http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8?zmid
+每日荐影,http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8?zmid
+武侠剧场,http://117.148.179.165/PLTV/88888888/224/3221231763/index.m3u8?zmid
+喜剧联盟,http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8?zmid
+4K剧场,http://117.148.179.154/PLTV/88888888/224/3221231624/index.m3u8?zmid
+周星驰,http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112/zmid
+成龙电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/707671890/zmid
+张国荣电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526/zmid
+古天乐电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198610/zmid
+刘德华电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648/zmid
+周润发影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639526984/zmid
+刘亦菲,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528386/zmid
+古龙作品集,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528313/zmid
+经典影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198751/zmid
+新片放映厅,http://112.74.200.9:88/tv000000/m3u8.php?/migu/619495952/zmid
+高分影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198191/zmid
+欢笑剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/623674859/zmid
+盗墓方法论,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625525181/zmid
+试胆大会,http://112.74.200.9:88/tv000000/m3u8.php?/migu/637483721/zmid
+咪咪云上电影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625703337/zmid
+恶作剧 牛人,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528230/zmid
+咪咪暑期剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198692/zmid
+黄金剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625155140/zmid
+军旅剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625643517/zmid
+少林剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625526423/zmid
+高清大片,http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943678/zmid
+热剧联播,http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943613/zmid
+深夜失眠剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625759558/zmid
+神探狄仁杰,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625574493/zmid
+经典贺岁片,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774662/zmid
 健身,#genre#
 灵巧的土拨鼠+[高阶]强化马甲线+40X6组,http://111.62.156.15/tx.flv.huya.com/src/1099531627842-1099531627842-85899629387841536-2199063379140-10057-A-0-1.flv?wsSecret=c3fed3bfc1f9f7668aa06bcc54f7ae23&wsTime=6283ad92&u=0&seqid=16527104190035010&ctype=tars_mp&fs=bgct&t=102
 febian冷静+[初阶]15分钟腹臀激活+·+3...,http://111.62.156.15/tx.flv.huya.com/src/1099531627834-1099531627834-85899595028103168-2199063379124-10057-A-0-1.flv?wsSecret=6d10818391515dc95665cdd6d0403ebc&wsTime=6283ada3&u=0&seqid=16527104351288468&ctype=tars_mp&fs=bgct&t=102
