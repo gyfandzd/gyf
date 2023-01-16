@@ -22,7 +22,7 @@
 {key:'csp_Lgyy',name:'🐞蓝光影院',type:3,api:'csp_Lgyy',searchable:1,quickSearch:1,filterable:1,jar:'https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JAR/cs.jar'}, 
 {key:'csp_Nmys',name:'🐞农民',type:3,api:'csp_Nmys',searchable:1,quickSearch:1,filterable:1,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/8gl6nas9.json'},
 {key:'csp_Dy1010',name:'🐞双十',type:3,api:'csp_Dy1010',searchable:1,quickSearch:1,filterable:1,jar:'https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JAR/Yoursmile.jar'},
-{key:'csp_Tkys',name:'🐞天空影视',type:3,api:'csp_Tkys',searchable:1,quickSearch:1,filterable:1,,jar:'https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JAR/Yoursmile.jar'},
+{key:'csp_Tkys',name:'🐞天空影视',type:3,api:'csp_Tkys',searchable:1,quickSearch:1,filterable:1,jar:'https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JAR/Yoursmile.jar'},
 //{"key":"csp_KanSJ","name":"🐞看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 //{"key":"csp_ZJMiao","name":"🐞追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {key:'Tian',name:'🐞天天',type:'3',api:'csp_Dora',searchable:'1',quickSearch:'1',filterable:'1',ext:'bdc1c75081e5e477189a463baa47e392',jar:'https://stevenfang.github.io/cs.jar;md5;7573e5dee052b6b1661a0bc400f190cc'},
