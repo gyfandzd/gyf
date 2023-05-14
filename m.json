@@ -46,7 +46,7 @@
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Smdyy","name":"🦄神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,jar:'https://ghproxy.net/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar'},
 {"key":"csp_Auete" ,"name":"🐼Auete",type:'3',api:'csp_Dora',searchable:'1',quickSearch:'1',filterable:'1',jar:'https://ghproxy.net/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar'},
-{"key":"AppTT","name":"🗺️图图","type":3,"api":"csp_Dora","jar"net/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;eb433f3b00e991e6ba6509cffc99672c","ext":"http://154.39.64.151:3434/$$$dlJYWW16R0IqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbm16R0JiKnpYUCNWWg=="},
+{"key":"AppTT","name":"🗺️图图","type":3,"api":"csp_Dora","jar":"https://ghproxy.net/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;eb433f3b00e991e6ba6509cffc99672c","ext":"http://154.39.64.151:3434/$$$dlJYWW16R0IqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbm16R0JiKnpYUCNWWg=="},
 //{"key":"csp_SP293","name":"🌊293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Xxys","name":"🐨小熊TV","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"PQ_诺讯","name":"🛎影视┃诺讯影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext": "http://52bsj.vip:81/api/v3/file/get/61832/%E8%AF%BA%E8%AE%AF%E5%BD%B1%E8%A7%86%28xBPQ%29.json?sign=wIeHY0ecLWBM8KDJXhgrJo_j044uEzz2z6IZtCeR00I%3D%3A0","jar": "http://52bsj.vip:81/api/v3/file/get/61833/xBPQ_1106.jar?sign=OVzxP6WlxeCthygathb2n4nXosg5HkE6NM9vkf3IFVk%3D%3A0"},
