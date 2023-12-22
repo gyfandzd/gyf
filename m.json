@@ -1,6 +1,6 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://tv.5ye.cc/jar/tvbox.txt;md5;e9e8d6799fa76cb4f66777b84f8c9d02",
+"spider":"https://ghproxy.net/https://raw.githubusercontent.com/gyfandzd/gyf/main/sub/jar/tvbox.jar",
 "sites": [
 {"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$关"},
       {"key":"YGP","name":"🚀叨观荐影┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
