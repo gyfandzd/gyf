@@ -3,6 +3,18 @@
 "spider":"https://ghproxy.net/https://raw.githubusercontent.com/2hacc/TVBox/main/jar/tvbox.txt",
 "sites": [
       {"key":"玩偶哥","name":"玩偶哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"},
+      {
+            "key": "csp_Panda_玩偶哥哥",
+            "name": "👲┃玩偶┃影视",
+            "api": "csp_Panda",
+            "type": 3,
+            "searchable": 1,
+            "playerType": 2,
+            "timeout": 30,
+            "changeable": 0,
+            "jar":'https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/%E8%82%A5%E7%8C%AB/spider.jar',
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/%E8%82%A5%E7%8C%AB//json/玩偶哥哥.json"
+        },
       {"key":"YGP","name":"🚀叨观荐影┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
       {"key":"csp_Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
     {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"},
