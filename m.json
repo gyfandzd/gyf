@@ -22,7 +22,7 @@
             "timeout": 30,
             "changeable": 0,
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/肥猫//json/玩偶表哥.json",
-            jar:'https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/肥猫/spider.jar'    
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/肥猫/spider.jar"    
         },
       {"key":"YGP","name":"🚀叨观荐影┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
       {"key":"csp_Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
