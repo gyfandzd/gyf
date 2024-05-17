@@ -300,8 +300,7 @@
             "api": "csp_YCyz",
             "timeout": 15,
             "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
+            "quickSearch": 1
         },
         {
             "key": "南瓜",
@@ -311,8 +310,7 @@
             "timeout": 15,
             "playerType": 2,
             "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
+            "quickSearch": 1
         },
         {
             "key": "糯米",
@@ -322,7 +320,6 @@
             "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/饭太硬/json/nmys.json"
         },
         {
@@ -333,7 +330,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0
 	   
         },
         {
@@ -345,7 +341,6 @@
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
             "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
         },
         {
@@ -365,9 +360,8 @@
             "playerType": "2",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
         },
-    {"key":"csp_Zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzj.pro/"},
+    {"key":"csp_Zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch","ext":"https://www.zxzj.pro/"},
 {"key":"Sp_速优","name":"🐞速优影视","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","电影解说"]},
 
 {
