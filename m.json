@@ -228,6 +228,52 @@
                 "分类": "电影$1#连续剧$2#综艺$3#动漫$4#记录片$5#Netflix$20"
             }
         },
+	 {
+            "key": "nangua",
+            "name": "🎃┃南瓜┃影视",
+            "type": 3,
+            "playerType": "2",
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/南瓜.js"
+        },
+	 {
+            "key": "FreeOK",
+            "name": "️️👌┃Fre┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/FreeOK.js"
+        },
+	{
+            "key": "saohuo",
+            "name": " 👗┃骚火┃影视",
+            "type": 3,
+            "playerType": "2",
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/骚火.js"
+        },
+        {
+            "key": "爱看影视",
+            "name": "❤┃爱看┃影视",
+            "type": 3,
+            "playerType": "2",
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/爱看.js"
+        },
+        {
+            "key": "云播影视",
+            "name": "☁️┃云播┃影视",
+            "type": 3,
+            "playerType": "2",
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/TVB云播.js"
+        },
+        {
+            "key": "小蚂蚁",
+            "name": "🐜┃蚂蚁┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/小蚂蚁2.js"
+        },
         {
             "key": "csp_LIBVIO",
             "name": "🍒┃荔波┃影视",
@@ -266,7 +312,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-		 "ext":"https://ghproxy.com/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/饭太硬/spider.jar"
+            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/饭太硬/spider.jar"
         },
         {
             "key": "南瓜",
@@ -278,7 +324,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-		 "ext":"https://ghproxy.com/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/饭太硬/spider.jar"
+	    "ext":"https://ghproxy.com/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/饭太硬/spider.jar"
         },
         {
             "key": "糯米",
@@ -290,7 +336,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "./json/nmys.json",
-		 "ext":"https://ghproxy.com/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/饭太硬/spider.jar"
+	    "ext":"https://ghproxy.com/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/饭太硬/spider.jar"
         },
         {
             "key": "小点",
@@ -301,7 +347,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-		 "ext":"https://ghproxy.com/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/饭太硬/spider.jar"
+	    "ext":"https://ghproxy.com/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/饭太硬/spider.jar"
         },
         {
             "key": "热播",
@@ -314,7 +360,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "AO7TcBkd8I/B5wQc4Qma+pU=",
-		 "ext":"https://ghproxy.com/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/饭太硬/spider.jar"
+	    "ext":"https://ghproxy.com/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/饭太硬/spider.jar"
         },
         {
             "key": "萌米",
@@ -324,7 +370,7 @@
             "timeout": 15,
             "playerType": 1,
             "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
-		 "ext":"https://ghproxy.com/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/饭太硬/spider.jar"
+	    "ext":"https://ghproxy.com/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/饭太硬/spider.jar"
         },
         {
             "key": "低端",
@@ -335,7 +381,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-		 "ext":"https://ghproxy.com/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/饭太硬/spider.jar"
+	    "ext":"https://ghproxy.com/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/饭太硬/spider.jar"
         },
     {"key":"csp_Zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzj.pro/"},
 {"key":"Sp_速优","name":"🐞速优影视","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","电影解说"]},
