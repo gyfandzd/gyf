@@ -8,7 +8,7 @@
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
-	    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/gyfandzd/gyf/main/12.jar"
+	    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/aliluya1977/PizazzGYTVBox/main/spider.jar"
         },
 	{
             "key": "云盘登录",
@@ -20,7 +20,7 @@
             "filterable": 0,
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/TVBox/token.txt",
-	"jar":"https://ghproxy.net/https://raw.githubusercontent.com/gyfandzd/gyf/main/12.jar"	
+	"jar":"https://ghproxy.net/https://raw.githubusercontent.com/aliluya1977/PizazzGYTVBox/main/spider.jar"	
         },
 	{
             "key": "玩偶哥哥",
@@ -160,7 +160,7 @@
             "api": "csp_WexNmys",
             "searchable": 1,
             "changeable": 1,
-            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/gyfandzd/gyf/main/12.jar"
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/aliluya1977/PizazzGYTVBox/main/spider.jar"
         },
         {
             "key": "csp_Auete",
