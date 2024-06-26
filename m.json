@@ -2,7 +2,71 @@
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "spider":"https://ghproxy.net/https://raw.githubusercontent.com/gyfandzd/gyf/main/sub/jar/spider.jar",
 "sites": [
-     {"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706645996429/fan.txt","ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
+	{
+            "key": "豆瓣",
+            "name": "豆瓣",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0,
+	    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/gyfandzd/gyf/main/12.jar"
+        },
+	{
+            "key": "云盘登录",
+            "name": "云盘登录",
+            "type": 3,
+            "api": "csp_AliYunPan",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/TVBox/token.txt",
+	"jar":"https://ghproxy.net/https://raw.githubusercontent.com/gyfandzd/gyf/main/12.jar"	
+        },
+	{
+            "key": "玩偶哥哥",
+            "name": "云盘｜玩偶",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/aliluya1977/PizazzGYTVBox/main/XYQHiker/玩偶哥哥.json",
+		"jar":"https://ghproxy.net/https://raw.githubusercontent.com/gyfandzd/gyf/main/12.jar"
+        },
+        {
+            "key": "天天开心",
+            "name": "云盘｜开心",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/aliluya1977/PizazzGYTVBox/main/XYQHiker/天天开心.json",
+		"jar":"https://ghproxy.net/https://raw.githubusercontent.com/gyfandzd/gyf/main/12.jar"
+        },
+        {
+            "key": "土豆网盘",
+            "name": "云盘｜土豆",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/aliluya1977/PizazzGYTVBox/main/XYQHiker/土豆网盘.json",
+		"jar":"https://ghproxy.net/https://raw.githubusercontent.com/gyfandzd/gyf/main/12.jar"
+        },
+        {
+            "key": "多多影音",
+            "name": "云盘｜多多",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/aliluya1977/PizazzGYTVBox/main/XYQHiker/多多影音.json",
+	    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/gyfandzd/gyf/main/12.jar"
+		},
+	{"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706645996429/fan.txt","ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
       {"key":"YGP","name":"🚀叨观荐影┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
      {
             "key": "新视觉",
@@ -90,15 +154,13 @@
             "ext": "http://rzys.xyz/"
         },
         {
-            "key": "csp_Nmys",
-            "name": "🌾┃农民┃影视",
+            "key": "农民影视",
+            "name": "农民影视",
             "type": 3,
-            "api": "csp_Nmys",
-            "playerType": "1",
+            "api": "csp_WexNmys",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://v.nmvod.cn"
+            "changeable": 1,
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/gyfandzd/gyf/main/12.jar"
         },
         {
             "key": "csp_Auete",
