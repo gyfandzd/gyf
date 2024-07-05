@@ -11,14 +11,6 @@
 	    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/PizazzGYTVBox/main/spider.jar"
         },
 	{
-            "key": "豆瓣",
-            "name": "🐼┃豆瓣┃预告",
-            "type": 3,
-            "api": "csp_YGP",
-            "playerType": 2,
-            "searchable": 0
-        },
-	{
             "key": "云盘登录",
             "name": "云盘登录",
             "type": 3,
@@ -97,7 +89,8 @@
             "api": "csp_Duopan",
             "playerType": 2,
             "filterable": 1,
-            "ext": "https://duopan.fun/"
+            "ext": "https://duopan.fun/",
+	    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gyfandzd/my-TVBOX/main/tvboxqq/肥猫/spider.jar"
         },
 	
       {"key":"YGP","name":"🚀叨观荐影┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
