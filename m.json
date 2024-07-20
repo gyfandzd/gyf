@@ -76,8 +76,7 @@
             "changeable": 0,
 	    "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/饭太硬/spider.jar",
             "ext": {
-                "aliToken": "tvfan/token.txt",
-                "quarkCookie": "tvfan/cookie.txt",
+                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
                 "from": "4k|auto|fhd",
                 "siteUrl": "https://www.wogg.link/",
                 "danMu": "弹"}
