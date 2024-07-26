@@ -1,6 +1,6 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gyfandzd/gyf/main/sub/jar/spider.jar",
+"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/肥猫/spider.jar",
 "sites": [
 	{
             "key": "豆瓣",
@@ -100,6 +100,16 @@
             "type": 3,
             "playerType": "2",
             "api": "csp_Juqq"
+        },
+	{
+            "key": "可可",
+            "name": " 😝┃可可┃影视",
+            "type": 3,
+            "playerType": "2",
+            "api": "csp_Keke",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "csp_LiteApple",
