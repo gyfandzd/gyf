@@ -3342,6 +3342,135 @@ Tastemade Travel (720p),https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 Comedy Channel (1080p),https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 30A Investment Pitch (720p),https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 Ameritrade (1080p) [Not 24/7],https://tdameritrade-vizio.amagi.tv/playlist.m3u8
+国外体育,#genre#
+Šport (1080p),http://88.212.7.10/live/test_rtvs_sport_hevc/playlist.m3u8
+
+AfroSport Nigeria,https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
+
+Awapa Sports TV (1080p) [Not 24/7],https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
+
+CAF TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCr5K057x3mHroPHsNk9OiwA.m3u8
+
+CampusLore (720p),https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
+
+Canal 11 (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCMfEEaNYYX5w6nbvccTCHhg.m3u8
+
+Canal do Inter (720p) [Not 24/7],https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+
+Canal+ Sport,http://78.130.250.2:8023/play/a02v/index.m3u8
+
+CazéTV (1080p) [Geo-blocked],https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
+
+Combate Global,https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+
+ČT Sport (720p),http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8
+
+DD Sports (576p),http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+
+Đồng Nai 2 (576p) [Not 24/7],http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
+
+DSTV (720p),http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
+
+Fight Network (1080p),https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+
+FightBox,http://stream01.vnet.am/Fightbox/mono.m3u8
+
+FTV (720p),https://master.tucableip.com/ftv/index.m3u8
+
+FUEL TV (1080p),https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8
+
+Gaora Sports (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+
+Golf Network (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
+
+IMPACT Wrestling (1080p),https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+J Sports 1 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+
+J Sports 2 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+
+J Sports 3 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+
+J Sports 4 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+
+La Redonda TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCG_S--F4wcdre2-8PG9YlhA.m3u8
+
+M-Net Sport (720p),http://ares.mnet.mk/hls/mnet-sport.m3u8
+
+Marquee Sports Network,https://marqueelive.akamaized.net/live-pz/a/hls-itc/marquee1/index.m3u8
+
+MUTV (720p),https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+One Golf (720p),http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+
+Ovacion TV (720p) [Not 24/7],http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+Pac 12 Insider (1080p),https://pac12-roku-us.amagi.tv/playlist.m3u8
+
+Racing.com (720p),https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+
+Real Madrid,https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+
+Realitatea Sportivă (720p),https://stream.realitatea.net/realitatea/sportiva_md/playlist.m3u8
+
+Red Bull TV (1080p),https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+RTA Sport (1080p),https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
+
+San Marino RTV Sport (720p),https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+
+Ski TV (1080p) [Not 24/7],https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
+
+SOS Kanal Plus (720p),https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+
+SportsGrid (1080p),https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+
+Swerve Sports (1080p),https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+
+Teledeporte (1080p) [Geo-blocked],https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
+
+Teletrak (720p),https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+
+TR Sport (480p),https://livetr.teleromagna.it/mia/live/playlist.m3u8
+
+Trace Sports Stars,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+
+Türkmenistan Sport (406p) [Not 24/7],https://alpha.tv.online.tm/hls/ch004.m3u8
+
+Unbeaten (1080p),https://unbeaten-tcl.amagi.tv/playlist.m3u8
+
+Астрахань.Ru Sport (720p),https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+
+Бокс ТВ,http://stream01.vnet.am/BoksTv/mono.m3u8
+
+Старт (1080p) [Geo-blocked],https://strm.yandex.ru/kal/start/start0.m3u8
+
+
+国外旅游,#genre#
+BamBarBia TV (720p) [Not 24/7],http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
+
+Beach TV CSULB (160p) [Not 24/7],http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
+
+Beach TV Key West & Florida Keys (720p),https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
+
+Caribbean Traveling Network (486p),https://59ef525c24caa.streamlock.net/ctn/ctn/playlist.m3u8
+
+Chile Channel (720p),https://v2.tustreaming.cl/chilechannel/index.m3u8
+
+Journy (720p),https://linear-291.frequency.stream/dist/ovationtv/291/hls/master/playlist.m3u8
+
+Love in Venice (480p),https://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8
+
+RTG (1080p) [Geo-blocked],https://strm.yandex.ru/kal/rtg/rtg0.m3u8
+
+Schladming-Dachstein TV (720p),https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+
+Teletur (1080p),https://cloudflare.streamgato.us:3227/live/teleturtvlive.m3u8
+
+TVart (1080p),https://stream.osc.bg/tvart/Stream3/playlist.m3u8
+
+Наша Сибирь (1080p) [Geo-blocked],https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+
 
 韩国,#genre#
 ABN TV (720p),https://vod2.abn.co.kr/IPHONE/abn.m3u8
