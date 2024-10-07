@@ -1,6 +1,6 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/肥猫/spider.jar",
+"spider":"https://ghp.ci/https://raw.githubusercontent.com/vbskycn/tvbox/main/jar/MY猫猫.jar",
 "sites": [
 	{
             "key": "豆瓣",
@@ -311,6 +311,27 @@
             "playerType": "2",
             "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/肥猫/api/drpy2.min.js",
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/肥猫/js/南瓜.js"
+        },
+	{
+            "key": "文采",
+            "name": "💮文采┃秒播",
+            "type": 3,
+            "api": "csp_Jpys",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+	    "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/饭太硬/spider.jar"
+        },
+        {
+            "key": "糯米",
+            "name": "🍓糯米┃秒播",
+            "type": 3,
+            "api": "csp_Nmyswv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+	    "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/饭太硬/spider.jar"
         },
 	 {
             "key": "FreeOK",
