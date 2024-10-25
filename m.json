@@ -105,7 +105,7 @@
             "name": "💖┃Ivdy┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./json/ivdy.json",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyfandzd/tvboxtg/refs/heads/main/肥猫/json/ivdy.json",
             "searchable": 0
         },
         {
