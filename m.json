@@ -1,6 +1,6 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider": "./spider.jar",
+"spider": "https://raw.githubusercontent.com/gyfandzd/tvboxtg/refs/heads/main/%E8%82%A5%E7%8C%AB/spider.jar",
 "sites": [
 	{
             "key": "豆瓣",
