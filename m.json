@@ -297,7 +297,7 @@
 	    "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/饭太硬/spider.jar"
         },
     {"key":"csp_Zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch": 1,"changeable": 1,"ext":"https://www.zxzj.pro/", "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/饭太硬/spider.jar"},
-{"key":"Sp_速优","name":"🐞速优影视","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","电影解说"]},  
+{"key":"Sp_速优","name":"🐞速优影视","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","电影解说"]}, 
     {
       "key": "鸣人资源",
       "name": "🌀鸣人采集",
@@ -761,26 +761,8 @@
             "name": "㊿天空",
             "type": 1,
             "api": "https://m3u8.tiankongapi.com/api.php/provide/vod/"
-        }，
-        {
-            "key": "csp_PTT资源",
-            "name": "csp_PTT资源",
-            "type": 3,
-            "api": "csp_PTT",
-            "jar": "https://gh.xxooo.cf//https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
-        {
-            "key": "hipy_js_采集之王[合]0",
-            "name": "采集之王[合](采集静态)",
-            "type": 3,
-            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hjdhnx/hipy-server/master/app/t4/files/drpy_libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hjdhnx/hipy-server/master/app/t4/files/drpy_js/采集之王[合].js?type=url&params=https://gh.xxooo.cf/https://raw.githubusercontent.com/hjdhnx/hipy-server/master/app/t4/files/json/采集静态.json"
-        },
-        
+         
          
 {"key":"drpy_js_豆瓣","name":"豆瓣 | 热播[js]","type":3,"api":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js","ext":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/drpy.js"},
 	{
