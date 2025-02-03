@@ -54,58 +54,55 @@
         },
 	
       {"key":"YGP","name":"🚀叨观荐影┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
-
         {
-            "key": "比特",
-            "name": "✌️️┃比特┃影视",
+            "key": "csp_Kanke",
+            "name": "🛳️┃看客┃影视",
             "type": 3,
-            "api": "csp_Bttwo"
-        },
-        {
-            "key": "csp_SuBaiBai",
-            "name": "🏳️┃素白┃影视",
-            "type": 3,
-            "api": "csp_SuBaiBai"
-        },
-        {
-            "key": "csp_Jpyy",
-            "name": "🥇️┃金牌┃影视",
-            "type": 3,
-            "api": "csp_Jpyy"
-        },
-        {
-            "key": "csp_Nkdy",
-            "name": "🏔️┃耐看┃影视",
-            "type": 3,
-            "api": "csp_Nkdy"
-        },
-	 {
-            "key": "csp_Feifys",
-            "name": "🐒️┃狒狒┃影视",
-            "type": 3,
-            "api": "csp_Feifys",
-            "playerType": 2,
-            "ext": "https://www.ffys.top"
+            "api": "csp_Kanke"
         },
         {
             "key": "csp_Qiyou",
             "name": "🥝┃奇优┃影视",
             "type": 3,
-            "api": "csp_Qiyou"
+            "api": "csp_Qiyou",
+            "ext": "http://www.dyxz2.com/"
         },
-	{
-            "key": "csp_Tvyb",
-            "name": "☁︎┃云播┃影视",
+        {
+            "key": "荐片",
+            "name": "🎬┃荐片┃影视",
+            "api": "csp_Jianpian",
             "type": 3,
-            "api": "csp_Tvyb",
+            "playerType": "2",
+            "ext": "http://api2.rinhome.com"
+        },
+        {
+            "key": "csp_Fantuan",
+            "name": "🍙┃饭团┃影视",
+            "type": 3,
+            "api": "csp_Fantuan",
+            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+            "ext": "https://www.fantuan.vip"
+        },
+        {
+            "key": "csp_Quanwk",
+            "name": "👀┃全看┃影视",
+            "type": 3,
+            "api": "csp_Quanwk",
+            "ext": "https://www.91qkw.com"
+        },
+        {
+            "key": "csp_J",
+            "name": "🌎┃饺子┃外剧",
+            "type": 3,
+            "api": "csp_Jiaozi",
             "playerType": 2
         },
-	{
+        {
             "key": "Ivdy",
             "name": "💖┃Ivdy┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://gh.api.99988866.xyz/https://raw.githubusercontent.com/gyfandzd/tvboxtg/refs/heads/main/肥猫/json/ivdy.json",
+            "ext": "https://img2.gelonghui.com/library/ea5ba-5f15b1f1-2ca0-4dda-86b4-c86954b5bd37null",
             "searchable": 0
         },
         {
@@ -116,37 +113,32 @@
             "playerType": 2
         },
         {
-            "key": "厂长",
-            "name": "📔厂长┃不卡",
+            "key": "csp_Gz360",
+            "name": "🍉┃瓜子┃影视",
             "type": 3,
-            "api": "csp_NewCz",
-            "timeout": 15,
-            "playerType": 2,
+            "api": "csp_Gz360",
+            "playerType": 2
+        },
+        {
+            "key": "csp_LiteApple",
+            "name": "🍎┃苹果┃影视",
+            "type": 3,
+            "api": "csp_LiteApple",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://czzy.top/",
-	  "jar":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/饭太硬/spider.jar"
-		},
-	
+            "filterable": 1
+        },
         {
-            "key": "csp_AppRZ",
-            "name": " 🕵┃忍者┃影视",
+            "key": "厂长",
+            "name": "🏭┃厂长┃影视",
             "type": 3,
             "playerType": "2",
-            "api": "csp_AppRZ",
-            "ext": "http://rzys.xyz/"
-        },
-        {
-            "key": "农民影视",
-            "name": "农民影视",
-            "type": 3,
-            "api": "csp_WexNmys",
+            "api": "csp_Czsapp",
             "searchable": 1,
-            "changeable": 1,
-            "jar":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/aliluya1977/PizazzGYTVBox/main/spider.jar"
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.czzyvideo.com"
         },
-       
         {
             "key": "黑狐",
             "name": "🦊┃黑狐┃影视",
