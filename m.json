@@ -24,34 +24,30 @@
         },
 	
 	{
-            "key": "玩偶哥哥",
+            "key": "玩偶",
             "name": "👽玩偶哥哥┃4K弹幕",
             "type": 3,
-            "api": "csp_WoGG",
+            "api": "csp_WoGGGuard",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-	    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/饭太硬/spider.jar",
             "ext": {
-                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
-                "from": "4k|auto|fhd",
-                "siteUrl": "https://www.wogg.link/",
-                "danMu": "弹"}
-		     },
-	{
-            "key": "csp_Duopan",
-            "name": "🖍︎┃蜡笔┃影视",
-            "type": 3,
-            "api": "csp_Duopan",
-            "filterable": 1,
-            "ext": {
-                "site_urls": [
-                    "https://duopan.fun",
-                    "http://labipan.com",
-                    "http://feimaoai.site"
-                ]
+                "Cloud-drive": "http://127.0.0.1:9978/file/TVBox/Cloud-drive.txt",
+                "from": "4k|auto",
+                "siteUrl": "https://www.wogg.com/",
+                "danMu": "弹"
             }
         },
+        {
+            "key": "YGP",
+            "name": "🚀叨观荐影┃预告片",
+            "type": 3,
+            "api": "csp_YGPGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+	
 	
 	{
             "key": "原创",
