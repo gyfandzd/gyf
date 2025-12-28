@@ -216,6 +216,207 @@
             "changeable": 1,
             "ext": "https://www.czzyvideo.com/"
         },
+	
+        {
+            "key": "csp_FeiMaoUC",
+            "name": "⚡┃闪电┃优汐",
+            "type": 3,
+            "api": "csp_Duopan",
+            "filterable": 1,
+            "ext": {
+                "site_urls": [
+                    "https://sduc.cloud/",
+                    "http://e.sduc.pro/",
+                    "http://sduc.site/"
+                ],
+                "url_key": "FeiMaoUC"
+            },
+		"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/肥猫/spider.jar"
+        },
+        {
+            "key": "csp_Duopan",
+            "name": "🖍︎┃蜡笔┃影视",
+            "type": 3,
+            "api": "csp_Duopan",
+            "filterable": 1,
+            "ext": {
+                "site_urls": [
+                    "http://xiaocgege.shop",
+                    "https://feimao666.fun",
+                    "http://feimao888.fun",
+                    "https://feimo.fun",
+                    "http://www.labi88.sbs",
+                    "http://fmao.site",
+                    "http://fmao.shop",
+                    "http://xiaocge.fun"
+                ],
+                "threadinfo": {
+                    "chunksize": 512,
+                    "threads": 16
+                },
+                "url_key": "Duopan2"
+            },
+		"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/肥猫/spider.jar"
+        },
+        {
+            "key": "csp_Netfixtv",
+            "name": "💌┃️至臻┃影视",
+            "type": 3,
+            "api": "csp_Duopan",
+            "filterable": 1,
+            "ext": {
+                "site_urls": [
+                    "http://xiaomi666.fun",
+                    "https://zhizhen1.top",
+                    "https://mihdr.top",
+                    "https://www.mihdr.top",
+                    "http://www.miqk.cc",
+                    "https://www.zhizhenpan.fun"
+                ],
+                "url_key": "Netfixtv2",
+                "threadinfo": {
+                    "chunksize": 512,
+                    "threads": 16
+                }
+            },
+		"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/肥猫/spider.jar"
+        },
+        {
+            "key": "潮流",
+            "name": "🏜┃潮流┃APP",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "ext": "http://v.rbotv.cn",
+		"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/肥猫/spider.jar"
+        },
+
+        {
+            "key": "干饭",
+            "name": "🍚┃干饭┃APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "ext": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt|staraugust123456|120",
+		"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/肥猫/spider.jar"
+        },
+        {
+            "key": "光盘",
+            "name": "📀┃光盘┃APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "ext": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json|AAdgrdghjfgswerA|120",
+		"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/肥猫/spider.jar"
+        },
+      
+
+        {
+            "key": "再来",
+            "name": "✌️┃再来┃APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://www.jumengwu.com|1f0a873caf2550a5",
+		"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/肥猫/spider.jar"
+        },
+        {
+            "key": "一碗",
+            "name": "🥣┃一碗┃APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://dy.8ttv.cn|1111111111111111",
+		"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/肥猫/spider.jar"
+        },
+        {
+            "key": "猫抓",
+            "name": "🐱┃猫抓┃APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://www.mfsp4k.top|1234567887654321",
+		"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/肥猫/spider.jar"
+        },
+        {
+            "key": "仓鼠",
+            "name": "🐹┃耗子┃APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "http://xywlkj.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2024/12/1.txt|xmyxmyxywlkjxywl",
+		"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/肥猫/spider.jar"
+        },
+        {
+            "key": "蔬菜",
+            "name": "🫛┃蔬菜┃APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725",
+		"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/肥猫/spider.jar"
+        },
+        {
+            "key": "黑猫",
+            "name": "🐼┃黑猫┃APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "http://app1-0-0.87333.cc|VwsHxkCViDXEExWa",
+		"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/肥猫/spider.jar"
+        },
+        {
+            "key": "优优",
+            "name": "💯┃优优┃APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://ios.hgyx.vip|062dec75d039980e",
+		"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/肥猫/spider.jar"
+        },
+        {
+            "key": "兔子",
+            "name": "🐇┃兔子┃APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds",
+		"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/肥猫/spider.jar"
+        },
+        {
+            "key": "永永",
+            "name": "♾️┃永永┃APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://bind.315999.xyz/89.txt|#getapp@TMD@2025|120",
+		"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/肥猫/spider.jar"
+        },
+        {
+            "key": "云云",
+            "name": "☁️┃云云┃APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "http://ys.qist.top|2SWSPFxugBLPPOKo",
+		"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/肥猫/spider.jar"
+        },
+      
+
+        {
+            "key": "csp_SP360",
+            "name": "📺┃360┃官源",
+            "type": 3,
+            "api": "csp_SP360",
+		"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/肥猫/spider.jar"
+        },
+       
+
+        {
+            "key": "csp_Dm84",
+            "name": "🤣┃动漫┃巴士",
+            "type": 3,
+            "playerType": "2",
+            "api": "csp_Dm84",
+            "ext": "https://dm84.net",
+		"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/肥猫/spider.jar"
+        },
+        {
+            "key": "丫丫",
+            "name": "🐷┃丫丫┃动漫",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "http://tv.yy-fun.cc|qkxnwkfjwpcnwycl",
+		"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/肥猫/spider.jar"
+        },
+
         
 {"key":"Sp_速优","name":"🐞速优影视","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","电影解说"]}, 
 {"key":"vod_360","name":"雷蒙影视 | 🚀360","type":1,"api":"https://360zy.com/api.php/provide/vod","categories":["国产剧","短片","动画片","香港剧","韩国剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","NBA","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","纪录片","台湾剧","大陆综艺","国产动漫","日韩动漫","西部片"]},
