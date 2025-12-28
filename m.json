@@ -25,6 +25,14 @@
                 "Cloud-drive": "http://127.0.0.1:9978/file/TVBox/Cloud-drive.txt"
             }
         },
+	{
+            "key": "config",
+            "name": "🐼┃配置┃中心",
+            "type": 3,
+            "api": "csp_Config",
+            "playerType": 2,
+		    "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/gyfandzd/tvboxtg/main/肥猫/spider.jar"
+        },
 	      {
             "key": "alllive",
             "name": "🎮一直播┃直播",
