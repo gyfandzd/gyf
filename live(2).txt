@@ -5596,246 +5596,102 @@ Zoom (Bogotà | Cundinamarca) (1080p),https://canalzoom.itex.com.co:3027/live/ca
 Ondambiantal TV (Bogotà | Cundinamarca),https://server12.videostreaming.net:3230/stream/play.m3u8
 
 俄罗斯,#genre#
-5 канал,http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
-6 ТВ Горловка,http://91.237.3.3:4022/udp/224.2.2.4:10000
-7 TV,http://v4.proofix.ru/7tv-live/tracks-v1a1/index.m3u8
-9 Волна (Черкесск),http://cdn-01.bonus-tv.ru/9volna/playlist.m3u8
 12 канал,https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
-24 Horas Internacional [Geo-blocked],https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
-43 канал (Туапсе) (720p),http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
-49 канал (Новосибирск),https://49channel.mediacdn.ru/live/cdn/49channel/playlist.m3u8
 360°,https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 360° Новости,https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-#КТОКУДА,http://camera.global-x.ru/MirUvlecheniy/index.m3u8
+КТОКУДА,http://camera.global-x.ru/MirUvlecheniy/index.m3u8
 A21 Network | Russian Motorsport Television,https://autopilot.catcast.tv/content/37909/index.m3u8
-Abaza TV,https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
 Amedia 1,http://31.148.48.15:80/A1/index.m3u8
 Amedia 2,http://31.148.48.15:80/A2/index.m3u8
-Amedia Premium,http://stream01.vnet.am/AmediaPremium/mono.m3u8
 Ani,http://31.148.48.15:80/Ani/index.m3u8
-Baby Time (576p) [Geo-blocked],https://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
 Bridge,http://31.148.48.15:80/Bridge_TV/index.m3u8
-Bridge Classic (1080p) [Geo-blocked],https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
-Bridge Deluxe (1080p) [Geo-blocked],https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
-Bridge Hits (1080p) [Geo-blocked],https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
-Bridge Rock (1080p) [Geo-blocked],https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
-Bridge Русский хит (1080p) [Geo-blocked],https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
-Bridge Шлягер (1080p) [Geo-blocked],https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
-CGTN Русский (576p),https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
-Cinema Classic,https://api.alpaca.t62a.com/hls/9114/index.m3u8
 DanceHits80,http://dancehits80.denvs.ru:8080/index.m3u8
 EWTN Africa Asia (720p),https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 EWTN Europe (720p) [Not 24/7],https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
-Fashion TV,https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
-Fox,https://stream01.vnet.am/Fox/mono.m3u8
-Groovezzo,https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/27.m3u8
-Hollywood,http://stream01.vnet.am/ParamountChannel/mono.m3u8
-KidsPlanet,https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/4.m3u8
-KidsPlanet+,https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/2.m3u8
-Kulinar TV Show,https://api.alpaca.t62a.com/hls/9110/index.m3u8
 Leomax 24 (1080p),https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
-LIVE:Мылодрама,https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/25.m3u8
-LIVE:Полицейский с Рублевки,https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/15.m3u8
-LIVE:Сваты,https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/17.m3u8
-LIVE:ХБ-ШОУ,https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/31.m3u8
-Music Box Gold (576p) [Geo-blocked],https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
-National Geographic Wild,http://stream02.vnet.am/NatGeoWild/mono.m3u8
-NevoMusic (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCkaUg9b9LplVoJdx1JwwyOg.m3u8
-Nickelodeon,http://31.148.48.15:80/Nickelodeon/index.m3u8
-Nicktoons,https://stream01.vnet.am/Boomerang/mono.m3u8
-Ocean TV,http://camera.global-x.ru/OceanTV/index.m3u8
-Quality HD,https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/6.m3u8
-Relax,http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-RTG (1080p) [Geo-blocked],https://strm.yandex.ru/kal/rtg/rtg0.m3u8
-Russian Music Box (1080p) [Geo-blocked],https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
-SCORELIVE 1 HD,https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/3.m3u8
 Shopping Live (576p) [Not 24/7],http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 Sochi 24 HD,http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 Sochi Live HD (720p) [Not 24/7],http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-SONGTV Russia (720p),https://songtv.hls.iptvdc.com/web-russia/index.m3u8
-Sunset Kids,https://stream.sunset-media.ru:443/Free/Free/4.m3u8
-Sunset Movie,https://stream.sunset-media.ru:443/Free/Free/1.m3u8
-Sunset Music,https://stream.sunset-media.ru:443/Free/Free/2.m3u8
-Sunset Space,https://stream.sunset-media.ru:443/Free/Free/3.m3u8
 TRK 555 (720p),http://trk555.tv:8888/live
 TV BRICS Russian,https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
-TVE Internacional Europe-Asia [Geo-blocked],https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
 TVM Channel,https://cdn-01.bonus-tv.ru/tvm_edge/playlist.m3u8
 TVOE TV HD,http://tvoetv.space:8080/tvoetv/index.m3u8
-UDAR (1080p) [Geo-blocked],https://strm.yandex.ru/kal/udar/udar0.m3u8
 Univer TV (1080p),https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
-Viju TV1000,http://82.209.197.187:8080/udp/239.0.100.141:1234
-viju Русское кино,http://82.209.197.187:8080/udp/239.0.100.82:1234
-like Gecko) Chrome/120.0.4044.138 Safari/537.36,https://hls.goodgame.ru/hls/180805.m3u8
-World-1,https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/7.m3u8
-Zarok TV Sorani (720p),https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 Аист ТВ,http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 Арис 24 (720p) [Not 24/7],http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 Архыз 24 (1080p),https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 Астрахань.Ru Sport (720p),https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 Астрахань.Ru TV (480p),https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
-Башкортостан 24 (Уфа),https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/index.m3u8
 Белгород 24 (1080p),https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 БелРос (576p),https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-Бокс ТВ,http://stream01.vnet.am/BoksTv/mono.m3u8
 Большая Азия,http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 БСТ 24 (Братск),http://bst.bratsk.ru/hls/bst2/index.m3u8
-Вести ФМ,https://player.smotrim.ru/iframe/stream/live_id/52035
 Ветта 24 (Пермь) (576p) [Not 24/7],http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 Вместе РФ,https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-Волга (HD),http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
 Волгоград 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 Время,http://31.148.48.15:80/Vremya/index.m3u8
 Городской телеканал (Ярославль) (576p),https://www.gtk.tv/hls/gtyar.m3u8
 Губерния (Самара) (576p),http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 Дагестан (1080p),https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
-Детский мир,http://stream01.vnet.am/CartoonNetwork/mono.m3u8
-Детское кино International,https://autopilot.catcast.tv/content/38720/index.m3u8
-Дом Кино,https://stream01.vnet.am/DomKino/mono.m3u8
-Дом Кино Премиум HD,http://31.148.48.15:80/Dom_Kino_Premium_HD/index.m3u8
-Домашний,http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
-Дума ТВ,https://dumatv.iptv2022.com/index.m3u8
 Евразия (Орск) (720p),https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 Енисей (1080p) [Not 24/7],https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 Жар Птица (404p) [Geo-blocked],http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
-ЖИВИ!,http://31.148.48.15:80/Zhivi/index.m3u8
-Загородная Жизнь,http://camera.global-x.ru/ZagorodnayaJizn/index.m3u8
 Запад 24 (Калининград),https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
 Звезда Плюс,http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
 Зоо ТВ,http://31.148.48.15:80/Zoo_TV/index.m3u8
 Известия,http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-Ингушетия ТВ,https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
-Индия,https://stream01.vnet.am/ZeeTV/mono.m3u8
 История,http://31.148.48.15:80/Istoriya/index.m3u8
 К16 (Саров) (406p) [Not 24/7],http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 Кавказ 24 (Ставрополь),https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
-Калейдоскоп ТВ,https://cdn-01.bonus-tv.ru/Kaleidoskop_edge/playlist.m3u8
-Карусель,http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
-Карусель Int,http://stream02.vnet.am/Karusel/mono.m3u8
-Кино 1 International,http://kino-1.catcast.tv/content/38617/index.m3u8
 Кино 1 International HD,http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
-КИНО-1 INTERNATIONAL,https://autopilot.catcast.tv/content/38617/index.m3u8
 Кинопоказ,http://31.148.48.15:80/Kinopokaz/index.m3u8
-Кинопремьера HD,http://stream02.vnet.am/Kinopremera/mono.m3u8
-Кнопка ТВ,https://api.alpaca.t62a.com/hls/9116/index.m3u8
 Красная линия,http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 КРИК-ТВ (Екатеринбург),http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
-Кулинар HD,https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/14.m3u8
 Курай (Уфа) (576p),https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
-Кухня ТВ HD,http://stream01.vnet.am/KukhnyaTv/mono.m3u8
-ЛДПР ТВ (1080p),http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 Легендарный 24,https://sevas.1tvcrimea.ru/legendarniy24.m3u8
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer,https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
-Ля-Минор,http://camera.global-x.ru/Lya-Minor/index.m3u8
+EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer,https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 Магнат ТВ,https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 Матур ТВ (1080p),https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 Миллет (540p) [Not 24/7],https://live.trkmillet.ru/millet/index.m3u8
 Мир 24 (1080p),http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 Мир Белагорья (720p) [Geo-blocked],http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
-Москва 24,https://player.smotrim.ru/iframe/stream/live_id/1661
 МТВ (Волгоград) (720p) [Not 24/7],http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 Муз союз (576p),https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-Муз ТВ,http://stream01.vnet.am/MuzTv/mono.m3u8
-Музыка 1 International,https://kino-1.catcast.tv/content/37745/index.m3u8
-Музыка 2 International,https://kino-1.catcast.tv/content/37742/index.m3u8
-Музыка Кино International,https://kino-1.catcast.tv/content/37739/index.m3u8
 Музыка Первого,http://31.148.48.15:80/Muzika_Pervogo/index.m3u8
 Мульт,http://stream01.vnet.am/Mult/mono.m3u8
 Надежда (720p),https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-Нано ТВ HD,http://s1.tv-nano.com/Nano_rec/index.m3u8
-Настоящее Время (720p),http://81.94.196.204/tsstreamer/CurrentTime_HD.ts
-Наука 2.0,http://stream01.vnet.am/Nauka/mono.m3u8
-Наша Сибирь (1080p) [Geo-blocked],https://strm.yandex.ru/kal/sibir/sibir0.m3u8
 НВК Саха (1080p) [Not 24/7],https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
-Небеса ТВ7 (720p),https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8
-Неизвестная Россия,https://cdn.ntv.ru/unknown_russia/playlist.m3u8
-Нижний Новгород 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-hd/index.m3u8
 Ника ТВ (576p) [Not 24/7],https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-НТВ,https://cdn.ntv.ru/ntv0/playlist.m3u8
-НТВ +1,https://cdn.ntv.ru/ntv1/playlist.m3u8
-НТВ +2,https://cdn.ntv.ru/ntv2/playlist.m3u8
-НТВ +4,https://cdn.ntv.ru/ntv4/playlist.m3u8
-НТВ +7,https://cdn.ntv.ru/ntv7/playlist.m3u8
-НТВ Мир,http://stream02.vnet.am/HTB/mono.m3u8
-НТВ Право,https://cdn.ntv.ru/th_pravo/playlist.m3u8
-НТВ Сериал,https://cdn.ntv.ru/th_serial/playlist.m3u8
-НТВ Стиль,https://cdn.ntv.ru/th_hit/playlist.m3u8
-НТВ Хит,https://cdn.ntv.ru/th_style/playlist.m3u8
 НТМ (Народное телевидение Мордовии) (720p) [Not 24/7],https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 НТС (Севастополь) (1080p) [Not 24/7],https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-Общественное Телевидение России,http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 ОСН,http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
-Первый канал,https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-Первый космический,http://stream01.vnet.am/Evrika/mono.m3u8
-Первый Музыкальный Канал HD (1080p),http://rtmp.one.by:1300
-Первый Музыкальный Канал Россия HD (1080p),http://rtmp.one.by:2300
 Первый Тульский (576p) [Not 24/7],http://5.164.24.83/tula/1tv_low/index.m3u8
 Первый Ярославский,https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/,https://streaming.goodstream.cyou/live/43.m3u8
 Поехали!,http://31.148.48.15:80/Poehali/index.m3u8
 Прима (1080p),https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 Просвещение (540p) [Geo-blocked],https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8
-Пятница,http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
-Пятница International,https://stream01.vnet.am/Pyatnica/mono.m3u8
-Радио Говорит Москва (Веб-камера) (720p),https://video.govoritmoskva.ru/rufm/index.m3u8
 Радио Хит (Орск) (720p),http://lova.me/hls/hithd.m3u8
-Радио Шансон (720p) [Not 24/7],http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 Радость моя,https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
-Ратник (1080p) [Geo-blocked],https://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
-Россия 1,http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
-Россия 24,http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/,https://streaming.goodstream.cyou/live/211.m3u8
-Россия РТР,https://streaming.televizor-24-tochka.ru/live/211.m3u8
-РТР Планета Евро,https://player.smotrim.ru/iframe/stream/live_id/4941
-РТР Планета СНГ,https://player.smotrim.ru/iframe/stream/live_id/63253
-Русский Бестселлер,http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8
-С1 (Сургут) (1080p) [Not 24/7],https://sitv.ru/hls/stv.m3u8
 Салям (Уфа) (576p),https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
-Самара 24,https://vgtrkregion.cdnvideo.ru/vgtrk/samara/regionHD/playlist.m3u8
-Санкт-Петербург,https://streamsrv2.tvspb.ru/OTT/playlist.m3u8
 Своё HD,http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
 Север (Нарьян-Мар) (1080p),https://live2.mediacdn.ru/sr1/sever/playlist.m3u8
 Сибирь 24 (Красноярск),https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 Сибирь 24 (Новосибирск),https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
-Смотрим Мелодрамы,https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
-Смотрим Тайны,https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist.m3u8
 Смотрим Частный Детектив,https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-Солнце,http://tv.mediacdn.ru/live/disney/playlist.m3u8
-Соловьев LIVE,https://player.smotrim.ru/iframe/stream/live_id/63338
 Союз (576p),https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-Старт (1080p) [Geo-blocked],https://strm.yandex.ru/kal/start/start0.m3u8
 Страна ФМ,https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
-СТРК (720p) [Not 24/7],http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
-СТС,http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
-СТС Kids,http://stream02.vnet.am/DisneyChannel/mono.m3u8
-СТС Love,http://31.148.48.15:80/STS_Love/index.m3u8
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer,https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-СургутИнформТВ,https://sitv.ru/vgtrk/stv.m3u8
 Тамыр (Уфа) (576p),https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
-ТВ3,http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
 ТВК 24 (576p),https://air.tvk6.ru/tvk24/playlist.m3u8
-Твое ТВ Юмор,http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-Телеканал 86 (Сургут) (1080p) [Not 24/7],https://sitv.ru/hls/s86.m3u8
 Телеканал Краснодар,https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-Телекафе,http://stream01.vnet.am/Telekafe/mono.m3u8
-Телплюс ТВ (Астрахань) (360p) [Not 24/7],https://streaming.astrakhan.ru/telplushd/playlist.m3u8
-Тивиком (Улан-Удэ) (1080p) [Not 24/7],http://tvcom.stream.intelema.ru/tvcom/studio/playlist.m3u8
 ТК Алмазный край (576p),https://stream.almaz-media.tv:8080/hls/576.m3u8
 ТКР (Рязань) (1080p) [Not 24/7],http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 ТНВ-Планета (Казань),https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
-ТНТ,http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 Толк HD,http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-Точка ТВ,https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
 Три Ангела (720p),https://hls.tv.3angels.ru/stream.m3u8
-Тюменское время,https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/playlist.m3u8
-Урал 24 (Челябинск),https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia1-hd/index.m3u8
-Феникс+Кино,http://82.209.197.187:8080/udp/239.0.100.101:1234
 Хузур ТВ (1080p) [Not 24/7],https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
-Царьград ТВ,https://evtccc0y6kd.a.trbcdn.net/livemaster/bzm8x_live-i5ang56kd2.smil/playlist.m3u8
-Центр (Красноярск),https://stream.tck.tv/hd.m3u8
 Щёлковское ТВ (576p) [Not 24/7],http://stream0.tv41.ru/live.m3u8
 Эхо TV (Рязань) (576p) [Not 24/7],https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-Ювелирочка ТВ (576p),https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 Югра,https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 
 白俄罗斯,#genre#
